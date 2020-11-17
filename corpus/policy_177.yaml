@@ -1,0 +1,150 @@
+policy_id: '177'
+policy_name: com.mobile.bizo.reverse
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'logo PRIVACY POLICY Bizo Mobile respects the privacy rights of its
+    customers and protects the personal information collected, stored and used in
+    connection with Bizo Mobile products, services, applications and websites (the
+    ''Services''). To further this commitment, we have adopted this Privacy Policy
+    (''Privacy Policy'') to guide how we collect, store, and use the information you
+    provide us. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'I. SCOPE OF THIS PRIVACY POLICY This Privacy Policy applies to personal
+    and anonymous information submitted and collected through the Services. By installing,
+    using, registering to or otherwise accessing the Services, you are accepting the
+    practices described in this Privacy Policy. If you do not agree to this Privacy
+    Policy, please do not install, use, register to or otherwise access the Services.
+    Bizo Mobile reserves the right to modify this Privacy Policy at reasonable times,
+    so please review it frequently. Your continued used of the Services will signify
+    your acceptance to the changes to this Privacy Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'II. INFORMATION COLLECTED 1. Usage information We collect anonymous
+    information about the way you use our Services. For example, we may collect which
+    effects/functions in the Services you use and how often you use them. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: '2. Device information We collect anonymous information about the
+    device you use. For example, phone model, version of the operating system, advertising
+    ID, mobile network information, language, wireless network. '
+  annotations:
+  - practice: Identifier_Ad_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Mobile_Carrier&1stParty
+    modality: PERFORMED
+  - practice: Identifier_SSID_BSSID&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We collect anonymous information about the device you use. For
+      example, phone model, version of the operating system, advertising ID, mobile
+      network information, language, wireless network.
+    annotations:
+    - practice: Identifier_Ad_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_Mobile_Carrier&1stParty
+      modality: PERFORMED
+    - practice: Identifier_SSID_BSSID&1stParty
+      modality: PERFORMED
+- segment_id: 5
+  segment_text: '3. Camera - Photos and Videos Our Services require us to collect
+    images and videos from your device. In order to provide you our Services we need
+    access to Photos and Videos on your devices. However these data is not collected
+    on our servers or shared to third parties, the data is stored only on your device.
+    We use them only to process as the app is intended to. '
+  annotations:
+  - practice: Multimedia&1stParty
+    modality: NOT_PERFORMED
+  sentences:
+  - sentence_text: Our Services require us to collect images and videos from your
+      device. In order to provide you our Services we need access to Photos and Videos
+      on your devices.  However these data is not collected on our servers or shared
+      to third parties, the data is stored only on your device.
+    annotations:
+    - practice: Multimedia&1stParty
+      modality: NOT_PERFORMED
+- segment_id: 6
+  segment_text: '4. Cookies We use technologies like cookies (small files stored by
+    your browser), web beacons, or unique device identifiers to anonymously identify
+    your computer or device so we can deliver a better experience. Cookies we use:
+    - Settings - we use cookies in order to store settings of our services that you
+    selected. - Analytics - we store information about how you use our app - Ad purposes
+    - we store information that helps us show relevant ads in our app '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We use technologies like cookies (small files stored by your browser),
+      web beacons, or unique device identifiers to anonymously identify your computer
+      or device so we can deliver a better experience.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+- segment_id: 7
+  segment_text: 'III. USE OF INFORMATION COLLECTED We collect information mentioned
+    in the paragraph II. in order to provide the best service in our apps. How we
+    use the information collected: 1. Analyze trends of the app usage 2. Maintain
+    and improve our products and Services 3. Ad targeting 4. Personalize the Service
+    we provide using cookies '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'IV. SHARING THE INFORMATION We share anonymous, non-personally identifiable
+    information to business partners that provide services and functionality, such
+    us analytics services and ad networks. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'We don''t share your personal data such as name, e-mail or other
+    (collected from Google Account or Facebook) to any third party. '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: NOT_PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: NOT_PERFORMED
+  sentences:
+  - sentence_text: We don't share your personal data such as name, e-mail or other
+      (collected from Google Account or Facebook) to any third party.
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: NOT_PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: NOT_PERFORMED
+- segment_id: 10
+  segment_text: 'V. Children We do not knowingly contact or collect personal information
+    from children under 13. If you believe we have inadvertently collected such information,
+    please contact us so we can promptly obtain parental consent or remove the information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: 'If you have any questions or concerns about our privacy policies,
+    please contact us: contact@bizomobile.com '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: 'VI. UPDATES This privacy policy was last updated on 17-07-2017. Our
+    privacy policy may change from time to time. If we make any material changes to
+    our policies, we will place a prominent notice on our website or application. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

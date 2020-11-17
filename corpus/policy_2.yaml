@@ -1,0 +1,383 @@
+policy_id: '2'
+policy_name: uk.co.aifactory.backgammonfree
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'AI Factory Privacy Policy (last updated 19th December 2019)  At AI
+    Factory, we build analytics into our games to help us to improve them to give
+    the user the best possible game experience. This samples anonymous non-personal
+    data that simply allows us to find out what users do and do not like. AI Factory
+    fully respects the user''s privacy and never collects information that could be
+    directly linked to the user. AI Factory also displays advertisements to fund the
+    creation of these games. This is all governed by the following privacy policy:
+    Unless explicitly given the opportunity to accept this policy inside an app, please
+    note that by using or otherwise accessing any AI Factory mobile application, you
+    are agreeing to this privacy policy. If you do not agree to this privacy policy,
+    please do not use or otherwise access our applications. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'California Consumer Privacy Act (CCPA) The California Consumer Privacy
+    Act (CCPA) is effective from 1st January 2020 and was enacted to provide California
+    consumers with greater transparency and control over their personal information.
+    AI Factory, through using ads in some of our apps, disclose limited user data
+    to ad networks in order to provide users with targeted relevant ads. Under CCPA,
+    this constitutes selling of personal information, and therefore we provide the
+    required general opt out link in our apps. Outside of disclosing this limited
+    data to ad networks, AI Factory does not sell any user personal information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: "To learn more about what limited data we disclose to ad networks,\
+    \ please view the Ad Networks section below, which also provides links to privacy\
+    \ policies of the ad networks we use. You can find the opt out link in our ad-supported\
+    \ apps by clicking on the \u201CPrivacy & Ads\u201D link on the bottom right of\
+    \ the intro screen of each app, and then clicking on the \u201CCalifornia Consumer\
+    \ Privacy Act\u201D button. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'GDPR The General Data Protection Regulation (GDPR) is effective from
+    25th May 2018. It is designed to strengthen rights to privacy and make sure that
+    all companies deal with all personal data covered by GDPR according to EU and
+    UK laws. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'This Privacy Policy will show what information we collect, why and
+    what it is used for. We store data securely.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'Anonymous Data AI Factory may collect and use anonymous data, via
+    Google Analytics (and Google Analytics for Firebase). We cannot identify you from
+    this data. The data is pooled to give us general statistics on our audience and
+    usage of our apps.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: "Google Analytics collects an app-instance identifier \u2014 a randomly\
+    \ generated number that identifies a unique installation of an App. Whenever a\
+    \ user resets their Advertising Identifier (Advertising ID on Android, and ID\
+    \ for Advertisers on iOS), the app-instance identifier is also reset.  "
+  annotations:
+  - practice: Identifier&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  - practice: Identifier_Ad_ID&1stParty&Advertisement_Marketing
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "Google Analytics collects an app-instance identifier \u2014 a\
+      \ randomly generated number that identifies a unique installation of an App."
+    annotations:
+    - practice: Identifier&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+  - sentence_text: Whenever a user resets their Advertising Identifier (Advertising
+      ID on Android, and ID for Advertisers on iOS), the app-instance identifier is
+      also reset.
+    annotations:
+    - practice: Identifier_Ad_ID&1stParty&Advertisement_Marketing
+      modality: PERFORMED
+- segment_id: 8
+  segment_text: 'A link to Google''s privacy policy is near the bottom of this page.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'For example, Google Analytics automatically samples a user''s country
+    and city, chosen device language, device model and make, screen resolution, app
+    version being used, operating system version, mobile phone network. This pooled
+    data provides statistics that can help us determine, for example, where our apps
+    are being most commonly used, and on which devices. This can help us determine
+    how to update our apps going forward.  '
+  annotations:
+  - practice: Contact_City&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: For example, Google Analytics automatically samples a user's country
+      and city, chosen device language, device model and make, screen resolution,
+      app version being used, operating system version, mobile phone network.
+    annotations:
+    - practice: Contact_City&1stParty
+      modality: PERFORMED
+- segment_id: 10
+  segment_text: "Google Analytics also automatically collects data including app sessions\
+    \ numbers, session lengths, screen visits, flow from screen to screen, and app\
+    \ acquisition data (where a user came from to install an app). Alongside data\
+    \ that is automatically collected by Google Analytics, we also collect our own\
+    \ anonymous data on our app usage through Google Analytics. This includes game\
+    \ settings chosen, game results and other general UI events. Taken together, this\
+    \ data allows us to improve our apps in many ways. For example, if a high proportion\
+    \ of users can\u2019t beat level 1 in our game, we need to make it easier.  Such\
+    \ data can also help us improve artwork in the game (by knowing what styles are\
+    \ most popular), or help us determine default option settings. We also collect\
+    \ data on which of our apps are installed, so that we have a better idea of which\
+    \ apps might be popular with users of another of our apps. We also track the effectiveness\
+    \ of our in-app cross promotions (promoting our own other apps).  "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: 'We plan to provide an opt-out option in our apps for collection of
+    this anonymous data soon.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: 'Apps of ours that also contain the Facebook SDK will provide us with
+    just anonymous pooled data from Facebook about users accessing the apps, such
+    as their country, city, language, gender and age, along with data about how the
+    Facebook components in the app have been used. It does not access any of the other
+    user behaviour or broader personal data that Facebook can collect. We cannot access
+    any information about a user''s Facebook account as our apps do not login into
+    Facebook. Some older versions of our apps with the Facebook share button on the
+    intro screen have the Facebook SDK but latest versions of our apps (with Facebook
+    icon linking to their site or no Facebook icon at all) have no Facebook SDK.  '
+  annotations:
+  - practice: Contact_City&1stParty
+    modality: PERFORMED
+  - practice: Demographic_Age&1stParty
+    modality: PERFORMED
+  - practice: Demographic_Gender&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Apps of ours that also contain the Facebook SDK will provide us
+      with just anonymous pooled data from Facebook about users accessing the apps,
+      such as their country, city, language, gender and age, along with data about
+      how the Facebook components in the app have been used.
+    annotations:
+    - practice: Contact_City&1stParty
+      modality: PERFORMED
+    - practice: Demographic_Age&1stParty
+      modality: PERFORMED
+    - practice: Demographic_Gender&1stParty
+      modality: PERFORMED
+- segment_id: 13
+  segment_text: 'None of this collected data can be linked to any individual, and
+    it is pooled to provide us with general usage and audience statistics. AI Factory
+    reserves the right to use the collected anonymous data ourselves or disclose it
+    to our partners.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: 'Emailed Personal Information Any personal information sent to us
+    by email will be stored by our email systems. Your email address will be used
+    to respond to your email and we may also ask if you would like to be a beta tester
+    for one of our apps.  '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Your email address will be used to respond to your email and we
+      may also ask if you would like to be a beta tester for one of our apps.
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+- segment_id: 15
+  segment_text: 'We won''t ask for any personal information that we don''t need.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'If you have subscribed to our newsletter, we will hold your details
+    and email newsletters to you a few times a year.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: 'If you no longer wish to receive our newsletter you can unsubscribe
+    at any time using the link in any of our newsletters or otherwise sending an email
+    to let us know.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'Any data that we do collect will be kept securely in accordance with
+    the current and new data regulations.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'Your Access to Your Information It is your right to access information
+    held about you. GDPR means we have to provide you with a copy of all requested
+    personal data AI Factory hold about you within 30 days of receiving your request.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'If the data AI Factory hold on you is incorrect, you have the right
+    to correct this. You also have the right to ''erasure'' so if you don''t want
+    AI Factory to have any of your information, we will remove any personal information
+    AI Factory hold on you.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'Children''s Online Privacy Protection Act (COPPA) AI Factory complies
+    with the Children''s Online Privacy Protection Act (COPPA) in the U.S. and does
+    not knowingly collect personal information about children. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: 'Personal Information and Third Parties We keep sales data from third
+    parties including Google Play, iTunes and Amazon to review sales and provide refunds.
+    We don''t share your personal information with third parties except where necessary
+    to provide the service you are requesting or where we are legally obliged.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: 'Third Party Terms and Conditions Please note that certain third parties,
+    including but not limited to application stores, may be needed in order for you
+    to access our mobile applications. These third parties have their own privacy
+    policies which AI Factory cannot control.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: 'Links to Third Party Sites or Games Our mobile applications are supported
+    by advertisements, which provide access to third party sites or apps.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: 'Our mobile applications may provide access to third party social
+    networking, communication and search features.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: 'Please be aware that, if you use any of these links you will leave
+    our app and the page you go to will not be governed by our privacy policy. We
+    cannot be responsible for the privacy of any information you provide whilst outside
+    of our app.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: 'These third party sites or apps are not affiliated with or controlled
+    by AI Factory. AI Factory are not responsible for their content or for the use
+    of any information you may provide them. Our links to these sites or apps does
+    not constitute our sponsorship of, or affiliation with, those sites or apps or
+    the people or companies responsible for them.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: 'Updates to this Policy We may revise our privacy policy from time
+    to time. When we do, those changes will be reflected here (as accessed via our
+    app pages on the relevant application store). Any significant change we make to
+    data usage will be drawn to your attention via our apps. We encourage you to review
+    this privacy policy from time to time. Your continued use of our applications
+    will signify your acceptance of the changes to this privacy policy.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: 'Ad Networks Advertising in our apps is provided by a number of third
+    party ad networks. If GDPR applies to you, ads in our apps will default to being
+    non-personalised but you may be prompted to opt in to personalised ads. Ad networks
+    who provide adverts to our mobile applications may access identifiers assigned
+    to your device, such as Google Advertising ID, or unique device identifiers (none
+    of these IDs allow you to be identified as a person).  '
+  annotations:
+  - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Identifier_Device_ID&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Ad networks who provide adverts to our mobile applications may
+      access identifiers assigned to your device, such as Google Advertising ID, or
+      unique device identifiers (none of these IDs allow you to be identified as a
+      person).
+    annotations:
+    - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Identifier_Device_ID&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+- segment_id: 30
+  segment_text: 'Opting out of Personalised ads  You can opt in or out of personalised
+    ads at any time by visiting;  Android devices:  Settings>Google>Ads>Opt out of
+    ads personalisation  or  Android>Google Settings>Ads>Opt out of ads personalisation
+    Amazon devices:  Settings>Security & Privacy>Advertising ID, then turn off ''Interest-based
+    Ads''. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 31
+  segment_text: "On iOS, you may withdraw your consent by enabling the \u201CLimit\
+    \ Ad Tracking\u201D setting.  "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 32
+  segment_text: 'If you opt out, you will still see ads, but they will not be personalised
+    for you.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: 'AI Factory choose to only provide ad networks with a minimal set
+    of application permissions required for these ads to function. We only use ad
+    networks that take their GDPR and CCPA obligations seriously and have implemented
+    steps needed to support GDPR and CPPA compliance. Each of their own privacy policies
+    are listed below.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: 'http://www.google.com/intl/en/policies/privacy/partners/  https://www.google.co.uk/intl/en-GB/policies/privacy/  https://policies.oath.com/xw/en/oath/privacy/intl/index.html  http://www.mopub.com/legal/privacy/  https://answers.chartboost.com/en-us/articles/200780269  https://www.applovin.com/privacy  http://www.inmobi.com/privacy-policy/  https://www.smaato.com/privacy/  http://vungle.com/privacy/  https://www.adcolony.com/privacy-policy/  https://unity3d.com/legal/privacy-policy  http://www.ironsrc.com/wp-content/uploads/2019/03/ironSource-Privacy-Policy.pdf  https://drive.google.com/drive/folders/1o7pLG7B4wngSZetw5X9cht1zkQzENJ_j
+    [AddApptr privacy policy documents]  Amazon  https://www.appnexus.com/platform-privacy-policy  https://www.criteo.com/privacy/  Facebook
+    Advertising Network  https://www.fyber.com/privacy-policy/  https://www.indexexchange.com/privacy/  https://www.inloco.com.br/pt/privacy-policy  https://loopme.com/privacy-policy/  https://www.ogury.com/privacy-policy/  https://www.openx.com/legal/privacy-policy/  https://www.ovh.com/ca/en/support/privacy-policy.xml  https://pubmatic.com/legal/privacy-policy/  RevMob  https://rubiconproject.com/privacy-policy/  https://smartadserver.com/end-user-privacy-policy/  http://www.smartclip.com/privacy-policy  https://www.spotx.tv/privacy-policy/  https://yandex.com/legal/confidential/  Please
+    be aware that any information provided as a result of your interaction with these
+    ads will not be governed by our privacy policy. Ads may redirect you away from
+    our app, and our privacy policy will no longer apply outside of our app. We cannot
+    be responsible for the privacy of any information you provide whilst outside of
+    our app, or any information provided to any of these third parties.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: 'Contact Please feel free to contact us at enquiries@aifactory.co.uk
+    with any queries or ideas about our Privacy Policy.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

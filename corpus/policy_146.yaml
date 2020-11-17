@@ -1,0 +1,1070 @@
+policy_id: '146'
+policy_name: com.bubadu.doctorkids
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'Bubadu Privacy Policy WE RESPECT YOUR PRIVACY If you have any privacy
+    related concerns, please contact us at: support(at)bubadu.com.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: "Bubadu d.o.o is a company registered in Slovenia, with registration\
+    \ number 7117060000 and address at this date at Bra\u010Di\u010Deva ulica 21,\
+    \ 1380 Cerknica, Slovenia, EU (\u2018\u2019Bubadu\u2019\u2019, \u2018\u2019We\u2019\
+    \u2019), who offers entertaining mobile applications (\u2018\u2019App/s\u2019\u2019\
+    ). This privacy statement describes how Bubadu collects and uses the information\
+    \ and/or data (the terms are used interchangeably) you provide. It also describes\
+    \ the choices available to you regarding our use of your information and how you\
+    \ can access the information. We respect your privacy and we take protecting it\
+    \ seriously. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: "GDPR STATEMENT We have changed our data processing practices to comply\
+    \ with the Regulation (EU) 2016/679 (EU GDPR) by following the data minimisation\
+    \ principle and anonymising, pseudonymising or deleting personal data where feasible.\
+    \ When using our services the advertising identifier will be anonymised by encryption\
+    \ in a way that we won\u2019t be able to decrypt it without your help. This means\
+    \ that we will only store these personally identifiable data: a) analytics identifier\
+    \ used for the purposes of internal analytics and b) IP address on third party\
+    \ webservers for security reasons to help us detect and prevent fraudulent activity\
+    \ and to get country information needed for cross promo ads. We will still need\
+    \ to enable our Advertising Providers to collect your advertising identifier,\
+    \ IP address and other data to show you ads. We have executed Data Processing\
+    \ Agreements with such partners to make sure your data is safe. Your can opt out\
+    \ of advertising at any time by following instructions in Right To Object Section\
+    \ of this GDPR Statement. Should you not want Third Party Providers (Apple, Google,\
+    \ FB ) to use your data for the functionalities within the App, please do not\
+    \ log in or use their services. Some of the Third Party Providers store or transfer\
+    \ data outside EEA. "
+  annotations:
+  - practice: Identifier_Ad_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "When using our services the advertising identifier will be anonymised\
+      \ by encryption in a way that we won\u2019t be able to decrypt it without your\
+      \ help."
+    annotations:
+    - practice: Identifier_Ad_ID&1stParty
+      modality: PERFORMED
+  - sentence_text: 'This means that we will only store these personally identifiable
+      data: a) analytics identifier used for the purposes of internal analytics and
+      b) IP address on third party webservers for security reasons to help us detect
+      and prevent fraudulent activity and to get country information needed for cross
+      promo ads. '
+    annotations:
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+  - sentence_text: We will still need to enable our Advertising Providers to collect
+      your advertising identifier, IP address and other data to show you ads.
+    annotations:
+    - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+  - sentence_text: Some of the Third Party Providers store or transfer data outside
+      EEA.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 4
+  segment_text: 'Personal Information Processing You can use our Apps in two ways.
+    By using the free version, we will anonymise personally identifiable information,
+    but still enable the transfer of your advertising identifier, IP address and other
+    data to our Advertising Providers and Analytics Providers. We will show you only
+    contextual ads and we do not allow any profiling or behavioural ads. Our free
+    App versions already include the minimal possible data collection and processing,
+    so we are confident you will feel comfortable sharing your data with us. By voluntarily
+    signing into Third Party Providers functionalities within our App, you allow the
+    usage of your data to such third parties (FB, Game Centre, in-app purchase providers). '
+  annotations:
+  - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'By using the free version, we will anonymise personally identifiable
+      information, but still enable the transfer of your advertising identifier, IP
+      address and other data to our Advertising Providers and Analytics Providers. '
+    annotations:
+    - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+- segment_id: 5
+  segment_text: "Right to object and to restriction of processing Because we process\
+    \ your data on legitimate interests basis, you have the right to object to our\
+    \ processing as well as the right to restriction on processing namely the marking\
+    \ of stored personal data with the aim of limiting their processing in the future.\
+    \ We have limited the amount of personal data we collect to advertising identifier\
+    \ and IP address and anonymise/pseudonymise our processing where feasible. When\
+    \ you use our free App version, we process your data only for analytics to improve\
+    \ our services and to display ads. You have the right to object to data processing\
+    \ for advertising and analytical services by choosing these options \u2018\u2019\
+    Remove Ads\u2019\u2019 or \u2018\u2019Buy Full Version\u2019\u2019 available within\
+    \ the App (as button on homepage) or in the app store. When you choose this option\
+    \ we disable any future advertising and analytics and stop sharing and using your\
+    \ data for these purposes. You will still be shown cross-promo ads, namely ads\
+    \ for our services within our Apps, which means that your encrypted advertising\
+    \ identifier will only be used for this type of advertising without involving\
+    \ any third parties. We will use your country data to show appropriate cross promo\
+    \ ads, but we won\u2019t store it for more than three (3) days. Your IP address\
+    \ will be processed on third party web servers and shall be used for security\
+    \ reasons only. Your data will be automatically deleted from our logs within one\
+    \ (1) month and from backup logs within two (2) months. Should you want to object\
+    \ to Third Party Providers functionalities data collection within our App, stop\
+    \ using these functionalities, namely FB and Game Center or opt out of notifications\
+    \ within the settings of your mobile device and request deletion of data by contacting\
+    \ us or such providers. Should you not feel comfortable with this lighter version\
+    \ of your data processing, you have the right to object to us using your data\
+    \ by sending an email to support(at)bubadu.com or exercise your right to erasure.\
+    \  "
+  annotations:
+  - practice: Identifier_Ad_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&3rdParty&Support_Development
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We have limited the amount of personal data we collect to advertising
+      identifier and IP address and anonymise/pseudonymise our processing where feasible.
+    annotations:
+    - practice: Identifier_Ad_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+  - sentence_text: You will still be shown cross-promo ads, namely ads for our services
+      within our Apps, which means that your encrypted advertising identifier will
+      only be used for this type of advertising without involving any third parties.
+    annotations:
+    - practice: Identifier_Ad_ID&1stParty
+      modality: PERFORMED
+  - sentence_text: 'Your IP address will be processed on third party web servers and
+      shall be used for security reasons only. '
+    annotations:
+    - practice: Identifier_IP_Address&3rdParty&Support_Development
+      modality: PERFORMED
+- segment_id: 6
+  segment_text: 'Right to data portability, copy and rectification We are processing
+    your data on legitimate interests basis and have limited the amount of data we
+    collect to advertising identifiers and IP address which is already available to
+    you on the operating system within your mobile device. For these reasons, we are
+    not able to offer the exercise of these rights. Should you have any concerns about
+    exercising these rights, please contact us and we will revaluate our decision.  '
+  annotations:
+  - practice: Identifier_Device_ID&1stParty
+    modality: PERFORMED
+  - practice: Location_IP_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We are processing your data on legitimate interests basis and have
+      limited the amount of data we collect to advertising identifiers and IP address
+      which is already available to you on the operating system within your mobile
+      device.
+    annotations:
+    - practice: Identifier_Device_ID&1stParty
+      modality: PERFORMED
+    - practice: Location_IP_Address&1stParty
+      modality: PERFORMED
+- segment_id: 7
+  segment_text: 'Right to erasure Should you wish to terminate our services and request
+    the deletion of all data, please send us an email to: support(at)bubadu.com and
+    add your advertising identifier number. The logs with your data will be deleted
+    within one (1) month and backup logs within two (2) months. We will also ask our
+    Providers to delete the data they may have. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: "Purpose and legal basis for data processing We process your data\
+    \ by conducting internal analytics to improve our service, to display contextual\
+    \ ads and for security reasons. We have adhered to the data minimisation principle\
+    \ and we only collect the data we need for our processing purposes. We anonymize\
+    \ and/or pseudonymise the data on our end. We use your data in a way you would\
+    \ reasonably expect, as our services are free and our data processing has minimal\
+    \ impact on your privacy. For these reasons we are relaying on legitimate interests\
+    \ of contextual advertising and internal analytics as the legal basis for our\
+    \ data processing. We also enable you to use our services in a way that your data\
+    \ will be anonymised and shall not be used for analytics and advertising, please\
+    \ see \u2018\u2019Right to delete\u2019\u2019 Section of this GDPR Statement.\
+    \ As a best practice, you will be informed about the legitimate interests data\
+    \ processing and your right to object with a notice in the form of a pop up banner. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: "Data Protection officer - DPO Should you have any data processing\
+    \ or privacy related questions, please contact our DPO, Primo\u017E Furlan by\
+    \ sending an email to: support(at)bubadu.com (subject 'DPO''). Should you have\
+    \ any concerns or compaints our DPO is not able to solve, you have the right to\
+    \ lodge a complaint with a supervisory authority, Informacijski poobla\u0161\u010D\
+    enec, Zalo\u0161ka cesta 59, 1000 Ljubljana, Slovenija by sending an email to\
+    \ [email protected] COLLECTION OF INFORMATION In order for you to be able to use\
+    \ our App, we need to collect some Information. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: "Non-personal Information We and our Providers collect anonymous information\
+    \ by which users cannot be directly or indirectly identified (\u2018\u2019Non-Personal\
+    \ Information\u2019\u2019). Non-Personal Information may include various technical\
+    \ information, such as information about your device, your browser type, screen\
+    \ resolution, device type, language, version and type of operating system, mobile\
+    \ phone carrier, network provider, network status, SDK version, browser cookies,\
+    \ API key, application version, Android or iOS Vendor, Flash version, geo location\
+    \ (not specific enough to identify a city or town), storage size, screen size,\
+    \ firmware, aggregated data log files from servers, session information, levels\
+    \ achieved, in-app purchases, advertisement response (including clicks on ads,\
+    \ if it originated a follow-up action to a third party e.g, \u201Cconversion\u201D\
+    \ event), which advertisements are shown, the date and time a particular ad is\
+    \ served, angle view, information about the advertisements reviewed by the user. "
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  - practice: Location&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: " Non-Personal Information may include various technical information,\
+      \ such as information about your device, your browser type, screen resolution,\
+      \ device type, language, version and type of operating system, mobile phone\
+      \ carrier, network provider, network status, SDK version, browser cookies, API\
+      \ key, application version, Android or iOS Vendor, Flash version, geo location\
+      \ (not specific enough to identify a city or town), storage size, screen size,\
+      \ firmware, aggregated data log files from servers, session information, levels\
+      \ achieved, in-app purchases, advertisement response (including clicks on ads,\
+      \ if it originated a follow-up action to a third party e.g, \u201Cconversion\u201D\
+      \ event), which advertisements are shown, the date and time a particular ad\
+      \ is served, angle view, information about the advertisements reviewed by the\
+      \ user."
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+    - practice: Location&1stParty
+      modality: PERFORMED
+- segment_id: 11
+  segment_text: "Personal Information We collect and we allow our Providers to collect\
+    \ some of these personal information through which you can be indirectly identified,\
+    \ such as: IP address, advertising identifier (IDFAs - iOS, IDFVs, Advertising\
+    \ ID - Android), geo-location data (specific enough to identify a town and state),\
+    \ raw data log files on servers (IP address, date, time, requests, state etc.),\
+    \ cookies, pixels, the activities of the user in our App (characteristics obtained\
+    \ by your use, such as data about Apps you used, any actions or movements within\
+    \ the Apps, date and time, response times, download errors, length of visits,\
+    \ interaction information such as scrolling, clicks, and mouse-overs, what tools\
+    \ in the Apps the user uses, user\u2019s interaction with the service and user\u2019\
+    s behaviour on the service), player identifier string when using game center and\
+    \ push tokens (\u2018\u2019Personal Information\u2019\u2019). Our Advertising\
+    \ Providers collect data regarding advertisement performance, user\u2019s interaction\
+    \ with ads, our Apps and user\u2019s interests. The Information is used only for\
+    \ limited purposes as stated in Section \u2018\u2019Usage of Information\u2019\
+    \u2019 taking into account the limitations regarding collection and usage of certain\
+    \ Information in Section \u2018\u2019Children\u2019s Information Collection\u2019\
+    \u2019. Non-personal Information and Personal Information is commonly referred\
+    \ to as the \u2018\u2019Information\u2019\u2019. "
+  annotations:
+  - practice: Identifier_Ad_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  - practice: Location&1stParty
+    modality: PERFORMED
+  - practice: Location_Cell_Tower&1stParty
+    modality: PERFORMED
+  - practice: Location_IP_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "We collect and we allow our Providers to collect some of these\
+      \ personal information through which you can be indirectly identified, such\
+      \ as: IP address, advertising identifier (IDFAs - iOS, IDFVs, Advertising ID\
+      \ - Android), geo-location data (specific enough to identify a town and state),\
+      \ raw data log files on servers (IP address, date, time, requests, state etc.),\
+      \ cookies, pixels, the activities of the user in our App (characteristics obtained\
+      \ by your use, such as data about Apps you used, any actions or movements within\
+      \ the Apps, date and time, response times, download errors, length of visits,\
+      \ interaction information such as scrolling, clicks, and mouse-overs, what tools\
+      \ in the Apps the user uses, user\u2019s interaction with the service and user\u2019\
+      s behaviour on the service), player identifier string when using game center\
+      \ and push tokens (\u2018\u2019Personal Information\u2019\u2019)."
+    annotations:
+    - practice: Identifier_Ad_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+    - practice: Location&1stParty
+      modality: PERFORMED
+    - practice: Location_Cell_Tower&1stParty
+      modality: PERFORMED
+    - practice: Location_IP_Address&1stParty
+      modality: PERFORMED
+- segment_id: 12
+  segment_text: "CHILDREN\u2019S INFORMATION COLLECTION We pride ourselves on offering\
+    \ entertaining Apps for family audience of all ages. Because we want your child\
+    \ to use our Apps in a safe environment, we have limited the collection and usage\
+    \ of Information for all our Apps. We limit our Advertising Providers to show\
+    \ you only contextual ads and they are prohibited from conducting behavioral advertising,\
+    \ profiling or contacting you in any other way. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: "Kids Privacy Assured by PRIVO: COPPA Safe Harbor Certification Bubadu\
+    \ d.o.o. is a member of the PRIVO Kids Privacy Assured COPPA Safe Harbor Certification\
+    \ Program (\u201Cthe Program\u201D). The Program certification applies to the\
+    \ digital properties listed on the validation page that is viewable by clicking\
+    \ on the PRIVO seal. PRIVO is an independent, third-party organization committed\
+    \ to safeguarding children's personal information collected online. The PRIVO\
+    \ COPPA certification seal posted on this page indicates Bubadu d.o.o. has established\
+    \ COPPA compliant privacy practices and has agreed to submit to PRIVO\u2019s oversight\
+    \ and consumer dispute resolution process. If you have questions or concerns about\
+    \ our privacy practices, please contact us at +386 1 7096 060 or [email protected]\
+    \ If you have further concerns after you have contacted us, you can contact PRIVO\
+    \ directly at [email protected]    USAGE OF INFORMATION  We use the Information\
+    \ we collect with the help of our Analytics Providers to constantly improve our\
+    \ Apps and make them better for you, as well as to display advertisements with\
+    \ our Advertising Providers which enables us to offer some of our apps to you\
+    \ for free. We chose our Providers carefully and request their compliance with\
+    \ valid legislation. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: 'We and our Analytics Providers use the Non-Personal Information to
+    understand and optimize how our Apps are used, improve our marketing efforts,
+    provide our content and features that are of interest to you, for statistics,
+    analytics, research and development in order to continuously improve our apps
+    and make them better for you. This includes correcting technical malfunctions,
+    customization, providing better and improved content, developing new offers, measuring
+    traffic and usage of our apps, promoting the apps and improving the user experience.
+    We use aggregated and anonymized data log files and the activities of the user
+    within our apps for internal analytics to improve our Apps. We also use your Information
+    to permit certain functionalities available within the apps (such as in-app purchases),
+    permit you to use the Game Center Features and send you local notifications to
+    your device. We will only use local notifications to remind you about your activities
+    within the App. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: "In order to offer some of our Apps for free, we need to use the Information\
+    \ to display advertisements (banners, interstitials) with the help of our Advertising\
+    \ Providers. The Apps include third parties\u2019 SDK\u2019s to collect the Information\
+    \ needed to display advertisements. The Information is used for ad serving features\
+    \ such as frequency capping (so that you are not displayed with the same ad twice\
+    \ etc.) and ad mediation. The Information may be stored on the user\u2019s device\
+    \ through generally accepted industry technologies used within our apps (such\
+    \ as cookies, local storage). Our Advertising Providers may use cookies and other\
+    \ web-tracking technologies to collect Non-personal Information in case the user\
+    \ clicks on any of their advertisements. Furthermore, Bubadu may advertise other\
+    \ Bubadu apps within its apps. "
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "The Apps include third parties\u2019 SDK\u2019s to collect the\
+      \ Information needed to display advertisements. The Information is used for\
+      \ ad serving features such as frequency capping (so that you are not displayed\
+      \ with the same ad twice etc.) and ad mediation. The Information may be stored\
+      \ on the user\u2019s device through generally accepted industry technologies\
+      \ used within our apps (such as cookies, local storage)."
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+- segment_id: 16
+  segment_text: 'Our Advertising Providers are allowed to use the Information to provide
+    contextual advertisements, conduct ad mediation, for support for internal operations
+    and on an anonymized basis to improve their products by conducting research and
+    analysis with the use of aggregated advertising information to understand and
+    optimize how the advertisements are used. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: 'We select Advertising Providers attentively to maintain compliance
+    with applicable privacy laws hence we only allow the display of contextual advertisements
+    to Apps that are child directed or mixed audience. Furthermore, we flag persistent
+    identifiers used in child directed or mixed audience apps in order to ensure our
+    Advertising Providers are able to comply with child protection legislation namely
+    COPPA restrictions in the US territory, meaning they are allowed to use Personal
+    Information solely for the purposes of internal operations and contextual advertising
+    but are prohibited from contacting a user, including through behavioral advertising;
+    to amass a profile on a user; or use the Information for any other purpose. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'We use Google Analytics and Google Firebase to collect the Information
+    in order to analyze and improve our Apps. Collected Information will only be used
+    for support for internal operations namely to maintain or analyze the functioning
+    of the App, perform network communications, authenticate users in, or personalize
+    the content in the App, protect the security or integrity of the user or App and
+    ensure legal or regulatory compliance. We collect local notification tokens in
+    order for us to be able to determine whether you are subscribed to notifications.
+    When you decide to unsubscribe from local notifications, such local notification
+    tokens will be deleted from our database. We have implemented the following Google
+    Analytics for Firebase Features: Crash Reporting and Events. We use Cookies as
+    stated throughout this Privacy Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: "We use third party Webserver Providers, namely CloudFlare to store\
+    \ your IP address for the purposes of security. Please see Section \u2018\u2019\
+    Webserver Providers\u2019\u2019 for more info on how they use your data.  "
+  annotations:
+  - practice: Identifier_IP_Address&3rdParty&Support_Development
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We use third party Webserver Providers, namely CloudFlare to store
+      your IP address for the purposes of security.
+    annotations:
+    - practice: Identifier_IP_Address&3rdParty&Support_Development
+      modality: PERFORMED
+- segment_id: 20
+  segment_text: 'SHARING OF INFORMATION Sometimes we need to disclose the Information
+    for other lawful purposes, as customary for all App developers.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: "Apart from sharing the Information with our Analytics and Advertising\
+    \ Providers (together with Third Party Services Providers as defined in Section\
+    \ \u2018\u2019Our Providers\u2019\u2019 referred to as the \u2018\u2019Providers\u2019\
+    \u2019) as stated in Section \u2018\u2019Usage of Information\u2019\u2019 we may\
+    \ also disclose Information in the following cases: if required by law, for example\
+    \ to comply with a court order, subpoena, regulation, legal process or other governmental\
+    \ request; "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: 'to exercise or protect the rights, property or personal safety of
+    the Company, our users or others; '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: 'to enforce this privacy statement, including investigation of potential
+    violations thereof; '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: 'upon fulfilling legal requirements of local legislation (for example
+    verifiable parental consent of a legal guardian for child directed apps in the
+    US etc.) in order to supply certain services/information third party might legally
+    request from us to detect, prevent, or otherwise address fraud, security or technical
+    issues; '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: 'if Bubadu is involved in a merger, acquisition, or sale of all or
+    a portion of its assets, you will be notified of any change in ownership or uses
+    of your information via our website; to respond to claims that any content published
+    on the Bubadu Apps violates any right of a third party '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: 'OUR PROVIDERS We cannot provide all services necessary for the successful
+    operation of our Apps by ourselves. We therefore enable our Providers to collect
+    some information from you. When using the Third Party Services, you adhere to
+    their data processing practices, as defined in their Privacy Policies available
+    below. We encourage you to read the Privacy Policies before using such services.
+    We strive to obligate our Advertising and Analytics Providers to comply with this
+    Privacy Policy, but we cannot provide any guarantee on their behalf. We have entered
+    into Data Processing Agreements with our Providers to make sure your data is safe. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: "We adhere to the generally accepted industry practices regarding\
+    \ the collection and the usage of information by our Providers and strive to limit\
+    \ their usage to the services they provide for us. You recognize and agree that\
+    \ Bubadu is not liable for the Third Party Service Provider\u2019s terms and conditions\
+    \ and their use of your Information. If you for example click on the ad within\
+    \ our App and get redirected to third party site, your data processing will be\
+    \ governed by such third party provider\u2019s terms and privacy policy. For more\
+    \ information on the Provider\u2019s Information processing practices, please\
+    \ read their privacy policies. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: 'Third Party Service Providers Google Wallet: If you choose to use
+    Google Checkout to finalize and pay for your order, you will provide your credit
+    card number directly to Google Checkout. Google''s Privacy Policy will apply to
+    the information you provide to the Google Checkout web site. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: 'https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=buyertos&ldr=US  https://payments.google.com/payments/apis-
+    secure/u/0/get_legal_document?ldo=0&ldt=privacynotice  Apple AppStore: If you
+    choose to use AppStore to finalize and pay for your order, you will provide your
+    credit card number directly to Apple. Apple''s Privacy Policy will apply to the
+    information you provide to Apple. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 30
+  segment_text: 'http://www.apple.com/legal/internet-services/itunes/us/terms.html  http://www.apple.com/legal/privacy/  Windows
+    AppStore: If you choose to use AppStore to finalize and pay for your order, you
+    will provide your credit card number, directly to Microsoft. Microsoft''s Privacy
+    Policy will apply to the information you provide to Microsoft. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 31
+  segment_text: 'https://www.microsoft.com/en-us/servicesagreement/ https://privacy.microsoft.com/en-us/privacystatement  Amazon:
+    If you choose to use Amazon to finalize and pay for your order, you will provide
+    your credit card number directly to Amazon. Amazon''s Privacy Policy will apply
+    to the information you provide to Amazon. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 32
+  segment_text: "https://payments.amazon.com/help/201212430  https://payments.amazon.com/help/201751600\
+    \  Game Center feature and interaction with third party social networks or platforms:\
+    \ Bubadu may allow for social integration with certain third party social networks\
+    \ or platforms (Apple Game Center, Google Play Games and Game Center, Amazon GameCircle,\
+    \ etc.). If you use an App in connection to a social networking site, Bubadu cannot\
+    \ control it. If you enable this integration with such social networks and platforms,\
+    \ your use of the Game Center Feature is subject to the applicable third party\
+    \ social network\u2019s or platform\u2019s Terms of Use and Privacy Policies.\
+    \ If you are using one of our child directed Apps or mixed audience Apps and you\
+    \ are under the age of 13, you will not be able to access these features in certain\
+    \ territories (such as but not limited to the US) as requested by valid legislation. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: "http://www.apple.com/legal/internet-services/gamecenter/  http://www.apple.com/legal/privacy/\
+    \  https://play.google.com/intl/en_in/about/play-terms.html  https://www.google.com/policies/privacy/\
+    \  https://www.amazon.com/gp/help/customer/display.html?nodeId=201487670  https://www.amazon.com/gp/help/customer/display.html?nodeId=468496\
+    \  In-App purchases: Our Apps enable in-app purchases. In order to make a purchase\
+    \ from us, you must use our third party checkout options to finalize and pay for\
+    \ your order. In-app purchases may be made only upon entering the app store password\
+    \ and you are responsible for maintaining the security of such password. Your\
+    \ authentication and security maintaining is subject to specific terms of the\
+    \ app store and the OS of your mobile device. You should be aware of the iOS\u2019\
+    \ 15-minute and Android\u2019s 30-minute window after the downloading of an Application,\
+    \ during which in-app purchases may be made without inserting an in-app store\
+    \ password. You should also take into account that OS 2.1 or older versions of\
+    \ Android mobile phones do not require entering of the app store account password\
+    \ to carry out in-app purchases.  "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: "Third Party Sites: Our Apps may contain links to third party websites,\
+    \ products, or services. For example, the Apps may feature offers from third party\
+    \ advertisers or the ability to engage in transactions with such entities. Please\
+    \ note that while using such third party offerings, you are using sites, products,\
+    \ and services developed and administered by people or companies not affiliated\
+    \ with or controlled by us. We are not responsible for the actions of those people\
+    \ or companies, the content of their sites, products or services, the use of information\
+    \ you provide to them, or any products or services they may offer. Our link to\
+    \ such third parties does not constitute our sponsorship of, or affiliation with,\
+    \ those people or companies. Nor is such linking an endorsement of such third\
+    \ party\u2019s privacy or information security policies or practices or their\
+    \ compliance with laws. Information collected by third parties, which may include\
+    \ such things as location information or contact details, is governed by their\
+    \ privacy practices. These other websites or services may place their own cookies\
+    \ or other files on your computing device, collect information or solicit personal\
+    \ information from you. We encourage you to learn about the privacy practices\
+    \ of third parties with which you interact. We are not responsible or liable for\
+    \ your interaction with such third parties, the information requests initiated\
+    \ by such third parties, or the subsequent use, treatment or dissemination of\
+    \ information you voluntarily choose to provide to them.  "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: 'Advertising Providers We show ads with COPPA settings for the US
+    territory enabled, meaning that the Advertising Providers are obligated to comply
+    with COPPA restrictions as stated herein. Some of the Advertising Providers store
+    or transfer data outside EEA. The data is transferred to countries with a current
+    determination of adequacy, adhering to Binding Corporate Rules, EU-US Privacy Shield
+    or other acceptable manners. Although we encrypt the advertising identifiers,
+    our ad partners are able to collect personally identifiable data such as advertising
+    identifier, IP address, cookies, pixels, location as well as other data. '
+  annotations:
+  - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Location&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&Unspecified_Country&Binding_Corporate_Rules
+    modality: PERFORMED
+  - practice: TRANSFER&Unspecified_Country&Adequacy_Decision
+    modality: PERFORMED
+  - practice: TRANSFER&USA&Binding_Corporate_Rules
+    modality: PERFORMED
+  - practice: TRANSFER&USA&Adequacy_Decision
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Although we encrypt the advertising identifiers, our ad partners
+      are able to collect personally identifiable data such as advertising identifier,
+      IP address, cookies, pixels, location as well as other data.
+    annotations:
+    - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Location&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+  - sentence_text: 'Some of the Advertising Providers store or transfer data outside
+      EEA. '
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: The data is transferred to countries with a current determination
+      of adequacy, adhering to Binding Corporate Rules, EU-US Privacy Shield or other
+      acceptable manners.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Binding_Corporate_Rules
+      modality: PERFORMED
+    - practice: TRANSFER&Unspecified_Country&Adequacy_Decision
+      modality: PERFORMED
+    - practice: TRANSFER&USA&Binding_Corporate_Rules
+      modality: PERFORMED
+    - practice: TRANSFER&USA&Adequacy_Decision
+      modality: PERFORMED
+- segment_id: 36
+  segment_text: 'We show third party advertisements from ad partners SuperAwesome,
+    Kidoz, Admob, Unity Ads, AppLovin, AdColony, Vungle, myTarget, Mobvista, inMobi,
+    ironSource (for more information on data processing please see https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 37
+  segment_text: "SuperAwesome Trading Limited (\u201CSuperAwesome\u201D) is a provider\
+    \ of kid-safe advertising services that are designed specifically for the compliance\
+    \ requirements of younger audiences, including those aged under 13. SuperAwesome\
+    \ places contextual advertising in our on applications without collecting any\
+    \ personally identifiable information, including persistent identifiers. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 38
+  segment_text: 'SuperAwesome is certified as COPPA-compliant by the kidSAFE Seal
+    Program, an FTC-Approved COPPA Safe Harbor Program. Please go to www.kidsafeseal.com
+    for more information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 39
+  segment_text: "SuperAwesome is a valid licensee, and participating member, of the\
+    \ Entertainment Software Rating Board\u2019s Privacy Certified Program (\u201C\
+    ESRB Privacy Certified\u201D). To protect your privacy, SuperAwesome has voluntarily\
+    \ undertaken this privacy initiative, and its services have been reviewed and\
+    \ certified by ESRB Privacy Certified to meet established online information collection,\
+    \ use and disclosure practices. As a licensee of this privacy program, SuperAwesome\u2019\
+    s services are subject to frequent audits and other enforcement and accountability\
+    \ mechanisms administered independently by ESRB Privacy Certified. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 40
+  segment_text: "SuperAwesome also provides advertising services in compliance with\
+    \ the General Data Protection Regulation (EU 1996/679). Adopting an approach of\
+    \ \u2018privacy by design and by default\u2019, SuperAwesome utilises proprietary\
+    \ technologies so that it neither collects, stores nor shares your personal data\
+    \ to provision advertisements or target advertising to you. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 41
+  segment_text: 'You may contact SuperAwesome directly at [email protected] on + 44
+    203 668 6677, or by post: Privacy Team, SuperAwesome Trading Limited, 22 Long
+    Acre, London WC2E 9LY, United Kingdom. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 42
+  segment_text: 'Analytics Providers Google Analytics for Firebase allows us to collect
+    data on the usage of our Apps. We use your data only for the purposes of our internal
+    analytics to improve our Apps and we do not allow sharing of your data with other
+    parties and their products or services. Google Analytics for Firebase collects
+    these data: Online Identifiers, browser type and settings, operating system, mobile
+    network information, cookie identifiers, IP Address (which is anonymised before
+    any storage takes place), crash reports, device identifiers as well as App-Instance
+    Identifier (a randomly generated number that identifies a unique installation
+    of an App for the first time). This data is collected by Google Firebase when
+    the users installs the App from Google Play of App Store. We use Firebase Analytics''
+    own unique user ID (app.instance id), which does separate one mobile phone from
+    another, but does not personally identify you. We are using the following Google
+    Analytics for Firebase features: Remote Config., Crash Reporting, Events (about
+    usage of our App in a pseudonymized way), Analytics in general, Firebase Cloud
+    Functions and Firebase Communication Manager. For more information, please see
+    https://firebase.google.com/policies/analytics/, https://support.google.com/analytics/answer/6004245?hl=en,
+    https://policies.google.com/technologies/partner-sites, https://firebase.google.com/terms/  '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  - practice: Identifier_Mobile_Carrier&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Google Analytics for Firebase collects these data: Online Identifiers,
+      browser type and settings, operating system, mobile network information, cookie
+      identifiers, IP Address (which is anonymised before any storage takes place),
+      crash reports, device identifiers as well as App-Instance Identifier (a randomly
+      generated number that identifies a unique installation of an App for the first
+      time). '
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+    - practice: Identifier_Mobile_Carrier&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+- segment_id: 43
+  segment_text: 'We use Google Analytics to collect the Information in order to analyze
+    and improve our Apps. If you are using one of our child directed Apps or mixed
+    audience Apps and you identified yourself as under the age of 13, the collected
+    Information will only be used for support for internal operations.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 44
+  segment_text: 'https://www.google.com/analytics/terms/us.html https://www.google.com/intl/en/policies/privacy/
+    Digital Ocean We use Digital Ocean services to store the data on their servers
+    based in the US. The data transfer provides appropriate safeguards by virtue of
+    Digital Ocean having certified its compliance with the Privacy Shield and shall
+    process such data in compliance with the Privacy Shield. We have entered into
+    a Data processing agreement with Digital Ocean. For more information, please see
+    https://www.digitalocean.com/security/gdpr/. '
+  annotations:
+  - practice: TRANSFER&USA&Adequacy_Decision
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We use Digital Ocean services to store the data on their servers
+      based in the US.
+    annotations:
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: The data transfer provides appropriate safeguards by virtue of
+      Digital Ocean having certified its compliance with the Privacy Shield and shall
+      process such data in compliance with the Privacy Shield.
+    annotations:
+    - practice: TRANSFER&USA&Adequacy_Decision
+      modality: PERFORMED
+- segment_id: 45
+  segment_text: "Webserver Providers We use third party Webserver Providers, namely\
+    \ CloudFlare to store your IP address for the purposes of security to help us\
+    \ detect and prevent fraudulent activity. These services may collect your information\
+    \ when you use our services, web applications, and APIs. The information may include\
+    \ but is not limited to IP addresses, location data, Log File, User Agent String,\
+    \ Unique ID, system configuration information, cookies and related technologies,\
+    \ other information about traffic to and from our Apps (collectively, \u201CLog\
+    \ Data\u201D). The Webserver Providers collect and use Log Data to operate, maintain,\
+    \ and improve their Services for the purpose of providing security. For example,\
+    \ Log Data can help us to detect new threats, identify malicious third parties,\
+    \ and provide more robust security protection for our services. Where Webservers\
+    \ Providers use information collected from Resolver Users to operate and improve\
+    \ the Cloudflare Resolver, such as to assist us in our debugging efforts if an\
+    \ issue arises, they will not combine the information collected from DNS queries\
+    \ with any other data in any way that can be used to identify individual end users.\
+    \ Some of the Webserver Providers store or transfer data outside EEA. The data\
+    \ is transferred to countries with a current determination of adequacy, adhering\
+    \ to Binding Corporate Rules, EU-US Privacy Shield or other acceptable manners.\
+    \ Although we encrypt the advertising identifiers, our ad partners are able to\
+    \ collect personally identifiable data such as advertising identifier, IP address,\
+    \ cookies, pixels, location as well as other data. Please see these providers\
+    \ privacy policies for more info: https://www.cloudflare.com/privacypolicy.  "
+  annotations:
+  - practice: Identifier_IP_Address&3rdParty&Support_Development
+    modality: PERFORMED
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Support_Development
+    modality: PERFORMED
+  - practice: Location&3rdParty&Support_Development
+    modality: PERFORMED
+  - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Location&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: TRANSFER&USA&Adequacy_Decision
+    modality: PERFORMED
+  - practice: TRANSFER&Unspecified_Country&Adequacy_Decision
+    modality: PERFORMED
+  - practice: TRANSFER&Unspecified_Country&Binding_Corporate_Rules&Without_Copy
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We use third party Webserver Providers, namely CloudFlare to store
+      your IP address for the purposes of security to help us detect and prevent fraudulent
+      activity.
+    annotations:
+    - practice: Identifier_IP_Address&3rdParty&Support_Development
+      modality: PERFORMED
+  - sentence_text: "The information may include but is not limited to IP addresses,\
+      \ location data, Log File, User Agent String, Unique ID, system configuration\
+      \ information, cookies and related technologies, other information about traffic\
+      \ to and from our Apps (collectively, \u201CLog Data\u201D). "
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Support_Development
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&3rdParty&Support_Development
+      modality: PERFORMED
+    - practice: Location&3rdParty&Support_Development
+      modality: PERFORMED
+  - sentence_text: Although we encrypt the advertising identifiers, our ad partners
+      are able to collect personally identifiable data such as advertising identifier,
+      IP address, cookies, pixels, location as well as other data.
+    annotations:
+    - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Location&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+  - sentence_text: Some of the Webserver Providers store or transfer data outside
+      EEA
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: The data is transferred to countries with a current determination
+      of adequacy, adhering to Binding Corporate Rules, EU-US Privacy Shield or other
+      acceptable manners.
+    annotations:
+    - practice: TRANSFER&USA&Adequacy_Decision
+      modality: PERFORMED
+    - practice: TRANSFER&Unspecified_Country&Adequacy_Decision
+      modality: PERFORMED
+    - practice: TRANSFER&Unspecified_Country&Binding_Corporate_Rules&Without_Copy
+      modality: PERFORMED
+- segment_id: 46
+  segment_text: "OPT-OUT You are always free to opt out of the Information collection\
+    \ by Third Party Providers by not logging in or using their services. You can\
+    \ deactivate local notifications by changing the notification settings in accordance\
+    \ with the instructions of the operating system running on the users\u2019 device. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 47
+  segment_text: "iOS: You will be asked to accept or refuse local notifications after\
+    \ the App is downloaded. If you do not accept, you will not receive local notifications.\
+    \ Please note that if you accept, some mobile phones will allow you to disable\
+    \ notifications later on by using the settings on your mobile phone. To manage\
+    \ notifications on your mobile phone please follow these instructions: Open your\
+    \ Settings menu and tap \u201CNotifications\u201D; Find the Application; Tap on\
+    \ the icon of Application; Manage the \u201CNotifications\u201D option by sliding\
+    \ it OFF or ON. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 48
+  segment_text: "Android and Windows: After an Application is downloaded, you will\
+    \ automatically receive local notifications. Some of our Apps offer disabling\
+    \ of local notifications by entering the homepage of the App and choosing the\
+    \ \u201CSettings\u201D option. Here, local notifications can be disabled by choosing\
+    \ the uncheck option \u2018\u20190\u2019\u2019. For other Apps your local notification\
+    \ can be disabled within your mobile phone settings. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 49
+  segment_text: "You can opt out of analytics and displaying ads by choosing these\
+    \ options \u2018\u2019Remove Ads\u2019\u2019 or \u2018\u2019Buy Full Version\u2019\
+    \u2019 available within the App (a button on home screen) or in the app store.\
+    \ You also have the right to erasure which can be exercised by sending an email\
+    \ to support(at)bubadu.com and adding your advertising identifier. For request\
+    \ to delete IronSource data collection, please send an email to [email protected]\
+    \ and add your advertising identifier.  "
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Ad_ID&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'You also have the right to erasure which can be exercised by sending
+      an email to support(at)bubadu.com and adding your advertising identifier. '
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Identifier_Ad_ID&1stParty
+      modality: PERFORMED
+- segment_id: 50
+  segment_text: 'STORING OF INFORMATION AND DELETION We store your Information for
+    as long as needed to provide you with our services. We may store Information longer,
+    but only in a way that it cannot be tracked back to you. When Information is no
+    longer needed, we shall delete it using reasonable measures to protect the Information
+    from unauthorized access or use. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 51
+  segment_text: 'EU Territory We store Personal Information as long as it is needed
+    for the provision of our services. Traffic information is erased or made anonymous
+    when it is no longer needed for the purpose of the transmission or, in the case
+    of payable services, up to the end of the period during which the bill may lawfully
+    be challenged or payment pursued. Location information is stored to the extent
+    and for the duration necessary for the provision of a value-added service. Cookies,
+    direct marketing and provision of value-added services information (including
+    traffic information used for these purposes) is stored as long as the same is
+    necessary for the provision of these activities, or up to the time when a user
+    opts out from such use in accordance with this Privacy Policy. Other information
+    is stored for as long as we consider it to be necessary for the provision of our
+    services. This Section shall not prevent any technical storage or access to information
+    for the sole purpose of carrying out the transmission of a communication or as
+    strictly necessary in order for us to provide the service you requested. '
+  annotations:
+  - practice: Location&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: ' Location information is stored to the extent and for the duration
+      necessary for the provision of a value-added service.'
+    annotations:
+    - practice: Location&1stParty
+      modality: PERFORMED
+  - sentence_text: 'Cookies, direct marketing and provision of value-added services
+      information (including traffic information used for these purposes) is stored
+      as long as the same is necessary for the provision of these activities, or up
+      to the time when a user opts out from such use in accordance with this Privacy
+      Policy. '
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+- segment_id: 52
+  segment_text: 'As explained in the GDPR statement, we strive to anonymize the data
+    when possible. Our technical logs will be automatically deleted within one (1)
+    month and backup logs within two (2) months. If you decide to exercise your right
+    to erasure we will also inform our Providers to delete all your data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 53
+  segment_text: 'US Territory We will retain collected information for the period
+    necessary to fulfill the purposes outlined in this Privacy Policy unless a longer
+    retention period is required or permitted by applicable legislation.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 54
+  segment_text: 'Storing might be different depending on the territory of collecting
+    the information and the applicable legislation, but we always strive to store
+    the information only as long as it is needed for the purposes of providing, improving
+    or personalizing our services.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 55
+  segment_text: 'Data Log Files Storing We store raw data log files on servers for
+    one month, afterwards the data is deleted.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 56
+  segment_text: 'SECURITY We follow generally accepted industry standards and internal
+    procedures to protect Information submitted to us, both during transmission and
+    once we receive it.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 57
+  segment_text: 'The Information are encrypted and password protected and we have
+    integrated commercially reasonable efforts to assure that your Information remains
+    secure when maintained by us, but please be aware that no security measures are
+    perfect or impenetrable. If you have any questions about security of our mobile
+    applications, you can contact us at support(at)bubadu.com. We have implemented
+    and shall maintain appropriate technical and organizational security measures
+    to protect Personal Information and to preserve the security and confidentiality. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 58
+  segment_text: 'CHANGES TO THE PRIVACY POLICY We may update this Privacy Policy to
+    reflect changes in our Information processing practices. We encourage you to periodically
+    review this page for the latest information on our privacy practices. You will
+    be informed about material changes to our data processing practices with local
+    in-app notification and you can get acquainted with the changes by reviewing the
+    Privacy Policy link available within the App.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 59
+  segment_text: "CONTACT AND INFORMATION If you have any questions, please contact\
+    \ us at: support(at)bubadu.com or write to us to the address: Bubadu d.o.o., Bra\u010D\
+    i\u010Deva ulica 21, 1380 Cerknica, Slovenia, Europe. Last updated on December\
+    \ 2019 "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

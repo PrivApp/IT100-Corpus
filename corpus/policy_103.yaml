@@ -1,0 +1,78 @@
+policy_id: '103'
+policy_name: ' com.aceviral.smashycity'
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'gamesaboutjobscontact Independent Developer We''ve been developing
+    games as a company for more than 15 years on web and mobile. We''re able to adapt
+    quickly, moving with the agility that independence has afforded us. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'Game Publisher For the last 15 years we''ve helped other small indie
+    developers get their games published and in to the charts. We''re constantly on
+    the look out for great games. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: '250+GAMES RELEASED 500,000,000+DOWNLOADS 10 BILLION+GAME PLAYS About
+    Our Company Based in the North East of England we''ve been making and publishing
+    games for over 15 years as a team, starting in a garage before moving to a 1 bedroom
+    flat above a shop and eventually to a converted pub. We''re still in the same
+    neighbourhood as the garage where we started and we''re still on the same street
+    as that one bedroom flat. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'During that time we''ve managed to remain independent whilst growing
+    in size, transitioning from flash to mobile and developing hundreds of games.
+    Our library includes the Angry Gran series, Bike Mania, Batman & The Flash: Hero
+    Run and many other successful titles. We''ve worked with companies such as Microsoft,
+    Warner Brothers, Gree and DC Comics. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'We''re often on the look out for talented people to join our team,
+    if you''re interested feel free to check out our jobs page. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'News & Announcements Introducing Angry Gran Up Up & Away Angry Gran
+    is back! From the developers of Angry Gran Run & Angry Gran Toss with over 50
+    million downloads! JUMP on board the epic world of Angry Gran Up,Up & Away packed
+    with amazing platform action. Play as the world famous Angry Gran or one of her
+    super cute animal friends and fly through the skies like a rocket! Grab the Magnet,
+    Shield and other insane power ups to better your score and blast through the evil
+    punks, lasers and other traps that get in your way! Get it now on Google Play
+    and iTunes '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'Bike Blast on Android & iOS Hop on your BMX and swipe, jump, duck,
+    dodge and dash your way to victory! Non-stop HIGH OCTANE Bike RACING ACTION in
+    the new AWESOME quality game from AceViral! Get it now on Google Play and iTunes '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: "COMPANY About Us Jobs Contact Us LEGAL Privacy Policy Terms of Service\
+    \ GAMES & MORE Our Games AngryGran.com Smashy City Social Facebook Twitter Youtube\
+    \ \xA9 Copyright 2008-2019. Aceviral.com all rights reserved "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
