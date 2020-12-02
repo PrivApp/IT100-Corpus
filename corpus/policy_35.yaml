@@ -1,0 +1,269 @@
+policy_id: '35'
+policy_name: com.lima.doodlejump
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "Last updated: May 24, 2018 Lima Sky, LLC (\u201CLima Sky\u201D) has\
+    \ adopted this privacy policy (\u201CPrivacy Policy\u201D) to explain how Lima\
+    \ Sky collects, stores, and uses the information collected in connection with\
+    \ Lima Sky\u2019s products, services, and websites (together \u201CServices\u201D\
+    ). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'Should you have any questions relating to this Privacy Policy, please
+    contact us at info@limasky.com. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'Lima Sky reserves the right to modify this Privacy Policy at reasonable
+    times, so please review it frequently. Your continued use of Services will signify
+    your acceptance of the changes to this Privacy Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: "1. Non-personal Data For purposes of this Privacy Policy, \u201C\
+    non-personal data\u201D means information that does not directly identify you.\
+    \  Additionally, non-personal data means \u201Caggregate\u201D and \u201Cde-personalized\u201D\
+    \ information, which is data Lima Sky collects about the use of Services, from\
+    \ which any personally identifiable data has been removed. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'Lima Sky may use tools or third party analytical software to automatically
+    collect and use certain non-personal data that does not directly enable Lima Sky
+    to identify you.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'Lima Sky may use analytics tools to develop and analyze use of the
+    Services. Analytics companies may access anonymous data (such as your IP address,
+    device vendor ID, and/or device advertising ID) to help us understand how Services
+    are used.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'Analytics tools we may use include: Flurry Analytics: If you wish
+    to find out more information on Flurry analytics, please follow this link: http://www.flurry.com/legal-privacy/privacy-policy
+    Google Analytics for Firebase: If you wish to find out more information on Google
+    Analytics for Firebase, please follow this link: https://www.firebase.com/terms/privacy-policy.html
+    Analytics data collection does not include personally identifying information.
+    Lima Sky does not merge the non-personally identifying analytics data that we
+    collect with personally identifying information from any other source. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: "2. Personal Data For purposes of this Privacy Policy, \u201Cpersonal\
+    \ data\u201D means personally identifiable information that specifically identifies\
+    \ you as an individual. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'Potential situations when you may make personal data available to
+    Lima Sky include, but are not limited to: (i) registration for Services, including
+    leaderboards; (ii) subscribing to newsletters; (iii) requesting technical support;
+    and (iv) otherwise through use of Services where personal data is required for
+    use and/or participation. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: 'The types of personal data may vary depending on the type of activity
+    you are engaged in. The personal data Lima Sky may collect, process and use may
+    include, but are not limited to your name, screen/user name, Services'' or third
+    party service ID, and e-mail address. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: "Lima Sky may use personal and non-personal data, both individually\
+    \ and combined together, for purposes of analyzing usage of the Services, providing\
+    \ customer and technical support, managing and providing Services (including managing\
+    \ advertisement serving), customizing Lima Sky\u2019s communications and to further\
+    \ develop the Services and other products. Lima Sky may combine non-personal data\
+    \ with personal data. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: 'From time to time, we may ask you to complete a voluntary survey
+    in order to help us provide a better user experience. We will only request and
+    therefore collect non-personal data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'Lima Sky may use your personal data to send messages to you with
+    informative and/or commercial content about our services or third party products
+    and services Lima Sky thinks may be of interest to you, such as new features and
+    services, special offers and updated information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: "3. Ad Serving Technology Lima Sky reserves the right to use and disclose\
+    \ the collected non-personal data for purposes of advertisement by Lima Sky or\
+    \ Lima Sky\u2019s partners and contractors. Our partners may include the following\
+    \ companies: https://www.mopub.com/legal/partners/. Lima Sky may employ third\
+    \ party ad serving technologies that use certain methods to collect information\
+    \ as a result of ad serving through Services. Lima Sky or third parties operating\
+    \ the ad serving technology may use demographic and location information as well\
+    \ as information logged from your hardware or device to ensure that appropriate\
+    \ advertising is presented within the Service. Lima Sky or third parties may collect\
+    \ and use data for this purpose including, but not limited to IP address (including\
+    \ but not limited to for purposes of determining your coarse location), Device\
+    \ ID, MAC, software, applications, hardware, and in-game information. The foregoing\
+    \ data may be used and disclosed in accordance with this Privacy Policy and the\
+    \ privacy policy of the company providing the ad serving technology. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'Our primary ad serving partner is MoPub. For more information about
+    their privacy policy, you may find it at https://www.mopub.com/legal/privacy/.
+    We also serve advertising from Google. For more about their privacy policties,
+    you may find it at : https://policies.google.com/technologies/partner-sites You
+    recognize and agree that the advertising companies who deliver ads for Lima Sky
+    may combine the information collected with other information they have independently
+    collected from other services or products. These companies collect and use information
+    under their own privacy policies. These ad serving technologies are integrated
+    into Services; if you do not want to be subject to this technology, do not use
+    or access Services. Although Lima Sky takes commercially reasonable steps to instruct
+    such advertising companies to comply with the terms and conditions of this Privacy
+    Policy, Lima Sky does not have access to or control of third party technologies. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: "Lima Sky may display to you behaviorally targeted advertising. If\
+    \ you are a resident of the European Economic Area, subject to the GDPR guidelines,\
+    \ you will be asked to confirm your desire to receive personalized advertising\
+    \ utilizing your device ID, coarse location and other data and to confirm that\
+    \ you are 16 years of age or older. If you consent, you can always choose to opt-out\
+    \ at a later date by using the settings on your phone or tablet. On Android Devices,\
+    \ you may opt-out by enabling the \u201COpt out of Ads Personalization\u201D setting.\
+    \ On iOS Devices, you may opt-out by enabling the \u201CLimit Ad Tracking\u201D\
+    \ setting. Additionally please note that, if you \u201Copt out,\u201D it does\
+    \ not mean that you will no longer receive advertising. It just means that the\
+    \ advertising you see displayed will not be customized to you and your interests\
+    \ and may be less relevant to you. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: '4. Location Data We do not use or collect your precise geographic
+    location. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: '5. Data Retention Lima Sky retains the data collected pursuant to
+    this Privacy Policy for the period necessary to fulfill the purposes outlined
+    in this Privacy Policy unless a longer retention period is required or permitted
+    by law. Thereafter if the collected data is no longer needed for purposes specified
+    in this Privacy Policy, Lima Sky deletes all aforementioned data in its possession
+    within a reasonable timeframe. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'Irrespective of the above, Lima Sky may still retain some of the
+    data to the extent such retention is necessary to resolve disputes, enforce Lima
+    Sky user agreements, and comply with technical and legal requirements and constraints
+    related to the security, integrity, and operation of Services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'Information we collect may be stored or processed on computers located
+    in any country where we do business. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Information we collect may be stored or processed on computers
+      located in any country where we do business.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 21
+  segment_text: "6. Cookies, Beacons and Tracking The Services may use \u201Ccookies\u201D\
+    \ and other technologies such as pixel tags, locally shared objects, and web beacons.\
+    \ Lima Sky treats information collected by cookies and similar technologies as\
+    \ non-personal data. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: '7. Third Party Terms and Conditions To operate the service, we also
+    may make identifiable and anonymous information available to third parties in
+    these limited circumstances: (1) with your express consent, (2) when we have a
+    good faith belief it is required by law, (3) when we have a good faith belief
+    it is necessary to protect our rights or property, or (4) to any successor or
+    purchaser in a merger, acquisition, liquidation, dissolution or sale of assets.
+    Your consent will not be required for disclosure in these cases, but we will attempt
+    to notify you, to the extent permitted by law to do so. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: "8. Safeguards Lima Sky follows generally accepted industry standards\
+    \ and maintains reasonable safeguards to attempt to ensure the security, integrity,\
+    \ and privacy of the information in Lima Sky\u2019s possession. Data collected\
+    \ by Lima Sky is stored in secure operating environments that are not available\
+    \ to the public. To prevent unauthorized on-line access to data, Lima Sky maintains\
+    \ data behind a firewall-protected server. However, no security or encryption\
+    \ method can be guaranteed to protect information from hackers or human error. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: "9. Special Notice REGARDING MINORS. Lima Sky does not knowingly collect\
+    \ Personal Information from persons under the age of 13 without parental consent.\
+    \ Lima Sky requires device owners to specify their age before any Personal Information\
+    \ is collected. If it comes to Lima Sky\u2019s attention that Personal Information\
+    \ has been collected from a person under the age of 13, Lima Sky will delete this\
+    \ information as quickly as possible. If you believe that Lima Sky may have Personal\
+    \ Information from or about a child under the age of 13, please contact Lima Sky\
+    \ at info@limasky.com. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: 'Copyright  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

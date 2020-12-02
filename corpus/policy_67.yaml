@@ -1,0 +1,59 @@
+policy_id: '67'
+policy_name: dk.bridgeit.pandora
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'Privacy Policy What information do we collect? We might store your
+    data on a webserver, only to be used for your convenience when changing device.
+    This is for all apps with a login. If no login is used, your data will not be
+    available on other devices. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'We might collect information about your actions in the app. The information
+    is collected and stored anonymously. We do this to improve the apps, to give the
+    users a better user experience.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'How do we protect your information? All data is stored safely on
+    our servers, with restricted access by BridgeIT employees with the appropriate
+    security level. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'Do we disclose any information to outside parties? No, all information
+    remains internally at BridgeIT. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'Online Privacy Policy Only  This policy is only available online
+    here: https://www.bridgeit.dk/privacypolicy  Your Consent By using the app you
+    consent to this Privacy Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'Changes to our Privacy Policy The current Privacy Policy is always
+    available online, and changes will only be made available here. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'Contacting Us Any questions related to Privacy Policy can be directed
+    to us via mail: support@bridgeit.dk '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

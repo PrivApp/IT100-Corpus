@@ -1,0 +1,1085 @@
+policy_id: '27'
+policy_name: com.onegogo.explorer
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "APUS File Manager Privacy Policy 1. Overview APUS File Manager (this\
+    \ \u201CProduct\u201D) is a file manager product developed, operated and managed\
+    \ by Qilin Hesheng Network Technology Co., Ltd. (\u201CAPUS\u201D \u201CWe\u201D\
+    \ or \u201Cus\u201D). We fully respect and protect users\u2019 personal privacy.\
+    \ While providing you with quality services, we will collect, use, disclose, store\
+    \ and protect your personal data in accordance with this Privacy Policy (the \u201C\
+    Policy\u201D). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'We will explain how we process your personal data in this Policy
+    and how you may access and control your personal data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: "Please completely read and fully understand this Policy before using\
+    \ this Product. If you have any questions about this Policy, or have any complaints\
+    \ or suggestions, please contact us via the methods as described in this Policy.\
+    \ This policy will help you understand the followings: How We Collect and Use\
+    \ Your Personal Data How We Use Cookie and Similar Technologies How We Share,\
+    \ Transfer and Disclose Your Personal Data Process Your Personal Data Using Third\
+    \ Party Services How We Protect Your Personal Data How You Access and Control\
+    \ Your Personal Data How We Process the Minor\u2019s Data How Your Personal Data\
+    \ Is Transferred Globally Contact Us Update of Privacy Policy 2. How We Collect\
+    \ and Use Your Personal Data We may collect your personal data as follows while\
+    \ we are providing services. These data is critical for us to realize various\
+    \ functions of this Product. We will use these data to help us develop and improve\
+    \ our products to provide better services. We will use your personal data in strict\
+    \ compliance with the purposes set forth in this Policy. We will inform you in\
+    \ advance and obtain your consent before we use these data for any other purposes\
+    \ than set forth in this Policy or we use the personal data collected for specific\
+    \ purposes for other purposes. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: '2.1 Category and purpose of your personal data we collect This Product
+    is a full functionality file manager product with file browsing, management, sharing,
+    and junk file cleaning services. We will collect different categories of your
+    personal data in different scenarios according to various product features, and
+    will use these data to realize such product features. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: '2.1.1. Pre-activation service In order to strictly comply with the
+    laws and policies of the relevant countries or regions, we need to use pre-activation
+    services to know your country or region. During pre-activation, we will send your
+    IP address, country code (MCC), mobile phone language, system version and other
+    information to our server. This information is only used to know your country
+    or region, thus providing you with agreements and services that comply with that
+    country or region. This information will be deleted within a short period of time
+    after knowing your country or region, and will not be permanently saved. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: '2.1.2. Basic File Management Service As a file management product,
+    we need to get your files, applications, and storage information for file management.
+    The file information includes: the name, type, size, modification time, path of
+    all files in the mobile phone disk, external SD card or U disk, image information
+    of the image file, photo album, cover image of music and video files, album of
+    music files, music and video file duration and other information. The application
+    information includes: installed application list, application name, installation
+    package size, application icon, application package name, application version
+    name, application version number, application installation package file path,
+    and other information. The storage information includes: storage device list,
+    storage device name, storage device path, SD card total storage space, SD card
+    used storage space, internal storage total storage space, internal storage used
+    storage space, and other information. Reading and displaying files and storing
+    information requires that you agree to the application to use storage permissions.
+    Renaming, modifying, deleting, copying, and sharing files will be performed on
+    your own initiative, and all file data will be local.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'Processing will not upload. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: '2.1.3. View File Content Service In order to conveniently view the
+    content of the document, play music and video, we provide you with the service
+    of viewing the content of the file. The function of viewing the content details
+    needs to obtain your text content information, audio file content information,
+    and video file content information. Text content information, audio file content
+    information, video file content information need your consent before proceeding,
+    and all documents, music and video content will be processed in the local mobile
+    phone memory, we will not upload, store your file content data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: '2.1.4. Document Editing Service The product also provides editing
+    functions for document files. Allows you to modify the contents of the document
+    file on the phone. The document editing function needs to obtain the content you
+    input in the file to provide you with the saving service of the edited file. Storage
+    of your edited files will only take place with your authorization. We will not
+    upload your input . '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: '2.1.5. Turbo Transfer Service The product provides a speedy transmission
+    function that can help you establish a connection with other mobile phones to
+    send files to other mobile phones easily. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: 'When establishing a network connection, you need to read your network
+    information, device information and account information, including: network connection
+    information, Wifi information, IP address, current system language, current system
+    time, current device Android version number, device model, device Information
+    such as brand, device manufacturer, screen resolution, screen pixel density and
+    other device and network information, as well as account information such as email
+    account number and Google account name stored on the device, to generate the connection
+    device name, and connect to other mobile phones. The above network information,
+    device information, and account information will be used after you authorize it.
+    Wifi information, IP address, device model, and account name information will
+    be sent to other devices during the process of establishing a network connection
+    to identify and adapt your equipment. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: 'For file sharing, we need your file information and address book
+    contact information to provide local file browsing and sending services. The file
+    information includes: the name, type, size, modification time, path of all files
+    in the mobile phone disk, external SD card or U disk, image information of the
+    image file, photo album, cover image of music and video files, album of music
+    files, music and video file duration and other information. The address book information
+    includes the contact avatar, contact name, and contact phone number. The file
+    information is read when you send or browse, and the contact data is read when
+    you actively send or browse. All file information and contact information are
+    read and processed locally and are not sent and uploaded unless you actively send
+    it to other devices. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'During the sending process, the product provides a simple instant
+    messaging function and provides a conversational interface for text conversations
+    between devices that have established a connection. The conversation will send
+    text, expressions, files, apps, etc. that you have entered into other people.
+    The Send Dialog feature will send the text, expressions, files, and apps you have
+    entered to other people and will execute them after you authorize and send them
+    on your own initiative. The conversation history will be saved locally for future
+    browsing, but we will not upload any conversation content information for you
+    and other contacts. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: 'The product automatically records the session and transmission history
+    of the sending process and saves it locally so that you can query and browse later.
+    Session and transfer history records include text, expressions, names of transfer
+    objects, transfer file names, transfer times, transfer file sizes, transfer file
+    types, and the number of transferred files. Session and transfer history information
+    will only be saved locally for future browsing. We will not upload your session
+    and transfer history information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: '2.1.6. Junk File Cleanup Service To help you clean up junk files
+    on your phone, we provide a junk file cleanup service that helps you automatically
+    analyze and clean junk files and application caches on your phone. When you use
+    the junk removal service, we need to read application information such as your
+    application list and application cache size, as well as SD card top directories,
+    file types, file sizes, file names, file paths, pictures, music, videos, etc.
+    information. We will automatically help you analyze the junk files on your mobile
+    phone. After your confirmation, it will delete junk files that you think are useless. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: "2.1.7. Transfer Large Files to SD Card Service To help you make more\
+    \ reasonable use of the storage space on your phone, the product provides a large\
+    \ file transfer to the SD card service to help you transfer large files from your\
+    \ phone\u2019s internal storage to the SD card. When you transfer large files\
+    \ to the SD card service, we read your file information and storage device information.\
+    \ The file information includes: the name, type, size, modification time, path\
+    \ of all files in the mobile phone disk, external SD card or U disk, image information\
+    \ of the image file, photo album, cover image of music and video files, album\
+    \ of music files, music and video file duration and other information. The application\
+    \ information includes: installed application list, application name, installation\
+    \ package size, application icon, application package name, application version\
+    \ name, application version number, application installation package file path,\
+    \ and other information. The storage information includes: storage device list,\
+    \ storage device name, storage device path, SD card total storage space, SD card\
+    \ used storage space, internal storage total storage space, internal storage used\
+    \ storage space, and other information. File transfer will be completed under\
+    \ your own initiative. All processing will only be performed locally. We will\
+    \ not upload file information. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: '2.1.8. Web Page Transmission Service To help you easily manage and
+    transfer files on your phone on your computer, we provide a web page transmission
+    function to help you establish a connection on your computer through the browser
+    and mobile phone, then manage and transfer files on your mobile phone. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'When you establish a connection between a mobile phone and a computer,
+    we need your internet connection information, Wifi information, IP, current system
+    language, current system time, current device Android version number, device model,
+    device brand, device manufacturer, screen resolution, Screen pixel density and
+    other device and network information to establish a wireless connection for the
+    mobile computer. The above network information and device information will be
+    used after authorizing, in which Wifi information, IP address, device model, device
+    brand, device manufacturer, screen resolution will be sent to other devices during
+    the establishment of the network connection for identification and Adapt your
+    device. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'When browsing and managing files on your computer, we need to get
+    your files, applications, and storage information for file management. The file
+    information includes: the name, type, size, modification time, path of all files
+    in the mobile phone disk, external SD card or U disk, image information of the
+    image file, photo album, cover image of music and video files, album of music
+    files, music and video file duration and other information. The application information
+    includes: installed application list, application name, installation package size,
+    application icon, application package name, application version name, application
+    version number, application installation package file path, and other information.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'The storage information includes: storage device list, storage device
+    name, storage device path, SD card total storage space, SD card used storage space,
+    internal storage total storage space, internal storage used storage space, and
+    other information. Reading and displaying files and storing information requires
+    you to agree with the storage permissions of the application. Renaming, modifying,
+    deleting, copying, sharing, and downloading files will be performed on your own
+    initiative, and all file data will be processed. Processing between computer and
+    mobile phone will not be uploaded. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'The product will automatically record the transmission history in
+    the sending process and store it locally so that you can query and browse later.
+    The transmission history includes the transmission object name, transmission file
+    name, transmission time, transmission file size, transmission file type, and transmission
+    file number information. Transmission history information will only be saved locally
+    for future browsing, we will not upload. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: "2.1.9. New File Alert Service To make it easier for you to manage\
+    \ new files on your mobile phone, we have provided a new file reminder service\
+    \ that will prompt you when there are new files on the phone. In order to provide\
+    \ this service, we need to monitor the file addition, lightening, and screen-off\
+    \ events on your mobile phone and read the file type, file name, file path, file\
+    \ modification time, and image file image of your new file, and application activity\
+    \ information such as your application\u2019s name, package name, icon, and time\
+    \ of use. The above events and file information will be used only after you agree\
+    \ to enable the application usage permission and enable the feature. It will be\
+    \ performed locally and will not be uploaded. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: '2.1.10. Uncommonly Used Application Alert Service In order to facilitate
+    you to manage files that are not frequently used on mobile phones, we provide
+    application reminder services that are not commonly used service. You will be
+    prompted by a card after entering the file management. In order to provide this
+    service, read application information such as your installed application list,
+    application name, installation package size, application icon, application package
+    name, application version name, application version number, and application installation
+    package file path, and you use the application activity information such as name,
+    package name, icon, and usage time. The above events and file information will
+    be used only after you agree to enable the application usage permission and enable
+    the feature. It will be processed locally and will not be uploaded. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: '2.1.11. Account Service The product provides an account log in service.
+    After logging in, you can modify the account information yourself. The information
+    includes your personal profile, gender, nickname, name, mobile number, email,
+    birthday, personalized signature, city or region and address, education experience,
+    interest Hobbies, and career information. You can choose whether to fill sensitive
+    information in your profile. If you do not want to provide personal data publicly,
+    do not post or add this information to your profile. You can also update your
+    information in your profile at any time. We will use the big data algorithm to
+    show you interest-based content and services and advertisements based on the data
+    you provide, such as gender, birthday, hobbies, and career information. The name,
+    mobile number, email address, and address information provided by you will be
+    used , After you use the points mall to exchange physical goods, send goods for
+    you. Through the data such as avatar, nickname, gender, hobbies and personality
+    signature data provided by you, you can display this part of information, including
+    exploration and discovery, theme wallpaper, and friend circle function, and you
+    can establish social relationships with others. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: '2.1.12. Cloud service We provide you with a wealth of features and
+    services through cloud service interfaces, such as news, video, navigation, event,
+    website security detection, and product updates. In order to ensure the operation
+    of cloud services, we need to collect some necessary data, including: application
+    information such as application package name, application version, and application
+    installation time; system information such as country code, system language, and
+    system time zone; screen resolution and other devices Information; network information
+    such as operators. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: '2.1.13. Service quality measurement In order to measure the quality
+    of service of a product and thus provide you with better services experience and
+    other new services, we will collect the following information during your use
+    of the service, and the information obtained will only be used for this purpose. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: 'Activation information: application information including application
+    package name, application version, and application installation time; system information
+    such as Android ID, country code, system language, system version, system time
+    zone, and Google service version; screen resolution, mobile phone brand, mobile
+    phone model, etc.; Network card information and other devices information; network
+    types, operators and other network information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: 'Usage information: application information including application
+    package name, application version, and application installation time; system information
+    such as country code, system language, and system time zone; screen resolution
+    and other device information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: '2.1.14. Provide stable services In order to provide you with a stable
+    service, we will collect the following related information for locating, analyzing
+    ,and improving problems in the event of product. And the information is only used
+    for this purpose. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 30
+  segment_text: 'Crash information: When our product crashes, you can choose whether
+    to upload crash information. Then we will get the uploaded crash information,
+    including application name, application version, application installation time,
+    application signature and other application information; country code, system
+    language, system time zone, memory information and other system information; screen
+    resolution, mobile phone brand, horizontal screens, vertical screens and other
+    information; crash process name, crash time, system non-sensitive log at crash,
+    and crash log of this application. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 31
+  segment_text: "Feedback: If you have any questions or suggestions about this policy,\
+    \ you can give us feedback through the product\u2019s feedback function. We will\
+    \ get your feedback, including email address, feedback content, mobile phone brand,\
+    \ mobile phone model, system version and other information. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 32
+  segment_text: '2.1.15. Anti-Fraud and Anti-Cheating To prevent fraud and cheating,
+    in order to ensure the normal operation of our business that provide you with
+    better services and ecological environment, we need to obtain some necessary data,
+    including: application package name, application version, application installation
+    time, application signature and other applications Information; Android ID, country
+    code, startup time, system time, memory information, system version, power, volume
+    information, Bluetooth information, SIM card status and identification information,
+    storage information and other system information; screen resolution, mobile brand,
+    mobile phone Type, sensor information, camera information, CPU information, GPU
+    information and other device information; location information, headset pluggable
+    information, application installation and use information, screen unlocking information,
+    Wi-Fi list information, network information and other user use information. The
+    information obtained is used only for this purpose and is stored on the server
+    as a pseudonym. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: '2.2 Your personal data we obtain from a third party For now, we do
+    not obtain your personal data from any third party. If certain services may require
+    your personal data from a third party, we will notify you in advance and obtain
+    your consent. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: '2.3 What permissions do we use to get your data 2.3.1. Changing your
+    wifi and network status. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: 'Changing your network status to create transfer connection. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 36
+  segment_text: '2.3.2. Get your location (GPS and network-based) Get your location
+    to create transfer connection. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 37
+  segment_text: '2.3.3. Read phone status and identity We use this permission to create
+    transfer connection. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 38
+  segment_text: '2.3.4. Read, modify or delete the contents of your storage We use
+    this permission so that help you manage the files of your storage. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 39
+  segment_text: '2.3.5. Draw over other apps This permission allows the APUS File
+    Manager to display a floating window on other apps so that we can show the new
+    files notification. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 40
+  segment_text: '2.3.6. Install shortcuts This permission is used to install shortcuts
+    on launchers, so users can continue using APUS File Manager related function. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 41
+  segment_text: '2.3.7. Receive GCM notification This permission allows users to receive
+    GCM notification for subscription services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 42
+  segment_text: '2.3.8. Find accounts on the devices This permission allows APUS to
+    check if users have logged in Google Play and provide relative app installation
+    service for users. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 43
+  segment_text: '2.3.9. Run at startup APUS File Manager will run at startup to provide
+    users with services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 44
+  segment_text: '2.3.10. Prevent Phone from sleeping The only purpose for using this
+    permission is to prevent the phone from going to sleep when you are using capture. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 45
+  segment_text: '2.3.11. SMS, contact and account information (1) Read your contacts
+    Used to display contact name of missed calls or SMS on lock screen. No contact
+    identified information will be collected. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 46
+  segment_text: '(2) Send and view SMS Used in messaging service in Smart Locker,
+    including receive, reply. No Message content will be collected. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 47
+  segment_text: '(3) Read call log Used in phone call service in Smart Locker, including
+    display phone number and time of missed calls, and users can spontaneously change
+    the status of missed calls. No calls information will be collected. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 48
+  segment_text: "(4) Information you give us Many of our services require you to sign\
+    \ up for an Account. When you do, we\u2019ll ask for personal information, like\
+    \ your name, email address, the telephone number to store with your account. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 49
+  segment_text: "3. How We Use Cookie and Similar Technologies Cookie is a small piece\
+    \ of text sent to a browser by a website visited by a user. It helps the browser\
+    \ to record user access information, such as preferred language and other settings.\
+    \ In this way, users will have an easier and more practical experience when they\
+    \ visit the same website the next time. Cookie plays a vital role. Without cookie,\
+    \ the user\u2019s experience of Internet will be greatly reduced, and some website\
+    \ features or services may not even work properly. We use cookies to provide you\
+    \ with a complete web browsing service. We do not collect cookie information by\
+    \ ourselves. Please note that the websites you visit may use cookie to store your\
+    \ preferences, settings, login status, etc. For example, when you visit a webpage\
+    \ that has a login function for the first time, you need to enter a user name\
+    \ and password to log in. After logging in, the website will record your login\
+    \ status, When you switch different pages under the site, you do not need to re-enter\
+    \ the user name and password, you can directly browse the content of the web page.\
+    \ Websites may use cookie to recommend advertisements. For example, some websites\
+    \ use cookie to record websites that you click on to prevent you from seeing duplicate\
+    \ advertisements. We provide the ability to disable and delete cookies. You can\
+    \ disable or delete cookies. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 50
+  segment_text: 'To make it easier for you to open web pages, we provide web page
+    caching. We allow websites you visit to store some web page data, such as web
+    page pictures and other information. When you visit the site next time, the site
+    will directly read the saved data for display, thereby to open the webpage faster.
+    The cache will expire due to expiration or manual removal.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 51
+  segment_text: 'We will not upload any cached content. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 52
+  segment_text: '4. How We Share, Transfer and Disclose Your Personal Data We will
+    share with or transfer or disclose your personal data to a third party with your
+    consent or explicit instructions.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 53
+  segment_text: 'In addition, to improve the quality of our service, we may also share
+    with or transfer or disclose your personal data to a third party under the following
+    circumstances. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 54
+  segment_text: '4.1. Subsidiary Products We may share your personal data with our
+    subsidiary products to provide a more consistent experience and better service.
+    We guarantee that our subsidiary products will treat your personal data in accordance
+    with the purposes and requirements shown in this Policy. We will obtain your prior
+    consent again if our subsidiary products wish to use your personal data for purposes
+    other than those set forth in this Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 55
+  segment_text: '4.2. Affiliated Company We may share your personal data with our
+    affiliated companies and will ensure their processing of your personal data is
+    in compliance with the purposes and requirements of this Policy. We will obtain
+    your prior consent again if affiliated companies intend to use your personal data
+    for other purposes than set forth in this Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 56
+  segment_text: '4.3. Third party service provider We may engage third party service
+    providers to provide specific services. Third party service providers may collect
+    data when providing services and we will ensure that they follow our instructions,
+    follow the purposes and requirements set out in this policy to process your personal
+    data, and take appropriate confidentiality and security measures to safeguard
+    data security. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 57
+  segment_text: '4.3.1. Search Function In order to provide you with comprehensive
+    search results, we provide you with a variety of different search engines for
+    your choice. The search engines we use include: Google, Bing, Yahoo, Aol, Ask,
+    Baidu, Sogou, DuckDuckGo, Yandex, Naver, Daum and their corresponding contracting
+    agencies. You can choose your favorite search engine. When you search, we will
+    use your search keywords, go to the search engine server you selected or its corresponding
+    contracting agency server, and finally display the query results to you. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 58
+  segment_text: '4.3.2. Search Suggestions In order to help you quickly find the content
+    you want to search for, and provide more accurate search results, when you enter
+    keywords, we recommend some search terms that you may need based on your input.
+    In this process, we go to the third-party search suggestion server according to
+    the keywords you entered. The third-party search suggestion servers include: Google,
+    Bing, Yahoo, Aol, Ask, Baidu, Yandex, Naver, and Affinity, etc. After querying
+    the results, the results will be displayed to you. You can directly select the
+    search terms you want to search for. In the process, we will not collect any of
+    your personal data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 59
+  segment_text: "4.3.3 Visiting a Web Page In order to realize the function of browsing\
+    \ the webpage, we will request the content of the webpage according to the webpage\
+    \ link address you provided, and then display the content of the webpage returned\
+    \ by the server. In this process, website may collect your relevant data\uFF0C\
+    such as user agent, cookies, browsing track and so on. In addition, to implement\
+    \ special functions in certain web pages, the website may use the browser to apply\
+    \ for the location of your address or mobile phone file information, for example:\
+    \ pictures that need to be uploaded to the avatar, and microphone information.\
+    \ After you authorize it, the website can display related functions. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 60
+  segment_text: '4.3.4. Statistics In order to analyze data and provide you with better
+    services, we use the services of Apps Flyer. The service needs to obtain your
+    information including: application package name, application version, application
+    installation time, system version, Android ID, country information, mobile phone
+    language information, mobile phone brand, mobile phone model. The information
+    obtained is only used for this purpose. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 61
+  segment_text: '4.3.5. Attribution of installation channel In order to attribution
+    of installation channel and provide you with better services, we use the services
+    of a third party service provider. The service needs to obtain your information
+    including: application package name, application version, application installation
+    time and other applications Information; , system version, Android ID, country
+    code , information, mobile phone language, system version and other system information;
+    power, charging type, sensor information, mobile phone brand, mobile phone Type,
+    network information, CPU information and other device information.model. The information
+    obtained is only used for this purpose. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 62
+  segment_text: '4.4 Share of your personal data as required by law Subject to compliance
+    with this Policy, we may be required to share or disclose your personal data under
+    certain circumstances, such as in accordance with laws and regulations, and compulsory
+    requirements of government orders; to safeguard the legitimate rights and interests
+    of yours, ours, and third parties; and to prevent or deal with fraud, secure or
+    technical problems. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 63
+  segment_text: "4.5 Change of organization and existing status of our company For\
+    \ any change of the organization or existing status of our company (such as restructuring,\
+    \ merger or bankruptcy), your personal data may be transferred to the company\
+    \ entity after change or our affiliated company (the \u201CData Transferee\u201D\
+    ). The Data Transferee will continue to be bounded by this Policy. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 64
+  segment_text: '5. Process Your Personal Data Using Third Party Services The Product
+    may contain a hyperlink directing to third party products or services, such as
+    a hyperlink to another website.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 65
+  segment_text: 'You may click the hyperlinks in this Product to access third party
+    products or services. Meanwhile, we may also embed third party links in this Product
+    and you may click these links to access or use third party products or services
+    on the interface of this Product. We hereby remind you that when you access or
+    use third party products or services via the above methods whereby your personal
+    data will be obtained by such third party products or services, the privacy policies
+    of such third party products or services will apply to such personal data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 66
+  segment_text: "6. How We Store and Protect Your Personal Data 6.1. Security protection\
+    \ of personal data We are committed to protecting your personal data. We have\
+    \ adopted all possible security technologies and procedures to protect your personal\
+    \ data against unauthorized access, use, revision, damage, destruction or disclosure.\
+    \ These security measures mainly include the following: a\uFF09 Your personal\
+    \ data is stored in the computer systems located in a controlled site with security\
+    \ measures such as encryption. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 67
+  segment_text: "b\uFF09 Only APUS employees who have the necessity to process relevant\
+    \ data for the purpose of product operation are authorized to access your personal\
+    \ data and such employees are required to comply with strict confidentiality obligations. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 68
+  segment_text: "c\uFF09 We are constantly striving to ensure the security of your\
+    \ personal data, and we adopt encryption technologies during data transmission\
+    \ to prevent your information against unauthorized access, use, revision, damage,\
+    \ destruction or disclosure. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 69
+  segment_text: "d\uFF09 We are more prudential when we transmit and store special\
+    \ categories of your personal data and adopt encryption technologies and other\
+    \ security measures to ensure data security. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 70
+  segment_text: 'In case of personal data security incident, according to the requirements
+    of relevant laws and regulations, we will promptly inform you via push notification,
+    announcement, etc. the basic situations and possible influence of the security
+    incident, response measures we have taken or will take, suggestions for you regarding
+    self-prevention and risk reduction, remedial measures for you, etc. We will timely
+    deal with system vulnerabilities, cyber-attacks, virus intrusion, and other security
+    risks. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 71
+  segment_text: '6.2. Personal data storage term We will store your personal data
+    for the necessary period for data collection and processing purposes. Beyond the
+    above-mentioned period, we will delete or anonymize personal data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 72
+  segment_text: 'Junk file scan results, new file data, fast transmission history,
+    web page transmission history, etc. These data are all stored locally and are
+    available throughout the application lifecycle. You can manually clear this data
+    at any time. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 73
+  segment_text: 'The access records, application execution logs, and application debug
+    logs of the cloud service are stored on the server for a short period of time,
+    typically 7 days. If this period expires, we will delete or anonymize the data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 74
+  segment_text: 'Application usage data is pseudo-persistently stored on the server
+    for data analysis. You can access, edit or delete your data in the manner described
+    in section. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 75
+  segment_text: 'After you cancel your account, we may not be able to delete your
+    personal data immediately due to technical reasons; however, we will delete it
+    during the next system update, and we undertake not to process your personal data
+    during the period between cancellation of your account and the next system update. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 76
+  segment_text: '7. How You Access and Control Your Personal Data 7.1. Access and
+    revise your personal data You may access and edit your personal data online through
+    APUS User Information Center. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 77
+  segment_text: '7.2. Change of your authorization scope You may select on the page
+    of APUS User Information Center to change your authorization scope for us to process
+    your personal data. Please be minded that since all functions of the Product need
+    certain basic personal data for normal operation, certain functions of the Product
+    may not operate normally when you withdraw your consent to processing of some
+    personal data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 78
+  segment_text: 'When we receive your withdrawal of consent, we will no longer process
+    your corresponding personal data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 79
+  segment_text: '7.3. Rejection of personalized advertising You may always choose
+    whether to receive promotional emails, messages, calls, and mails from us or third
+    parties. You may also choose to no longer receive personalized advertisements
+    through APUS User Information Center. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 80
+  segment_text: 'We will no longer use your personal data for the above-mentioned
+    commercial promotion purposes when you refuse to receive interest-based advertisements. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 81
+  segment_text: "Non-personalized ads don\u2019t use mobile ad identifiers for ad\
+    \ targeting, they do still use mobile ad identifiers for frequency capping, aggregated\
+    \ ad reporting, and to combat fraud and abuse. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 82
+  segment_text: '7.4. Delete your personal data You may submit a request to us to
+    delete your personal data when: a) Your personal data is no longer necessary for
+    data collection or processing; b) You have withdrawn your consent to our processing
+    of your personal data ; c) Your personal data has been processed illegally; d)
+    We are obligated to delete your personal data in accordance with the laws of EU
+    members. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 83
+  segment_text: 'We may not be able to delete your personal data immediately due to
+    technical reasons. We will delete it during the next system update. We will not
+    process your personal data in any way during the period between your request of
+    deleting your personal data and the next system update. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 84
+  segment_text: '7.5. Respond to your requests We may first verify your identity upon
+    receipt of your request, and may request you to provide the necessary information
+    for authentication. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 85
+  segment_text: 'We will respond to your request on the 30th day after we receive
+    your request and contact with you in an appropriate way.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 86
+  segment_text: 'If necessary, we may extend it (by an additional 30-day at most),
+    and will inform you of the reason for the extension of the deadline on the 30th
+    day after receiving your request. If we have reasonable reasons to believe that
+    no measures are needed to respond your request, we will inform you of our decision
+    30 days from the date of receiving your request and provide you with appropriate
+    explanation. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 87
+  segment_text: 'We will use best efforts to help you resolve relevant problems. If
+    you are not satisfied with the response you received, you may refer the complaint
+    to the relevant regulatory authority, or file a lawsuit before a competent judicial
+    authority. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 88
+  segment_text: "8. How We Process the Minor\u2019s Data This Product is not intended\
+    \ for a minor under 16 years old (or equivalent minimum age set by the laws of\
+    \ EU members). We will only process the information of these minors to the extent\
+    \ permitted by law and with the consent of their guardians. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 89
+  segment_text: "We will implement relevant technical measures and make our best efforts\
+    \ to verify whether the processing of minors\u2019 information has been approved\
+    \ by their guardians. We will try to delete relevant data as soon as possible\
+    \ if we are aware that we have collected the personal data of a minor without\
+    \ the prior consent of their certified guardians. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 90
+  segment_text: '9. Contact Us If you have any questions or suggestions about this
+    policy, or you need to do your data management power to manage your privacy data,
+    please feel free to contact us: filemanager-privacy@apusapps.com . '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 91
+  segment_text: 'If you find any violation of this policy, please feel free to contact
+    our DPO: dpo@apusapps.com. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 92
+  segment_text: '10. Update of Privacy Policy We reserve the right to revise or modify
+    this Policy. For any update of this Policy, we will send you notice on the interface
+    of this Product to remind you of relevant updates and indicate the updated provisions
+    for your ease of reading.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 93
+  segment_text: 'Please make sure that you completely read and fully understand the
+    updated Privacy Policy. By continuing to use this Product, you will be deemed
+    to have accepted the updated version of this Policy. We will not reduce your rights
+    under this Policy without your explicit consent. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 94
+  segment_text: '11. How Your Personal Data Is Transferred Globally We provide APUS
+    products and services around the world, which means to conduct business globally,
+    your personal data might be transmitted to a jurisdiction or accessed from such
+    jurisdiction outside of the country/region where you use this Product. These jurisdictions
+    include but are not limited to Singapore, United States, and China. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&USA&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&China&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&Singapour&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: How Your Personal Data Is Transferred Globally  We provide APUS
+      products and services around the world, which means to conduct business globally,
+      your personal data might be transmitted to a jurisdiction or accessed from such
+      jurisdiction outside of the country/region where you use this Product.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: These jurisdictions include but are not limited to Singapore, United States, and China.
+    annotations:
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+    - practice: TRANSFER&China&Unspecified_Mechanism
+      modality: PERFORMED
+    - practice: TRANSFER&Singapour&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 95
+  segment_text: "Please note that we only return demographic information to China\
+    \ and we do not include information on individual user identities. At the same\
+    \ time, in order to provide you with better services, our third party partners\
+    \ may transmit your data to other countries. For example, in order to detect robots\
+    \ or cheating, we have purchased a Chinese supplier\u2019s traffic monitoring\
+    \ service. The merchant may return the user information to China in order to assist\
+    \ us in analyzing whether there is cheating in the user. "
+  annotations:
+  - practice: TRANSFER&China&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Please note that we only return demographic information to China
+      and we do not include information on individual user identities.
+    annotations:
+    - practice: TRANSFER&China&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: At the same time, in order to provide you with better services,
+      our third party partners may transmit your data to other countries.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: The merchant may return the user information to China in order
+      to assist us in analyzing whether there is cheating in the user.
+    annotations:
+    - practice: TRANSFER&China&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 96
+  segment_text: 'Personal data protection legislation in such jurisdiction might be
+    different or even absent. Under such circumstance, we will adopt various measures
+    to ensure security of your personal data. For instance, we will ask you for your
+    explicit consent before transmission of your personal data, or implement security
+    measures such as encryption and pseudonymisation during data transmission; when
+    your personal data is transferred to such jurisdictions, we will apply the same
+    protection of your personal data in accordance with the Policy. We will endeavor
+    to protect your personal data with the measures stipulated in Article 46 and Article
+    47 of the EU General Data Protection Regulation. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Explicit_Consent
+    modality: PERFORMED
+  - practice: TRANSFER&Unspecified_Country&Binding_Corporate_Rules&Without_Copy
+  - modality: PERFORMED
+  sentences:
+  - sentence_text: 'For instance, we will ask you for your explicit consent before
+      transmission of your personal data, or implement security measures such as encryption
+      and pseudonymisation during data transmission; when your personal data is transferred
+      to such jurisdictions, we will apply the same protection of your personal data
+      in accordance with the Policy. '
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Explicit_Consent
+      modality: PERFORMED
+  - sentence_text: 'We will endeavor
+    to protect your personal data with the measures stipulated in Article 46 and Article
+    47 of the EU General Data Protection Regulation. '
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Binding_Corporate_Rules&Without_Copy
+      modality: PERFORMED
+- segment_id: 97
+  segment_text: 'The content of this Privacy Policy shall be adjusted according to
+    the local legal or statutory requirements. Last updated: [2018/5/25] '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

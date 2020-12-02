@@ -1,0 +1,655 @@
+policy_id: '30'
+policy_name: com.teamlava.fashionstory
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'Notice of Privacy  NOTICE OF UPDATE TO PRIVACY POLICY If you are
+    an EU resident, the following Privacy Statement (http://www.storm8.com/notice-of-privacy-eu/)
+    applies instead of the Privacy Policy below. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'In order to provide better service to our users and to increase the
+    level of transparency around our privacy practices, we have made some updates
+    to our policy including changes describing what data are collected through the
+    use of our applications. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'Should you have any questions regarding these updates, please contact
+    us through support.storm8.com.   Last Revised December 24, 2019. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: "Storm8, Inc., its subsidiaries and affiliated companies (\u201CStorm8\u201D\
+    \ or \u201CWe\u201D) provide this Privacy Policy to inform you of our policies\
+    \ and procedures regarding the collection, use and disclosure of personal information\
+    \ from users of (i) the website located at http://www.storm8.com (the \u201CSite\u201D\
+    ), including any services, features and content accessible or downloadable from\
+    \ the Site, and (ii) any other Storm8 application, service or product licensed,\
+    \ downloaded or otherwise accessed by such users that refers or links to this\
+    \ Privacy Policy ((i) and (ii) collectively, the \u201CService\u201D). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'Changes to the Privacy Policy: Storm8 reserves the right, in its
+    sole discretion, to change or modify this Privacy Policy at any time by posting
+    the changed or modified version of the Privacy Policy on the Site. If we make
+    material changes to the statement, we will provide notice or obtain consent regarding
+    such changes as may be required by law. Any such changes or modifications will
+    be effective immediately upon posting, subject to applicable law. If we make any
+    changes to this Privacy Policy, we will change the Last Revised date above. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'INFORMATION WE COLLECT:  Our primary goals in collecting and using
+    personal information are to provide and improve the Service, to administer and
+    assist you in administering your account on the Service, and to provide you with
+    a better experience with the Service. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'The information we collect depends on how you interact with us, the
+    products you use, and the choices you make. We collect personal information about
+    you from different sources and in various ways when you use our products, including
+    information you provide directly, information collected automatically, third-party
+    data sources, and data we infer or generate from this and other data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'Information you provide directly. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'We collect information you provide to us. For example: Contact information:  Application
+    contact information: Username Forum contact information: Username, email Support
+    page contact information: Name, email, phone Demographic data:  Forum demographic
+    data: Location, interests, occupation, favorite game Support page demographic
+    data Content and files: We collect photos, comments, messages, or files you input
+    and upload to the forum or support pages of our Service. If you send communications
+    to us, we may record and store archives of these communications.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: "Application content and files: Comments you make on other users\u2019\
+    \ walls Forum content and files: (a) Posts you make in our player forums and message\
+    \ boards, (b) comments you post to other users\u2019 profiles, (c) private messages\
+    \ or invitations you send to other users, or (d) photos you post on the forum\
+    \ Support content and files: Issue description, profile photo, supporting attachments\
+    \ Information collected automatically. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: "We collect some information automatically when you use our Services.\
+    \ For example: Identifiers and device information: When you use our games, we\
+    \ collect mobile IDs, other unique device IDs, your device type, operating system\
+    \ and version, and the Internet Protocol (\u201CIP\u201D) address, location, and\
+    \ time zone of your machine. In addition, we create a unique user ID to track\
+    \ your use of our applications. This unique user ID is stored in connection with\
+    \ your Account profile information to enable us to move Your Information to a\
+    \ new device at your request. This unique user ID may be used to link a character\
+    \ with which you play our games to your username on the Forums.   When you use\
+    \ our Site, we also collect cookie identifiers, carrier or internet service provider,\
+    \ the time, date, and URL of the request, information about the browser being\
+    \ used, and other information regarding the visit, such as language and other\
+    \ operating system information. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: 'Usage information: Our apps and connected products automatically
+    send us usage information. For example, when you play our games, we collect information
+    about your play and interaction with other users of the game, whether you are
+    using a point package, the pages visited on the game, access times, the time spent
+    on each page, and any advertisements clicked. When you use our Site, our web servers
+    automatically log your activity on our Site and the website from which you came
+    to our Site and any search terms used. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'Inferences. New information may be inferred from other data we and
+    others collect, including through using automated means to generate information
+    about your likely preferences or other characteristics. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: 'Information obtained from third-party sources. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'We may also obtain all categories of personal information described
+    above from third parties including, for example: Third-party partners. Third-party
+    applications and services, including social networks, such as Facebook, you choose
+    to connect with or interact with through our services, that make personal information
+    available to others. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: "COOKIES (CALIFORNIA \u201CDO NOT SELL MY INFO\u201D):  We use cookies,\
+    \ web beacons, mobile analytics, and advertising IDs, and similar technologies\
+    \ to operate our Services and to help collect data, including other identifiers\
+    \ and device information and usage data. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: "A cookie is a small text file that we and others transfer to your\
+    \ computer\u2019s hard drive. The text in a cookie consists of a string of numbers\
+    \ and letters that uniquely identifies your device, but it can contain other information\
+    \ as well. Our Site may use both session cookies and persistent cookies. A session\
+    \ cookie enables certain features of the Site and is deleted from your computer\
+    \ when you disconnect from or leave the Site. A persistent cookie remains after\
+    \ you close your browser and may be used by your browser on subsequent visits\
+    \ to the Site. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: "We and others may collect information using Web beacons. Web beacons\
+    \ or \u201Cgifs\u201D, are electronic images that may be used on our Site or in\
+    \ our emails. When your browser opens a webpage that contains a web beacon, it\
+    \ automatically connects to the web server that hosts the image (typically hosted\
+    \ by a third party). This allows that web server to log information about your\
+    \ device and to set and read its own cookies. In the same way, third-party content\
+    \ on our websites (such as embedded videos, plug-ins, or ads) results in your\
+    \ browser connecting to the third-party web server that hosts the content. We\
+    \ include web beacons in our email messages or newsletters to tell us if you open\
+    \ and act on them. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'On our applications, mobile analytics and advertising IDs are generated
+    by operating systems for mobile devices (iOS and Android) and can be accessed
+    and used by apps in much the same way that websites access and use cookies. Our
+    apps contain software that enables our third-party analytics and advertising partners
+    to access the mobile IDs. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'We, and our analytics and advertising partners, use these and other
+    technologies on our Services to collect personal information (such as the cookies
+    stored on your browser, the advertising identifier on your mobile device, or the
+    IP address of your device) when you use our Services. When your browser or application
+    connects to a third-party analytics or advertising partner, that third party is
+    able to collect information about your online activities over time and across
+    different websites or online services. They can also create inferences about you
+    from this information. We, and our analytics and advertising partners, may feature
+    advertisements served by third party advertising companies which deliver cookies
+    to your computer or device so the advertisements you see can be tracked. These
+    advertisers may use information about your visits to our Service in order to provide
+    advertisements about goods and services of interest to you. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'Third party cookie controls. The third-party advertising and analytics
+    providers we use on our Service include DoubleClick (Google) for advertising and
+    analytics (to learn more see https://policies.google.com/privacy and to opt out
+    see association links below), and Google Analytics for analytics (to learn more
+    see www.google.com/policies/privacy/partners and to opt-out visit https://tools.google.com/dlpage/gaoptout).
+    We also use ironSource for advertising purposes (to learn more, including how
+    to opt out, please visit https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
+    Some of these companies are also members of associations that provide a simple
+    way to opt out of analytics and ad targeting, which you can access at: United
+    States: NAI (http://www.networkadvertising.org/managing/opt_out.aspx) and DAA
+    (http://www.aboutads.info/choices/) Canada: Digital Advertising Alliance of Canada
+    (https://youradchoices.ca/) Europe: European Digital Advertising Alliance (http://www.youronlinechoices.com/)
+    Web browser cookie controls. Most web browsers are set to accept cookies by default.
+    If you prefer, you can go to your browser settings to instruct your web browser
+    to stop accepting or delete cookies. If your browser is set to refuse all cookies,
+    this could affect certain features of our Site. Similarly, if you choose to delete
+    cookies, settings and preferences controlled by those cookies, including advertising
+    preferences, may be deleted and may need to be recreated. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: 'Mobile advertising ID controls. Apple and Android mobile devices
+    each generate an advertising identifier that can be accessed by apps and used
+    by advertisers in much the same way that cookies are used on websites. These mobile
+    operating systems provide options to limit advertising tracking and/or reset the
+    advertising ID which will opt you out of personalized advertising on apps on that
+    device. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: 'Email web beacons. You can disable web beacons in email messages
+    by changing the settings in your email service to prevent the automatic downloading
+    of images. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: "Do Not Track. Some browsers have incorporated \u201CDo Not Track\u201D\
+    \ (DNT) features that can send a signal to the websites you visit indicating you\
+    \ do not wish to be tracked. Because there is not a common understanding of how\
+    \ to interpret the DNT signal, our Site does not currently respond to browser\
+    \ DNT signals. Instead, you can use the range of other tools to control data collection\
+    \ and use, including the cookie controls and advertising controls described above. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: 'Note that if you make the choices described above, some personal
+    information may still be collected by our partners to help us perform analytics
+    and advertising-related functions such as, but not limited to, measuring the effectiveness
+    of our ads, managing how many times you may see an ad, reporting on the performance
+    of our ads, ensuring services are working correctly and securely, providing aggregate
+    statistics and analytics, improving when and where you may see ads and/or reducing
+    ad fraud. If you access the opt out page (or settings) from other devices or browsers,
+    revisit those pages or settings to opt out from those other devices or browsers.
+    Additionally, making these choices will not opt you out of the use of previously
+    collected personal information or all interest-based advertising. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: "California \u201CDo Not Sell My Info.\u201D The California Consumer\
+    \ Protection Act (\u201CCCPA\u201D) requires us to disclose categories of personal\
+    \ information sold to third parties and how to opt-out of such sales. The CCPA\
+    \ defines personal information to include online identifiers, including IP address,\
+    \ cookies IDs, and mobile IDs. The law also defines a \u201Csale\u201D to include\
+    \ simply making data available to third parties. We let advertising and analytics\
+    \ providers collect IP addresses, cookie IDs, mobile IDs through our sites and\
+    \ apps when you use our online services, and they may further \u201Csell\u201D\
+    \ such information, but we do not \u201Csell\u201D any other types of personal\
+    \ information. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: "If you do not wish for us or our partners to \u201Csell\u201D or\
+    \ further \u201Csell\u201D your personal information to third parties for advertising\
+    \ or analytics purposes, you can make your Do Not Sell Request by opting out of\
+    \ third party tracking as described in this Cookie section. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: 'OUR USE OF PERSONAL INFORMATION: We use the information we collect
+    for purposes described in this privacy statement or otherwise disclosed to you.
+    For example, we use contact information, demographic data, content and files,
+    identifiers and device information, geolocation data usage data, and inference
+    information for the following purposes: Product and service delivery. To provide
+    and deliver our service, including registering your account, securing, troubleshooting,
+    improving, and personalizing the Service. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: 'Business operations. To operate our business, such as billing, accounting,
+    improving our internal operations, securing our systems, and detecting fraudulent
+    or illegal activity. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 30
+  segment_text: 'Product improvement, development, and research. To improve our products,
+    develop new products or features, and conduct research. Personalization. To understand
+    you and your preferences to enhance your experience and enjoyment using our products. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 31
+  segment_text: 'Customer support. To provide customer support, respond to your questions,
+    enforce our terms of service, and resolve disputes. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 32
+  segment_text: 'Communications. To send you information, including confirmations,
+    technical notices, updates, security alerts, and support and administrative messages
+    such as your subscriptions to forum threads. We also use your data to connect
+    you with other users of our Service. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: 'Advertising. To display advertising to you (see the Cookies section
+    of this privacy statement for information about personalized advertising and your
+    advertising choices). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: 'Examples of how we collect and use your personal information include
+    the following: Use of Account:  We may collect Your Information, including your
+    email address, in connection with your creation of an Account. You can register
+    for an Account via a Storm8 application. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: "Offer Wall:  We may display an \u201Coffer wall\u201D in our applications\
+    \ that is hosted by an offer wall provider. The offer wall allows third party\
+    \ advertisers to provide virtual currency to users in exchange for interacting\
+    \ with an advertisement or for completing a marketing offer that may include signing\
+    \ up for an account with one of those advertisers. These are not offers made by\
+    \ Storm8. These offers may be displayed to you based on certain technical information,\
+    \ such as your geographic area or demographic information and the type of data\
+    \ described in our Cookie section. After clicking on one of these advertisements,\
+    \ you will no longer be on a site hosted by Storm8. To properly credit user accounts\
+    \ and to prevent fraud, a unique identifier will be shared with the offer wall\
+    \ provider. For more information about our offer wall provider, including certain\
+    \ choices you may have with regard to Your Information, please visit https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 36
+  segment_text: 'Facebook Connect: If you use one of our applications and connect
+    to your Facebook account within such application, you will be providing us with
+    basic account information, i.e., user ID, name, email, gender, profile picture
+    URL and the usernames of your friends who have also connected with our applications.
+    In addition, we will cache data we receive from the Facebook APIs to improve our
+    user experience. If you want us to delete the data we receive from Facebook about
+    you, please contact us through support.storm8.com. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 37
+  segment_text: "Invite a Friend: You may decide to provide us with another party\u2019\
+    s email address to allow us to contact and invite that party to visit or join\
+    \ the Service or so that Storm8 may facilitate your communication with such other\
+    \ party through methods of communication enabled by the Service (such as when\
+    \ you upload an address book). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 38
+  segment_text: 'SHARING YOUR PERSONAL INFORMATION: We may share all categories of
+    personal information described above as approved by you or as described below:
+    We may employ third party companies and individuals to process personal information
+    on our behalf. These third parties have access to personal information only to
+    perform these tasks on our behalf and for other lawful purposes for which service
+    providers may process personal information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 39
+  segment_text: 'We may also provide personal information to our business partners
+    or other trusted entities for the purpose of providing you with information on
+    goods or services we believe will be of interest to you, subject to applicable
+    law. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 40
+  segment_text: 'We will disclose any information about you to government or law enforcement
+    officials or private parties as we, in our sole discretion, believe necessary
+    or appropriate to respond to claims and legal process (including but not limited
+    to subpoenas), to protect the property and rights of Storm8 or any third party,
+    to protect the safety of the public or any person, or to prevent or stop activity
+    we may consider to be, or to pose a risk of being, illegal, unethical or legally
+    actionable. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 41
+  segment_text: 'We may share your personal information in connection with a corporate
+    transaction or proceeding such as a merger, sale of all or a portion of our assets,
+    bankruptcy, divestiture, or a financing or acquisition of all or a portion of
+    our business to another company. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 42
+  segment_text: 'Third party analytics and ad tech companies also collect data through
+    our website and apps including, transaction details, account information, marketing
+    and communications data, demographic data, content and files, geolocation data,
+    usage data, and inferences associated with identifiers and device information
+    (such as cookie IDs, device IDs and IP address) as described in our Cookies section. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 43
+  segment_text: 'We may also share aggregate and/or deidentified information about
+    you in accordance with applicable law. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 44
+  segment_text: 'Please note that some parts of our Service include references or
+    links to products provided by third parties whose privacy practices differ from
+    ours. If you provide information to any of those third parties, or consent to
+    our sharing your personal information with them, that personal information is
+    governed by their privacy statements. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 45
+  segment_text: 'Public information. Certain of your information, such as your username
+    and other information, may always be publicly visible by other users of the Forums,
+    including when such users view your Account profile page. Your email address will
+    not be publicly visible unless you choose to make it visible in your Account profile
+    page. When you register for an Account or later access your Account, you may be
+    able to adjust settings and preferences within your Account to choose whether
+    to share and make publicly visible other pieces of your information, and the Service
+    may display your information based on the settings and preferences you choose.
+    We encourage you to consider carefully what information to share as part of your
+    Account profile and elsewhere in the Service, and we recommend that you guard
+    your anonymity and sensitive information and not use your real name as your username,
+    as that may allow other users of the Service to identify you. Any information
+    you choose to share should reflect how much you want other users of the Service
+    to know about you. You can review and revise your Account profile information
+    at any time. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 46
+  segment_text: 'CHOICES: Cookies. See the Cookies section for choices about cookies
+    and other analytics and advertising controls. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 47
+  segment_text: 'Communications. You can exercise certain choices related to email
+    messages by following the directions in the applicable message. You can change
+    some settings related to email notifications from your forum account, if applicable
+    to you. These choices do not apply to mandatory service communications that are
+    part of certain of our Services or to informational communications that may have
+    their own unsubscribe method. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 48
+  segment_text: "CALIFORNIA PRIVACY RIGHTS: If you are a California resident and the\
+    \ processing of personal information about you is subject to the California Consumer\
+    \ Privacy Act (\u201CCCPA\u201D), you have certain rights with respect to that\
+    \ personal information. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 49
+  segment_text: 'Right to know and right to delete.  You have a right to request that
+    we disclose what personal information we collect, use, disclose, and sell about
+    you. Much of the information about categories of data is already included in this
+    privacy policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 50
+  segment_text: "You also have a right to request that we delete certain data we have\
+    \ about you. You may make such a \u201Crequest to know\u201D or \u201Crequest\
+    \ to delete\u201D your personal information (subject to our verification of your\
+    \ identity and a number of exceptions) by contacting us at support.storm8.com\
+    \ or ccpa@storm8.com. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 51
+  segment_text: "Right to opt out. You have a right to opt out from future \u201C\
+    sales\u201D of personal information. To do so, review the Cookies, (California\
+    \ Do Not Sell My Info) section. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 52
+  segment_text: 'California residents under the age of 18. California residents under
+    the age of 18 who are registered users of online sites, services, or applications
+    have a right to remove, or request and obtain removal of, content or information
+    they have publicly posted (subject to our verification of your identity and a
+    number of exceptions). To request to remove content or information you have publicly
+    posted, contacting us at support.storm8.com. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 53
+  segment_text: "Shine the Light. Additionally, under California Civil Code section\
+    \ 1798.83, also known as the \u201CShine the Light\u201D law, California residents\
+    \ who have provided personal information to a business with which the individual\
+    \ has established a business relationship for personal, family, or household purposes\
+    \ (\u201CCalifornia Customers\u201D) may request information about whether the\
+    \ business has disclosed personal information to any third parties for the third\
+    \ parties\u2019 direct marketing purposes. We comply with this law by offering\
+    \ our customers a choice about the disclosure of personal information to third\
+    \ parties for their direct marketing purposes, and you can make or change such\
+    \ choice by contacting support.storm8.com or by electing to make your personal\
+    \ information available to third parties by selecting or unselecting to \u201C\
+    opt-in\u201D in various places on the Service. California Customers may request\
+    \ further information about our compliance with this law by contacting us at support.storm8.com.\
+    \ Please note that businesses are required to respond to one request per California\
+    \ Customer each year and may not be required to respond to requests made by means\
+    \ other than through the designated e-mail address. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 54
+  segment_text: 'SECURITY: Storm8 takes reasonable measures to help protect your information
+    from unauthorized access or against loss, misuse or alteration by third parties. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 55
+  segment_text: "We cannot guarantee the absolute security of that information during\
+    \ its transmission or its storage on our systems. In particular, we cannot guarantee\
+    \ that our security measures will prevent third-party \u201Chackers\u201D from\
+    \ illegally obtaining access to this information. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 56
+  segment_text: 'To help us protect personal information, we request that you use
+    a strong password and never share your password with anyone or use the same password
+    with other sites or accounts. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 57
+  segment_text: 'INTERNATIONAL USERS: If you are located outside the United States
+    and choose to provide information to us, Storm8 transfers your information to
+    the United States and processes it there. If you are located in regions with laws
+    governing data collection and use that may differ from U.S. law, please note that
+    you are transferring information, including personal information, to a country
+    and jurisdiction that does not have the same data protection laws as your jurisdiction. '
+  annotations:
+  - practice: TRANSFER&USA&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'INTERNATIONAL USERS:  If you are located outside the United States
+      and choose to provide information to us, Storm8 transfers your information to
+      the United States and processes it there.'
+    annotations:
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: If you are located in regions with laws governing data collection
+      and use that may differ from U.S. law, please note that you are transferring
+      information, including personal information, to a country and jurisdiction that
+      does not have the same data protection laws as your jurisdiction.
+    annotations:
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 58
+  segment_text: "THIRD-PARTY LINKS: The Service may contain links to other websites\
+    \ and online services (\u201CLinked Sites\u201D). The fact that we link to a third-party\
+    \ website or service is not an endorsement or representation of our affiliation\
+    \ with that third party, nor is it an endorsement of their privacy policies or\
+    \ practices. We are not responsible for the privacy practices of such Linked Sites,\
+    \ and this Privacy Policy does not apply to such Linked Sites. The operators of\
+    \ Linked Sites may collect information about you and may use and disclose that\
+    \ information. We encourage you to review the privacy policies of the Linked Sites\
+    \ that you use. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 59
+  segment_text: 'CONTACTING US: If you have any questions about this Privacy Policy,
+    please contact us through support.storm8.com. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

@@ -1,0 +1,417 @@
+policy_id: '9'
+policy_name: com.cardinalblue.piccollage.google
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "Privacy Policy This Privacy Policy describes how PicCollage. ('PicCollage',\
+    \ 'We', 'Us', or 'Our') protects your privacy when you use PicCollage (the 'PicCollage\
+    \ Service') which includes the website located at www.piccollage.com (the 'Site')\
+    \ and all mobile phone applications developed by Cardinal Blue Software, Inc.('Mobile'),\
+    \ with the exception of the \u201CPicCollage EDU\u201D application, which has\
+    \ a separate privacy policy. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING
+    THE SERVICE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN
+    AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO
+    ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE PICCOLLAGE
+    SERVICE. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'This Privacy Policy applies to information (including personal information)
+    collected through the PicCollage Service. For the purpose of this Privacy Policy,
+    ''personal information'' means information that identifies you personally, either
+    alone or in combination with other information available to us. Personal information
+    does not include technical, device, or usage information that cannot be used to
+    identify you personally, nor does it include ''aggregate'' information, which
+    is data we collect about the use of the PicCollage Service or about a group or
+    category of services or users, from which individual identities or other personal
+    information have been removed. This Privacy Policy in no way restricts or limits
+    our collection and use of aggregate and non-personal information, and we may share
+    such data about our users with third parties for various purposes. This Privacy
+    Policy is part of and incorporated into PicCollage''s Terms of Service (''Terms
+    of Service''). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: "The What & How of Information We Collect We collect certain personal\
+    \ information that you voluntarily provide to us. For example, in the case where\
+    \ you create a PicCollage log-in account, we may collect your name, email address,\
+    \ username, social network information and other information that you choose to\
+    \ provide to us. The PicCollage app may be used without logging in, in which case\
+    \ we do not collect the user\u2019s personal information. We may also obtain information\
+    \ from other companies and combine that with information we collect on the PicCollage\
+    \ Service; for example, when you link your account with Facebook, we will have\
+    \ access to your name. "
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: Facebook_SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: ' For example, in the case where you create a PicCollage log-in
+      account, we may collect your name, email address, username, social network information
+      and other information that you choose to provide to us.'
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+  - sentence_text: We may also obtain information from other companies and combine
+      that with information we collect on the PicCollage Service; for example, when
+      you link your account with Facebook, we will have access to your name.
+    annotations:
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: Facebook_SSO&1stParty
+      modality: PERFORMED
+- segment_id: 5
+  segment_text: 'When you use the PicCollage Service, we may automatically collect
+    some information. For example, it is standard for your Web browser to automatically
+    send information to every Web site you visit, including ours. Such information
+    includes your computer''s Internet Protocol (''IP'') address, access times, browser
+    type and language, and referring Web site addresses. We also collect information
+    about your computer''s operating system and information about your usage and activity
+    on the Site.  '
+  annotations:
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Such information includes your computer''s Internet Protocol (''IP'')
+      address, access times, browser type and language, and referring Web site addresses. '
+    annotations:
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+- segment_id: 6
+  segment_text: "With your permission in the application, we may access your device\u2019\
+    s photo library. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'Cookies - We automatically collect certain information through the
+    use of ''cookies''. Cookies are small data files that are stored on your device
+    by a Service. Among other things, the use of cookies helps us to improve the Service
+    and your experience of the Service. We use cookies to see which areas and features
+    of the Service are most popular, to count the number of devices accessing the
+    Site, to personalize your experience and to remember your preferences. If your
+    browser or device is set not to accept cookies or if you reject a cookie, you
+    may not be able to access certain features or services of the Service. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Cookies - We automatically collect certain information through
+      the use of ''cookies''. '
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+  - sentence_text: Among other things, the use of cookies helps us to improve the
+      Service and your experience of the Service.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+  - sentence_text: We use cookies to see which areas and features of the Service are
+      most popular, to count the number of devices accessing the Site, to personalize
+      your experience and to remember your preferences.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+- segment_id: 8
+  segment_text: 'Storage of Information & Transfer of Data Most of the information
+    we collect is retained by us on our servers. If you are using the PicCollage Service
+    from a country other than the country in which our Web servers are located (United
+    States), the various communications will necessarily result in the transfer of
+    information across international boundaries. '
+  annotations:
+  - practice: TRANSFER&USA&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: If you are using the PicCollage Service from a country other than
+      the country in which our Web servers are located (United States), the various
+      communications will necessarily result in the transfer of information across
+      international boundaries.
+    annotations:
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 9
+  segment_text: 'Data Privacy The information we collect from you includes the country
+    you set your device to, the language you use on your device, the type and version
+    of the operating system of your device, and your device model. If you make any
+    in-app purchases, we will also collect the product IDs of the items you purchase. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: "We collect this information from you to improve our app\u2019s overall\
+    \ performance and the service we provide. We analyze this information with tools\
+    \ provided by third party companies. These companies include: Flurry, Firebase,\
+    \ Facebook, Google, Amplitude, Fabric All these companies are GDPR-compliant and\
+    \ CCPA-compliant. You can learn more about the information they collect and analyze\
+    \ to ensure that PicCollage provides optimum user experience by clicking on the\
+    \ links above. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: 'If you connect PicCollage to other social media platforms such as
+    Facebook or Twitter, we will collect further information from you. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: 'Facebook Authentication: authentication data as specified in the
+    Facebook privacy policy which include username, email, locale, and identifier. '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: Identifier&1stParty
+    modality: PERFORMED
+  - practice: Location&1stParty
+    modality: PERFORMED
+  - practice: Facebook_SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Facebook Authentication: authentication data as specified in the
+      Facebook privacy policy which include username, email, locale, and identifier.'
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: Identifier&1stParty
+      modality: PERFORMED
+    - practice: Location&1stParty
+      modality: PERFORMED
+    - practice: Facebook_SSO&1stParty
+      modality: PERFORMED
+- segment_id: 13
+  segment_text: 'Twitter Authentication: authentication data as specified in the Twitter
+    privacy policy which include your name, username, URL to your profile image and
+    identifier. '
+  annotations:
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: Identifier&1stParty
+    modality: PERFORMED
+  - practice: SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Twitter Authentication: authentication data as specified in the
+      Twitter privacy policy which include your name, username, URL to your profile
+      image and identifier.'
+    annotations:
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: Identifier&1stParty
+      modality: PERFORMED
+    - practice: SSO&1stParty
+      modality: PERFORMED
+- segment_id: 14
+  segment_text: "We also provide you with personalized ads to show you content that\u2019\
+    s tailored to you. The ads are provided by the following companies: InMobi, Ogury,\
+    \ Vungle, Facebook, Receptiv, IronSource, LoopMe, Smaato, Google All these companies\
+    \ are GDPR-compliant and CCPA-compliant. Click on the company links above to learn\
+    \ more about the information they collect and how they process it to serve you\
+    \ personalized content. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'To provide users with an efficient way to communicate with PicCollage,
+    we use Zendesk, a customer service platform, to receive your feedback and offer
+    timely responses to any questions you have. Please note we will receive your IP
+    address and email address when you try to contact us through Zendesk. '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Please note we will receive your IP address and email address when
+      you try to contact us through Zendesk.
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+- segment_id: 16
+  segment_text: "Users can create and purchase customized phone cases in the PicCollage\
+    \ app through KITE, a print-on-demand software. You can head over to KITE\u2019\
+    s website to learn more about how they process your information and orders. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: 'Please note PicCollage will collect your username and email address
+    when you consent to create an account. Also, your username and the information
+    you choose to share will be available to other social network users only when
+    you set your account privacy to Public. '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Please note PicCollage will collect your username and email address
+      when you consent to create an account.
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+- segment_id: 18
+  segment_text: 'How We Use Your Personal Information We use personal information
+    collected through the PicCollage Service with your permission: to communicate
+    with you or third parties; to process your requests and transactions; to improve
+    the PicCollage Service; to customize the services and/or products we provide to
+    you; to assist with our product and service development; to perform marketing
+    activities; to provide relevant advertising; and for other purposes related to
+    our business. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'With Whom We Share Your Personal Information Personal information
+    (and non-personal information) collected through the PicCollage Service may be
+    shared with companies and organizations that perform services on our behalf (for
+    example, companies that provide data management or other support services to us
+    such as data storage and Web hosting services). We may share your personal information
+    (and non-personal information) with third parties to serve you relevant advertising
+    and market our products, but we won''t sell your personal information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'Also, we may disclose the personal information we collect through
+    the PicCollage Service when we, in good faith, believe disclosure is appropriate
+    to: comply with applicable law (e.g., in response to a valid court order or subpoena);
+    prevent or investigate a possible crime, such as fraud or identity theft; enforce
+    the Terms of PicCollage Service or other agreements that govern your use of the
+    PicCollage Service and/or our services; to protect the rights, property or safety
+    of us, our users or others; or to protect your vital interests. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: "If we are going to release your information in response to legal\
+    \ process, our policy is to provide you with reasonable advance notice under the\
+    \ circumstances unless we are prohibited from doing so by law or court order (e.g.,\
+    \ an order under 18 U.S.C. \xA7 2705(b)). We may disclose your information without\
+    \ giving you prior notice if we believe it is necessary to prevent imminent and\
+    \ serious bodily harm to a person. Nothing in this privacy policy is intended\
+    \ to limit any legal objections or defenses you might have to efforts by third\
+    \ parties to compel disclosure of your information, including legal orders from\
+    \ the government. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: 'Your personal information and other data collected by us may be transferred
+    to another company that has acquired our stock or assets, for example, as a result
+    of a sale, merger, reorganization, dissolution or liquidation. If such a transfer
+    occurs, the acquiring company''s use of your personal information will still be
+    subject to this Privacy Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: 'Modifying Your Information - Opt-Out / Opt-In We respect your right
+    to make choices about the ways we collect, use and disclose your personal information.
+    You may update or modify your information or change your privacy preferences at
+    any time by emailing us at support@cardinalblue.com or, in some instances, via
+    the PicCollage Service. You may opt out of receiving promotional communications
+    from us, including, but not limited to, promotional emails, by emailing us at
+    support@cardinalblue.com. Transactional service communications (such as messages
+    about your registration) are not subject to the foregoing opt-out procedures.
+    Requests to disable your account or reset your password should be sent to support@cardinalblue.comfor
+    faster processing. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: 'SECURITY OF YOUR PERSONAL INFORMATION We take reasonable security
+    measures to protect your personal information (including preventing the loss,
+    misuse, unauthorized access, disclosure, alteration and destruction of your personal
+    information). However, we cannot guarantee that unauthorized third parties will
+    not be able to defeat our security measures. If you use a password on the PicCollage
+    Service, you are responsible for keeping it confidential. Do not share it with
+    any other person. If you believe your password has been misused or your account
+    compromised, please advise us immediately. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: 'A NOTE TO CALIFORNIA RESIDENTS If you are a California resident please
+    see our Terms of Service to learn about your rights and access to data under CCPA. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: 'Additionally, California Civil Code Section 1798.83 permits you to
+    request information regarding the disclosure of your personal information (if
+    any) by PicCollage to third parties for the third parties'' direct marketing purposes.
+    To make this request, please email support@cardinalblue.com or contact us using
+    this address: Cardinal Blue Software, P.O. Box 390677, Mountain View, CA 94039. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: 'If you are a California resident under the age of 18, and a registered
+    user of any site where this policy is posted, California Business and Professions
+    Code Section 22581 permits you to request and obtain removal of content or information
+    you have publicly posted. To make such a request, please send an email with a
+    detailed description of the specific content or information to support@cardinalblue.com.
+    Please be aware that such a request does not ensure complete or comprehensive
+    removal of the content or information you have posted and that there may be circumstances
+    in which the law does not require or allow removal even if requested. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: 'CHANGES TO THIS PRIVACY POLICY We may change this Privacy Policy
+    from time to time. If we make any changes to this Privacy Policy that we think
+    materially alter your rights, then we will post the latest policy to this site
+    and change the ''Last Updated'' date above. We encourage you to review this Privacy
+    Policy whenever you visit the PicCollage Service[LM8]to understand how your personal
+    information is used. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: 'QUESTIONS If you have any questions about this Privacy Policy, please
+    contact us at support@cardinalblue.com Copyright 2020. All rights reserved. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

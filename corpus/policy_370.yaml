@@ -1,0 +1,145 @@
+policy_id: '370'
+policy_name: com.impossible.stunt.track.racing
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'Privacy policy Thank you for playing our games, this privacy policy
+    explains how your personal data is collected and processed by us, when you play
+    our games. We update our privacy policy from time to time. We request you to review
+    the privacy policy. So, you will be updated by our changes in it. This will show
+    you, how we process your personal data and we protect your privacy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'Cookies: Cookies help us to manage the state of order and also present
+    customize offers to our customers. When you access the game, we collect information
+    in order to manage advertisements and provide a more personalized experience by
+    analyzing your personal information. We use Log Files and tracking technologies
+    to collect and analyze certain technical information. This information may include
+    IP addresses, device type, browser language, platform type, the amount of time
+    you spent on the game, date and time of activity, and similar information. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Cookies help us to manage the state of order and also present customize
+      offers to our customers. When you access the game, we collect information in
+      order to manage advertisements and provide a more personalized experience by
+      analyzing your personal information.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+  - sentence_text: We use Log Files and tracking technologies to collect and analyze
+      certain technical information.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+  - sentence_text: 'This information may include IP addresses, device type, browser
+      language, platform type, the amount of time you spent on the game, date and
+      time of activity, and similar information. '
+    annotations:
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+- segment_id: 3
+  segment_text: "Disclosure of personal information: We may disclose your personal\
+    \ information. But don\u2019t worry we will do it only on certain conditions.\
+    \ And these conditions are When it complies with the law or legal process served\
+    \ on us. Protect and defend our rights. The enforcement of our agreement. Protect\
+    \ the security and safety of user. The data we collect automatically: "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'When you play our games, we may collect general information about
+    you, this information includes: IP address (your device id or advertising id).
+    Mobile device (device name, operating system). Usage (use of the app/consumption).
+    Storage information. '
+  annotations:
+  - practice: Identifier_Ad_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Device_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'When you play our games, we may collect general information about
+      you, this information includes:  IP address (your device id or advertising id).  Mobile
+      device (device name, operating system).  Usage (use of the app/consumption).  Storage
+      information.'
+    annotations:
+    - practice: Identifier_Ad_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_Device_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+- segment_id: 5
+  segment_text: 'The data we collect from other sources: If you are log into the app
+    using third party such as Google, Facebook, we access that information from that
+    platform.  This may include: Your screen name Profile information Friend list '
+  annotations:
+  - practice: SSO&1stParty
+    modality: PERFORMED
+  - practice: Facebook_SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'The data we collect from other sources:  If you are log into the
+      app using third party such as Google, Facebook, we access that information from
+      that platform.'
+    annotations:
+    - practice: SSO&1stParty
+      modality: PERFORMED
+    - practice: Facebook_SSO&1stParty
+      modality: PERFORMED
+- segment_id: 6
+  segment_text: 'Why do we collect data? We collect your personal information for
+    the following purposes: Create accounts and allow you to play our games. To manage
+    the relationship with you. Verify and confirm payments. Customize your service
+    experience. For service related communications. To make the service more suitable
+    to you. To keep service safe and fair. To take action against fraud/misbehaving
+    players. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'Who can see your data? Your data can be accessed by others if we
+    require disclosing your personal data by applicable law, this may include: Other
+    players and users. Our partners. Other social networks. Advertising and social
+    media partners. International data transfers. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'Data retention: We retain your data for as long as your account is
+    active. We regularly review and de-identify unnecessary data. If you ask us your
+    personal data, we will retain your data as necessary for our legitimate business
+    interests such as to enforce our agreement, resolve disputes or to comply with
+    our legal obligations.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'Security: We take reasonable measures to help protect information
+    about you from loss, misuse theft, and unauthorized access, alteration and destruction. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: 'Push notifications: We send notifications to your device to provide
+    game-related information, promotional communication, service updates and other
+    related messages. You can de activate this service by changing your notification
+    setting.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

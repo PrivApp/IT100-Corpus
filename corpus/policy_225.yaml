@@ -1,0 +1,469 @@
+policy_id: '225'
+policy_name: flipboard.app
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "PRIVACY POLICY LANGUAGE May 25th, 2018 Flipboard Privacy Policy Privacy\
+    \ and data protection are important to the Flipboard community.  Transparency\
+    \ is, too.  We\u2019ve done our best to cut through the legal jargon and explain\
+    \ in simple terms what information we collect about you, what we use it for, and\
+    \ the few situations in which we share it with others. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: "Please read this privacy policy carefully. It applies to all interactions\
+    \ you have with Flipboard\u2019s products and services. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'The Information We Collect Flipboard is responsible for the data
+    you provide through our products and services. When you create an account with
+    Flipboard, you give us your full name and email address, and create a username
+    and password. If you want, you can give us a pseudonym instead of your legal name. '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: Contact_Password&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: When you create an account with Flipboard, you give us your full
+      name and email address, and create a username and password. If you want, you
+      can give us a pseudonym instead of your legal name.
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: Contact_Password&1stParty
+      modality: PERFORMED
+- segment_id: 4
+  segment_text: "If you don\u2019t feel like creating an account from scratch, you\
+    \ may be able to sign in through an account you already have with another service,\
+    \ such as Facebook. "
+  annotations:
+  - practice: SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "If you don\u2019t feel like creating an account from scratch,\
+      \ you may be able to sign in through an account you already have with another\
+      \ service, such as Facebook."
+    annotations:
+    - practice: SSO&1stParty
+      modality: PERFORMED
+- segment_id: 5
+  segment_text: "Your user profile helps you customize your account and connect with\
+    \ other Flipboard users. Your profile automatically includes your name and username.\
+    \ You can also add a profile picture and whatever else you\u2019d like in the\
+    \ \u201CBio\u201D field. "
+  annotations:
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Your profile automatically includes your name and username. '
+    annotations:
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+- segment_id: 6
+  segment_text: 'To help you connect with other Flipboard users and to personalize
+    your Flipboard experience, we may ask for additional information, including your
+    contacts or location. '
+  annotations:
+  - practice: Contact&1stParty
+    modality: PERFORMED
+  - practice: Location&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: To help you connect with other Flipboard users and to personalize
+      your Flipboard experience, we may ask for additional information, including
+      your contacts or location.
+    annotations:
+    - practice: Contact&1stParty
+      modality: PERFORMED
+    - practice: Location&1stParty
+      modality: PERFORMED
+- segment_id: 7
+  segment_text: "We receive some other information automatically when you use Flipboard.\
+    \ This includes data about your device, software, operating system, operating\
+    \ system-provided device IDs or user-specific advertising IDs for advertisement\
+    \ tracking (\u201CAdvertising IDs\u201D), your IP address and the date and time\
+    \ of each request you make to Flipboard. "
+  annotations:
+  - practice: Identifier_Ad_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Device_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "We receive some other information automatically when you use Flipboard.\
+      \ This includes data about your device, software, operating system, operating\
+      \ system-provided device IDs or user-specific advertising IDs for advertisement\
+      \ tracking (\u201CAdvertising IDs\u201D), your IP address and the date and time\
+      \ of each request you make to Flipboard"
+    annotations:
+    - practice: Identifier_Ad_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_Device_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+- segment_id: 8
+  segment_text: 'So that we can make your Flipboard experience better, we collect
+    information about how you view, flip and interact with content and advertisements
+    through Flipboard and on third-party sites with Flipboard widgets. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: "You may link your Flipboard account to other services you use, such\
+    \ as social networking sites, photo-sharing services and media publishers such\
+    \ as the New York Times. If you connect your Flipboard account with a third-party\
+    \ service, we collect information through that service. This information varies\
+    \ depending on the service and your privacy settings there, but may include profile\
+    \ information (e.g., age, gender and location), your contacts on that service\
+    \ and content that you\u2019ve made publicly available there. If you connect your\
+    \ YouTube account on Flipboard, you agree to be bound by the YouTube Terms of\
+    \ Service and also the Google Privacy Policy. "
+  annotations:
+  - practice: Contact_Address_Book&1stParty
+    modality: PERFORMED
+  - practice: Demographic_Age&1stParty
+    modality: PERFORMED
+  - practice: Demographic_Gender&1stParty
+    modality: PERFORMED
+  - practice: Location&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: " If you connect your Flipboard account with a third-party service,\
+      \ we collect information through that service. This information varies depending\
+      \ on the service and your privacy settings there, but may include profile information\
+      \ (e.g., age, gender and location), your contacts on that service and content\
+      \ that you\u2019ve made publicly available there. "
+    annotations:
+    - practice: Contact_Address_Book&1stParty
+      modality: PERFORMED
+    - practice: Demographic_Age&1stParty
+      modality: PERFORMED
+    - practice: Demographic_Gender&1stParty
+      modality: PERFORMED
+    - practice: Location&1stParty
+      modality: PERFORMED
+- segment_id: 10
+  segment_text: "If you want to email something you see through Flipboard to a friend\
+    \ who isn\u2019t already a Flipboard account holder, we may keep their email address\
+    \ for the purpose of sending such email and improving our services. Recipients\
+    \ may contact us at privacy@flipboard.com to request that we remove this information\
+    \ from our database. "
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "If you want to email something you see through Flipboard to a\
+      \ friend who isn\u2019t already a Flipboard account holder, we may keep their\
+      \ email address for the purpose of sending such email and improving our services."
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+- segment_id: 11
+  segment_text: "How We Use and Disclose Your Information A big part of Flipboard\
+    \ is sharing content you find interesting. That\u2019s why your Flipboard profile,\
+    \ the people and sources you follow or that follow you, the magazines you create,\
+    \ the comments you post and the content you flip are all public. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: "Aside from that, we use your information to keep Flipboard running,\
+    \ better understand how you use our service, customize your experience (including\
+    \ the content, marketing materials, and advertisements you see), prevent abuse\
+    \ and improve Flipboard. Flipboard may also work with advertising partners to\
+    \ serve you third-party advertisements, including interest-based advertisements,\
+    \ on Flipboard and on other services. For more information about our advertising\
+    \ partners\u2019 practices, please visit Datalogixand Oracle. You can learn more\
+    \ about interested-based advertising, including how to opt out of third-party\
+    \ partners\u2019 advertising you see on Flipboard and on other services, by visiting\
+    \ http://www.aboutads.info/choices/ and http://www.aboutads.info/appchoices. Users\
+    \ in European countries can visit http://www.youronlinechoices.eu/for more information\
+    \ on these topics.  If you opt out using any of these methods, you\u2019ll still\
+    \ see ads, but they won\u2019t be tailored using information like your interests,\
+    \ visits to other services, or demographics. Alternatively, you can opt out by\
+    \ discontinuing your use of Flipboard. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'We share your personally identifiable information only under these
+    circumstances: With your consent, after letting you know what information will
+    be shared, and with whom. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: "If we believe it\u2019s reasonably necessary to comply with a law,\
+    \ regulation or legal process. If we\u2019re going to release your information,\
+    \ our policy is to provide you with reasonable advance notice under the circumstances\
+    \ unless we\u2019re prohibited from doing so by law or court order (e.g., an order\
+    \ under 18 U.S.C. \xA7 2705(b)). We may disclose your information without giving\
+    \ you prior notice if we believe it\u2019s necessary to prevent imminent and serious\
+    \ bodily harm to a person. Nothing in this privacy policy is intended to limit\
+    \ any legal objections or defenses you might have to efforts by third parties\
+    \ to compel disclosure of your information, including legal orders from the government. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'To third parties helping us offer and improve our service, such as
+    those providing Flipboard certain technical tools and analytics services (including
+    marketing partners) that help us understand how people use Flipboard so we can
+    make it better. We require those companies to observe the limitations in this
+    privacy policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'If we sell, transfer or otherwise share some or all of our assets,
+    including the information identified in this privacy policy, in connection with
+    a merger, acquisition, reorganization or sale of assets in the event of a bankruptcy.
+    We may also share non-personally identifiable, non-aggregate information (for
+    example, anonymized Advertising IDs) with companies that help us improve our products
+    and services, including advertising (such as research companies and analytics
+    providers). As with your personally identifiable information, we require that
+    such companies observe the limitations in this privacy policy. '
+  annotations:
+  - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We may also share non-personally identifiable, non-aggregate information
+      (for example, anonymized Advertising IDs) with companies that help us improve
+      our products and services, including advertising (such as research companies
+      and analytics providers)
+    annotations:
+    - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+- segment_id: 17
+  segment_text: "We may disclose aggregate information about how our users use Flipboard\
+    \ in a manner that doesn\u2019t identify you individually. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'Web Storage and Tracking Policy Cookies and HTML5 local storage are
+    ways to keep information about your use of Internet services on your own mobile
+    device or computer. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Cookies and HTML5 local storage are ways to keep information about
+      your use of Internet services on your own mobile device or computer.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+- segment_id: 19
+  segment_text: "We use cookies and HTML5 local storage to help us create your session,\
+    \ know when you\u2019re logged in and help us remember certain information about\
+    \ how you interact with Flipboard. "
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "We use cookies and HTML5 local storage to help us create your\
+      \ session, know when you\u2019re logged in and help us remember certain information\
+      \ about how you interact with Flipboard."
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+- segment_id: 20
+  segment_text: "If you\u2019d rather not use cookies or HTML5 local storage, most\
+    \ browsers give you the option to turn them off, or require your approval before\
+    \ using them to keep information. If you choose not to keep information in cookies\
+    \ or HTML5 local storage, though, portions of Flipboard may not work as intended. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'Flipboard also uses web beacons in advertisements to allow Flipboard
+    and its advertising partners to see how users view and engage with advertisements.
+    Depending on your advertising preferences set in your operating system, Flipboard
+    may share your Advertising ID with advertising partners in a de-identified fashion
+    that is not tied to your name or email address. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Flipboard also uses web beacons in advertisements to allow Flipboard
+      and its advertising partners to see how users view and engage with advertisements.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+  - sentence_text: Depending on your advertising preferences set in your operating
+      system, Flipboard may share your Advertising ID with advertising partners in
+      a de-identified fashion that is not tied to your name or email address.
+    annotations:
+    - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+- segment_id: 22
+  segment_text: "Some publishers or other third-party services that we partner with\
+    \ may use cookies, web beacons or other technologies to keep track of your Internet\
+    \ activity. Please note that this privacy policy explains Flipboard\u2019s policies\
+    \ only, and doesn\u2019t cover the practices of other services. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: "Some browsers make it possible for you to signal that you don\u2019\
+    t want your Internet browsing activity to be tracked. The Internet community hasn\u2019\
+    t reached a consensus on how to best honor these signals, so we don\u2019t respond\
+    \ to Do-Not-Track requests at this time. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: "Your Rights Flipboard supports data privacy rights and is happy to\
+    \ provide our users with the following options: Change or Correct Data: You can\
+    \ edit some of your personal data through your account, or, if you need help,\
+    \ you can contact Flipboard Support and we may be able to change or correct your\
+    \ data in certain cases, particularly if it\u2019s inaccurate or out of date.\
+    \ Erase or Delete Data:You can erase your personal data by deleting your account.\
+    \ Alternatively, you can ask us to erase all or some of your personal data. Object\
+    \ to or Restrict Use of Data:You can ask us to stop using all or some of your\
+    \ personal data (e.g., if we have no legal right to use it) or limit our use of\
+    \ it (e.g., if your personal data is inaccurate). Access or Copy Data:You can\
+    \ askus for a copy of your personal data. You can learn more about these options,\
+    \ or submit a request, by contacting Flipboard Support through the Help Center.\
+    \ For security, privacy, or operational reasons, Flipboard may only respond to\
+    \ valid requests when required by law or regulation. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: "Data Retention and Deletion We store your personal data as long as\
+    \ your account exists or as necessary to provide our services to you. This includes\
+    \ data you or others provide to us and data generated from your use of our services.\
+    \ If you\u2019d like to delete your account, you can do so in the Flipboard application\
+    \ under Settings (gear icon) in the Edit Profile detailed menu. If you delete\
+    \ your account, your user profile will no longer be visible on our service, though\
+    \ we may still keep some log information in non-personally identifiable form. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: 'Data Storage Outside the EU As a California-based company, we store
+    and use personal data outside the EU.  To ensure adequate protection of personal
+    data in cross-border transfer and/or processing, we use appropriate safeguards
+    as allowed under applicable law or regulation. '
+  annotations:
+  - practice: TRANSFER&USA&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Data Storage Outside the EU  As a California-based company, we
+      store and use personal data outside the EU. '
+    annotations:
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: 'Data Storage Outside the EU  As a California-based company, we
+      store and use personal data outside the EU.  To ensure adequate protection of
+      personal data in cross-border transfer and/or processing, we use appropriate
+      safeguards as allowed under applicable law or regulation. '
+    annotations:
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 27
+  segment_text: 'Changes to This Privacy Policy As Flipboard continues to develop,
+    we may decide to revise this privacy policy from time to time. The most current
+    version will govern our use of your information and will always be at https://flipboard.com/privacy,
+    and older versions are available upon request. If we make changes that we think
+    will substantially alter your rights, we will notify you by posting a notice on
+    our website. You agree to accept any changes or revisions to this privacy policy
+    by continuing to use Flipboard. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: "Contact We\u2019d love to hear your questions, concerns and feedback\
+    \ about this privacy policy. If you have suggestions for us, let us know at privacy@flipboard.com.\
+    \  You can also write to us at the address below: "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: 'Legal Department Flipboard 811 Hamilton Street Redwood City, CA 94063 '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 30
+  segment_text: "For EU and EFTA users, if you feel you haven\u2019t received a timely\
+    \ or satisfactory response from us with respect to a question or complaint related\
+    \ to this policy, you may raise the issue with your local supervisory authority\
+    \ without prejudice to any other rights you may have. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 31
+  segment_text: 'SHARE: AD SPECIFICATIONS Get billboard impact on the small screen
+    with Flipboard''s full-page ad space for iPad, iPhone and Android. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 32
+  segment_text: "download ad specs FLIPBOARD MEDIA KIT Download our latest media kit\
+    \ full of everything you need to know\u2014from audience to our best-in-class\
+    \ ad products. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: 'download media kit PUBLISHER INQUIRIES Talk to our team about publishing
+    on Flipboard. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: 'publisher_support@flipboard.com START A MAGAZINE Collect articles
+    on timely topics, and package them into compelling digital magazines. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: 'see tutorial Careers News Room Publishers Flipboard for Brands Brand
+    Guidelines Available on iOS Available on Android Available on Windows Help Center
+    LANGUAGE '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 36
+  segment_text: 'Follow us for news, inspiration & support '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

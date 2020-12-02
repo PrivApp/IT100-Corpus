@@ -1,0 +1,354 @@
+policy_id: '369'
+policy_name: com.grand.robot.speed.hero
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "May 28, 2019 PlayStar Games Background If you are a minor at law\
+    \ (which usually means you are aged under 18 in countries including Australia\
+    \ and the United States, though this age may vary depending on where you are located),\
+    \ you must get your parent or guardian\u2019s permission before providing us with\
+    \ any personal information. We may collect Non-Personal Information, such as a\
+    \ device ID or other persistent identifier linked to the device or computer, which\
+    \ may be used by a child to play our Websites. The privacy of your personal and\
+    \ non-personal information is afforded the highest level of importance by PlayStar\
+    \ Games. We will strictly compley with all relevant legislative requirements and\
+    \ in the event of any inconsistency, the legislative requirements will override\
+    \ the provisions of this document. We reserve the right to amend our Privacy Policy\
+    \ at any time without notice to you, and such amendments will take effect from\
+    \ the date of issue on our website. "
+  annotations:
+  - practice: Identifier&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Device_ID&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'We may collect Non-Personal Information, such as a device ID or
+      other persistent identifier linked to the device or computer, which may be used
+      by a child to play our Websites. '
+    annotations:
+    - practice: Identifier&1stParty
+      modality: PERFORMED
+    - practice: Identifier_Device_ID&1stParty
+      modality: PERFORMED
+- segment_id: 2
+  segment_text: 'Collection of Information Websites/Apps, including through emails
+    or text messages). We will be only collect information Personal and non-personal
+    where it is reasonably necessary to do so for the conduct of our business. Any
+    collection of personal information by us will be fair and lawful and will not
+    be intrusive. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'We will not collect any Personal Information from you simply by virtue
+    of your visiting our Website; we only collect it if you choose to submit it to
+    us. We do, however, collect Non-Personal Information such as device IDs, IP addresses
+    and other persistent identifiers, as well as Usage Data, whenever you use our
+    Website/Apps. Such Non-Personal Information is not combined with Personal Information
+    unless you choose to submit Personal Information to us. We collect information
+    when you make a purchase through our Apps, we will collect your credit card information
+    and other billing information. '
+  annotations:
+  - practice: Identifier&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Device_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: ' We do, however, collect Non-Personal Information such as device
+      IDs, IP addresses and other persistent identifiers, as well as Usage Data, whenever
+      you use our Website/Apps.'
+    annotations:
+    - practice: Identifier&1stParty
+      modality: PERFORMED
+    - practice: Identifier_Device_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+- segment_id: 4
+  segment_text: 'The precise information required to be provided will vary depending
+    on the circumstances requiring disclosure of that information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'We may collect information regarding your use of our software, applications
+    and/or services, including information about the duration of your use, the features
+    you use and your interactions with other users of the software, applications and/or
+    services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'Use and Disclosure of Information We may use information held about
+    you to verify your compliance with any terms and conditions that may apply to
+    the use of our software, applications and/or services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'Non-Personal Information may be used by us for administrative, analytical,
+    statistics compilation, research, optimization, security and other purposes. Specifically,
+    we may use your Non-Personal Information to respond to customer service inquiries
+    and to protect against cheating, crime or fraud or for other security reasons
+    and for providing you advertising that better suits your interests. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'We may provide aggregated or anonymous information to third parties
+    for the purposes of developing and delivering targeted advertising. We will not
+    share your personal information with such third parties without your consent. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'we will not use or disclose personal information about you otherwise
+    than for the purpose of providing or offering goods and services to you, for any
+    other purpose that you may reasonably expect, for any other purpose authorized
+    by law, or for any other purposes disclosed to or authorized by you. This may
+    include disclosures to organizations that provide us with professional advice,
+    such as solicitors, accountants and business advisors. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: 'Below are provider names of some of the third party analytics and
+    advertising services we use. Please see the links below to learn more about the
+    privacy policy of our third-party service providers. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: 'AppLovin: https://www.applovin.com/privacy Adcolony: http://www.adcolony.com/privacy-policy/
+    Unity Ads: https://unity3d.com/legal/privacy-policy Heyzap: https://www.heyzap.com/legal/privacy
+    Kidoz: http://kidoz.net/privacy-policy/ Chartboost: https://answers.chartboost.com/hc/en-us/articles/200780269-Privacy-Policy
+    Google Analytics: https://www.google.com/intl/en/policies/privacy/ Firebase: https://www.google.com/policies/privacy/
+    Game Analytics: http://www.gameanalytics.com/privacy Super Sonic: https://www.supersonic.com/privacy-policy/
+    Admob: https://www.google.com/policies/privacy Leadbolt: https://www.leadboltnetwork.net/p/legal/privacy '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: "Advertising Depending on your device and its operating system, you\
+    \ may be able to choose to prevent your device\u2019s ad By using our Website/Apps,\
+    \ you may be offered advertising content. We or the ad networks we use may utilize\
+    \ ad-serving technologies that use cookies, beacons, tracking pixels and other\
+    \ technologies that are placed within the ads and allow us or our networks to\
+    \ collect Non-Personal Information. Non-Personal Information such as age and gender\
+    \ may be used to ensure that appropriate advertising is offered to you. identifier\
+    \ being used for interest-based advertising or reset your device\u2019s ad identifier\
+    \ by changing the settings of your device. "
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Demographic_Age&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Demographic_Gender&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'We or the ad networks we use may utilize ad-serving technologies
+      that use cookies, beacons, tracking pixels and other technologies that are placed
+      within the ads and allow us or our networks to collect Non-Personal Information. '
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+  - sentence_text: Non-Personal Information such as age and gender may be used to
+      ensure that appropriate advertising is offered to you.
+    annotations:
+    - practice: Demographic_Age&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Demographic_Gender&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+  - sentence_text: "identifier being used for interest-based advertising or reset\
+      \ your device\u2019s ad identifier by changing the settings of your device."
+    annotations:
+    - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+- segment_id: 13
+  segment_text: 'Transfer of Information Overseas What we do with the information
+    we gather Your public information if social media is used in the app. We may use
+    the information to improve our products and services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: 'Security App Usage Data and User Behavior Links to other websites
+    For better user experience, we may get the following information Demographic information
+    such as location, preferences and interests for Remarketing purposes Our game
+    may contain advertising and links to other websites of interest. However, once
+    you have used these links to leave our site, you should note that we do not have
+    any control over that other website. Therefore, we cannot be responsible for the
+    protection and privacy of any information, which you provide whilst visiting such
+    sites and this privacy statement does not govern such sites. You should exercise
+    caution and look at the privacy statement applicable to the website in question. '
+  annotations:
+  - practice: Demographic&1stParty
+    modality: PERFORMED
+  - practice: Location&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: For better user experience, we may get the following information  Demographic
+      information such as location, preferences and interests for Remarketing purposes
+    annotations:
+    - practice: Demographic&1stParty
+      modality: PERFORMED
+    - practice: Location&1stParty
+      modality: PERFORMED
+- segment_id: 15
+  segment_text: "Controlling your personal information Use of information \u2013 purpose\
+    \ and legal basis We use information about you for the following purposes in accordance\
+    \ with the legal bases for each type of personal data as described below: Age\
+    \ -is being processed: -are being processed: b.to provide and deliver the products\
+    \ and services you request and send you related information as requested by you\
+    \ / as agreed with you; c.to provide and maintain the App and the game experience;\
+    \ and d.to send you technical notices, updates, security alerts, and support and\
+    \ administrative messages; Our processing for the above purposes is necessary\
+    \ for the performance of a contract to which you are party in order to support\
+    \ the operation of the App, facilitate the delivery of requested products and\
+    \ services and enable maintenance and update of the App, see Article 6(1)(b) of\
+    \ the GDPR. f.to personalize and improve the App and provide tailored content\
+    \ and features; g.to monitor and analyze trends, usage and activities in connection\
+    \ with the App; and e.to provide news and information about the App that we think\
+    \ will be of interest to you; h.to provide children (as this term is construed\
+    \ under GDPR in EU, COPPA in the US and relevant applicable legislation in other\
+    \ jurisdictions) with reasonable contextual advertisements in the App. i.to provide\
+    \ non-child users that have given us consent to share their advertising IDs with\
+    \ our ad network partners (as further specified under Sharing of Information)\
+    \ for the purpose of serving them with personalized advertisement in the App (behavioral\
+    \ advertising). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'Information from other sources -are being processed: Our processing
+    for the above purpose is necessary for the performance of a contract to which
+    you are party in order to facilitate the delivery of requested products and services,
+    see Section 6(1)(b) of the GDPR. j.to provide and deliver the products and services
+    you request and send you related information; '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: 'Sharing of information k.to link or combine information we get from
+    others to help understand your needs and provide you with better service; and
+    l.to provide news and information about the App we think will be of interest to
+    you; Furthermore, if you have given your consent in accordance with Section 6(1)(a)
+    of the GDPR, we share your advertising ID to advertising network companies for
+    the purpose of them serving behavioral advertisements to you within the App. We
+    use or may use the advertising network companies. '
+  annotations:
+  - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'we share your advertising ID to advertising network companies
+      for the purpose of them serving behavioral advertisements to you within the
+      App. '
+    annotations:
+    - practice: Identifier_Ad_ID&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+- segment_id: 18
+  segment_text: 'Our processing for the above purposes is justified by our legitimate
+    interests in providing content of interest to you and improving our services in
+    accordance with Article 6(1)(f) of the GDPR. We disclose information about you
+    to the following categories of recipients based on the legal bases in Sections
+    6(1)(b), 6(1)(c) and 6(1)(f) of the GDPR (see a description of the legal bases
+    above): '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'Your rights If you wish to use any of the rights described below,
+    you may contact us at any time by emailing us.e process and answer your requests
+    without undue delay and in any event within one month of our receipt of the request
+    unless a longer period is required due to the complexity of the request. In this
+    case, our response time can be up to three months in total as permitted by Article
+    12 of the GDPR. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: "Right to request access You have the right to request access into\
+    \ the data that we are processing on you, see Article 15 of the GDPR, including\
+    \ information about: \u2022the categories of personal data concerned \u2022the\
+    \ purposes of the processing \u2022the recipients or categories of recipient to\
+    \ whom the personal data have been or will be disclosed \u2022the envisaged period\
+    \ for which the personal data will be stored Furthermore, you have the right to\
+    \ obtain a copy of the personal data undergoing processing. Please note that the\
+    \ access may be restricted due to intellectual property or trade secrets. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'The right to object You have the right to object to our processing
+    of your personal data on grounds relating to your particular situation when the
+    data are processed based on the balancing-of-interest rule in Section 6(1)(f)
+    of the GDPR, see Article 21 of the GDPR. In this case, we will cease the processing
+    unless there are compelling legitimate grounds for the processing which override
+    your interests, rights and freedoms or if the processing is necessary for the
+    establishment, exercise or defense of legal claims. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: "Right to rectification and erasure You have the right to have inaccurate\
+    \ personal data rectified, see Article 16 of the GDPR. Furthermore, you have the\
+    \ right to have your personal data erased where one of the following grounds applies,\
+    \ see Article 17 of the GDPR: \u2022the personal data are no longer necessary\
+    \ in relation to the purposes for which they were collected or otherwise processed,\
+    \ \u2022the personal data have been unlawfully processed or \u2022if you have\
+    \ withdrawn your consent and there are no other legal grounds for the processing,\
+    \ \u2022if you have objected to the processing and there are no overriding legitimate\
+    \ grounds for the processing, \u2022the personal data have to be erased for compliance\
+    \ with a legal obligation in Union or Member State law, \u2022the personal data\
+    \ have been collected in relation to the offer of information society services. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: 'Please note that your right to erasure may be limited if the data
+    are necessary for compliance with a legal obligation or for the establishment,
+    exercise or defense of legal claims. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: 'The right to restriction If we have asked for your consent to our
+    processing of your data, you have the right to withdraw your consent at any time,
+    see Article 7 of the GDPR. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: 'The right to withdraw consent You have the right to obtain restriction
+    of processing in certain circumstances, see Article 18 of the GDPR. If you have
+    the right to restriction, we will only process your data with your consent or
+    for the establishment, exercise or defense of a legal claim or to protect a person
+    or important grounds of public interest '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

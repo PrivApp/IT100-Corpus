@@ -1,0 +1,715 @@
+policy_id: '378'
+policy_name: com.perfectcorp.amb
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "YouCam Community Privacy Policy Last updated in November 2019 Perfect\
+    \ Corp. ('Perfect,' 'we' or 'us') provides services based on an internet real-time\
+    \ communication/sharing multi-media contents which also allows you to create your\
+    \ virtual makeup looks with your favorite products and a client application for\
+    \ multiple platforms on all YouCam apps including YouCam Perfect, YouCam Makeup,\
+    \ YouCam Fun, YouCam Nails, YouCam Shop, YouCam Community (collectively known\
+    \ as the 'Service' or 'apps'). Please note that \u201CBeauty Circle\u201D is now\
+    \ known and replaced with \u201CYouCam Community\u201D. This Privacy Statement\
+    \ describes Perfect's information practices and the choices available to you regarding\
+    \ Perfect's use of information that can be used to identify you ('Personal Data'). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'Data We Process and How Do We Use Information We Collect From You
+    Depending on how you interact with us, some data is automatically processed if
+    you visit our Sites, install and use our Apps, whilst other data is collected
+    and processed if you submit it to us. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'Data we process when you visit our Site: When you visit our Sites,
+    your device automatically sends technical information to us that we store in log
+    files, including the following ''Data generated from Site'': Date and time of
+    the visit and the duration of use of the Site; The IP, of your device as well
+    as your internet service provider (ISP); The referral/exit URL; The visited subsites
+    of the Site; Clickstream data; Cookies and similar technologies; and Information
+    about your device including type of device, browser type and version, operating
+    system. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'When you visit our Sites, your device automatically sends technical
+      information to us that we store in log files, including the following ''Data
+      generated from Site'':  Date and time of the visit and the duration of use of
+      the Site;  The IP, of your device as well as your internet service provider
+      (ISP);  The referral/exit URL;  The visited subsites of the Site;  Clickstream
+      data;  Cookies and similar technologies; and  Information about your device
+      including type of device, browser type and version, operating system.'
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+- segment_id: 4
+  segment_text: 'We process Data generated from Site to allow you to use our services
+    available on our Sites and to ensure that its functionality. We also process these
+    data to perform analyses on the performance of the Site, to continuously improve
+    the Site, correct errors, to prevent fraudulent use, to ensure IT security and
+    operation of our systems. We further process this data in aggregated or pseudonymized
+    form to analyze trends, administer the Sites, track users'' movement on the Site,
+    and to gather demographic information about our user as a whole to improve marketing
+    including serving you personalized, interest-based ads as well as to enhance user
+    experience on our Sites. '
+  annotations:
+  - practice: Demographic&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We further process this data in aggregated or pseudonymized form
+      to analyze trends, administer the Sites, track users' movement on the Site,
+      and to gather demographic information about our user as a whole to improve marketing
+      including serving you personalized, interest-based ads as well as to enhance
+      user experience on our Sites.
+    annotations:
+    - practice: Demographic&1stParty
+      modality: PERFORMED
+- segment_id: 5
+  segment_text: 'Data we process when you use our Apps Perfect processes Personal
+    Data when you install and register for one of our YouCam Apps. Some of this information
+    will be processed automatically when installing our Apps on your device. The following
+    data are deemed as ''Apps Installation Data'': operating system device hardware
+    IP address App version device location, including a unique identifier for your
+    device, Firebased Cloud ID (FCM ID), MAC address, Advertising ID, mobile network
+    carrier, device model, locale, device resolution, SR number (for app version)
+    and CPU architecture. '
+  annotations:
+  - practice: Identifier_Ad_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Device_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  - practice: Identifier_MAC&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Mobile_Carrier&1stParty
+    modality: PERFORMED
+  - practice: Location&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'The following data are deemed as ''Apps Installation Data'':  operating
+      system  device hardware  IP address  App version  device location, including
+      a unique identifier for your device,  Firebased Cloud ID (FCM ID), MAC address,
+      Advertising ID,  mobile network carrier, device model, locale, device resolution,
+      SR number (for app version) and CPU architecture. '
+    annotations:
+    - practice: Identifier_Ad_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_Device_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+    - practice: Identifier_MAC&1stParty
+      modality: PERFORMED
+    - practice: Identifier_Mobile_Carrier&1stParty
+      modality: PERFORMED
+    - practice: Location&1stParty
+      modality: PERFORMED
+- segment_id: 6
+  segment_text: "We also collect certain 'Apps Registration Data\u201D during installation\
+    \ of our Apps onto your device. Although name, gender, date of birth, email address\
+    \ and password are mandatory for registration, we may ask you to submit other\
+    \ information (which is entirely optional), including: your personal description\
+    \ and photograph in your profile; postal address, telephone number; beauty profile\
+    \ information like skin type, skin tone, hair colour and hair type, nails, eye\
+    \ attributes; information on skin diary including skin log, acne detection data\
+    \ of your photos taken analysis of skin conditions and skin diagnostic results\
+    \ (collectively known as 'Skin Diagnostic Results'). "
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: Contact_Password&1stParty
+    modality: PERFORMED
+  - practice: Contact_Phone_Number&1stParty
+    modality: PERFORMED
+  - practice: Contact_Postal_Address&1stParty
+    modality: PERFORMED
+  - practice: Demographic_Age&1stParty
+    modality: PERFORMED
+  - practice: Demographic_Gender&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "We also collect certain 'Apps Registration Data\u201D during installation\
+      \ of our Apps onto your device. Although name, gender, date of birth, email\
+      \ address and password are mandatory for registration, we may ask you to submit\
+      \ other information (which is entirely optional), including:  your personal\
+      \ description and photograph in your profile;  postal address, telephone number;"
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: Contact_Password&1stParty
+      modality: PERFORMED
+    - practice: Contact_Phone_Number&1stParty
+      modality: PERFORMED
+    - practice: Contact_Postal_Address&1stParty
+      modality: PERFORMED
+    - practice: Demographic_Age&1stParty
+      modality: PERFORMED
+    - practice: Demographic_Gender&1stParty
+      modality: PERFORMED
+- segment_id: 7
+  segment_text: 'We use Apps Installation Data and Apps Registration Data to enable
+    the provision of maintenance, archive, backup (including Cloud Album) or support
+    services to you. We will also use this information only with your consent to provide
+    push notifications with information about our products, features, services offered
+    by Perfect; or share your Skin Diagnostic Results with our affiliates who will
+    do so solely on our instructions and have undertaken to comply with strict contractual
+    requirements for the security of your data (including, but not limited to, complying
+    with this Privacy Statement). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'We collect information about the way you use our Apps after you have
+    installed and registered them. The specific ''User Apps Usage Data'' varies depending
+    upon which YouCam App you are using, but may include: Launch data Device data
+    Feature usage Page clicks Sign-in information Facial Characteristics We process
+    User Apps Usage Data so that we can facilitate, evaluate, and verify your use
+    of our Apps and services as well as for our own internal statistical, archive,
+    research and analytical purposes, and to evaluate and enhance users'' experience
+    of the Apps by identifying user preferences and analyzing crash data. For example,
+    we process information like the time frame of your usages on Sites or Apps, search
+    results and search history, type of post, videos and other content you viewed
+    on our Sites/Apps as well as information about how you use features like our camera
+    on our Sites and Apps. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'Specifically for the processing of facial characteristics information,
+    we will only detect your facial feature vectors in order to apply real-time virtual
+    try-on effects thereon, upon your usage of our apps. Neither your facial photo/video
+    nor your facial feature vectors will be stored in our database in any form whatsoever,
+    whether you are or aren''t using our apps. However, if you spontaneously choose
+    to opt-in our services or request for ''get photo'' via email, we will temporarily
+    store your photos in our email server in order to send to you as instructed by
+    you, provided that we will follow the guidelines of the Data Retention Period
+    to keep the User Apps Usage Data. '
+  annotations:
+  - practice: Multimedia&1stParty
+    modality: NOT_PERFORMED
+  sentences:
+  - sentence_text: Neither your facial photo/video nor your facial feature vectors
+      will be stored in our database in any form whatsoever, whether you are or aren't
+      using our apps.
+    annotations:
+    - practice: Multimedia&1stParty
+      modality: NOT_PERFORMED
+- segment_id: 10
+  segment_text: 'Data We Process Only If You Submit It To Us: When you interact with
+    us on our Sites or using our Apps, you can submit Personal Data to us in various
+    situations, including: Membership Account Data: On our Sites and Apps, you can
+    register for an account with your e-mail address and a password you create which
+    you will automatically create an account for yourself, with this account, you
+    can use to manage and updates to your Personal Data. When you choose to sign into
+    our Sites or Apps via your other social media account like your Facebook and Weibo,
+    Twitter, WeChat or email account name, we will process and access to your other
+    social network account. Please note that this privacy policy does not cover information
+    that you submit on other websites or mobile apps, even if you sign in through
+    Websites or mobile apps. For example, if you log in via your Facebook account,
+    that information is governed by the privacy policies on that website, and is not
+    governed by this policy. '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Password&1stParty
+    modality: PERFORMED
+  - practice: SSO&1stParty
+    modality: PERFORMED
+  - practice: Facebook_SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'On our Sites and Apps, you can register for an account with your
+      e-mail address and a password you create which you will automatically create
+      an account for yourself, with this account, you can use to manage and updates
+      to your Personal Data. '
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Password&1stParty
+      modality: PERFORMED
+  - sentence_text: When you choose to sign into our Sites or Apps via your other social
+      media account like your Facebook and Weibo, Twitter, WeChat or email account
+      name, we will process and access to your other social network account.
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: SSO&1stParty
+      modality: PERFORMED
+    - practice: Facebook_SSO&1stParty
+      modality: PERFORMED
+  - sentence_text: 'For example, if you log in via your Facebook account, that information
+      is governed by the privacy policies on that website, and is not governed by
+      this policy. '
+    annotations:
+    - practice: Facebook_SSO&1stParty
+      modality: PERFORMED
+- segment_id: 11
+  segment_text: 'Content and User Interaction Data: On our Sites and Apps, we process
+    information about your accounts and hashtags that you are connected to and how
+    you interact with them across our service, such as people you communicate with
+    the most. We also process all content, communications created or shared content
+    by you or your communication with other users like posts, circles, liked, comments,
+    media file sharing like photo, video or text on our Sites or Apps; and vice versa
+    on communication of other users with you. If you choose to invite friends to use
+    our service via (i) your contact information from your device, or (ii) if you
+    were to log in via social network accounts to invite friends to use our services,
+    we will have access to your address book (from your device) or your contact list
+    (from your social network account). '
+  annotations:
+  - practice: Contact_Address_Book&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: ' If you choose to invite friends to use our service via (i) your
+      contact information from your device, or (ii) if you were to log in via social
+      network accounts to invite friends to use our services, we will have access
+      to your address book (from your device) or your contact list (from your social
+      network account). '
+    annotations:
+    - practice: Contact_Address_Book&1stParty
+      modality: PERFORMED
+- segment_id: 12
+  segment_text: "Beauty 1:1 Data: On our Apps, we process audio recordings between\
+    \ you and a designated beauty consultant when using \u201C1 on 1 Consultation\u201D\
+    \ on our Apps. "
+  annotations:
+  - practice: Multimedia&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "Beauty 1:1 Data: On our Apps, we process audio recordings between\
+      \ you and a designated beauty consultant when using \u201C1 on 1 Consultation\u201D\
+      \ on our Apps."
+    annotations:
+    - practice: Multimedia&1stParty
+      modality: PERFORMED
+- segment_id: 13
+  segment_text: 'Transaction Data: If you make any purchases on our Sites or Apps,
+    we will process your contact and billing information, such as your name, address,
+    and credit card information. You can view the exact information required in the
+    form provided at point of purchase. We will only use this data to complete your
+    order, for billing purposes, and for internal accounting. '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Transaction Data: If you make any purchases on our Sites or Apps,
+      we will process your contact and billing information, such as your name, address,
+      and credit card information. '
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+- segment_id: 14
+  segment_text: 'Customer Support Data: You can communicate with us by using the specified
+    email address of our customer support team for requests on technical assistance,
+    request information on the status of your order, or otherwise reach out to our
+    customer support team. In order to respond to your request, we will process your
+    contact data as well as the contents of your request. Once your request has been
+    complied, we will delete this data pursuant to our data retention period described
+    below. '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Customer Support Data: You can communicate with us by using the
+      specified email address of our customer support team for requests on technical
+      assistance, request information on the status of your order, or otherwise reach
+      out to our customer support team. '
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+  - sentence_text: In order to respond to your request, we will process your contact
+      data as well as the contents of your request. Once your request has been complied,
+      we will delete this data pursuant to our data retention period described below.
+    annotations:
+    - practice: Contact&1stParty
+      modality: PERFORMED
+- segment_id: 15
+  segment_text: "Beauty Product Try out Data: On our Apps, we process information\
+    \ about the beauty products (like lip colour, blushers, foundations you tried\
+    \ on, product try out history, sequence, brands and purchases (if any) \u201C\
+    Coin\u201D Data: On our Apps, we process information relating to how you use \u201C\
+    Coin\u201D in general which include account membership level and coin usage history\
+    \ when you engage in any activities on our Apps. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'Survey Data: we strive to improve our services to you, from time
+    to time we may conduct surveys in respect of our services, features or products
+    on our Sites and Apps. Please note that any participation in our surveys is optional.
+    However, if you respond to one of our surveys, you may provide us with personal
+    information about you. Unless you otherwise consent, we will only use this information
+    for specified purposes which you will be duly notified. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: 'Email/Direct Mail Data: unless you opt in for this feature in our
+    Sites or Apps, from time to time, we may interact with you directly by mail, email,
+    or telephone to inform you about new services, features, products, or special
+    offers that you told us you were interested in receiving (including our newsletters).
+    However, we will not contact you with any commercial communications that are unrelated
+    to our Sites and Apps unless you have given us your prior consent to receiving
+    such information. When responding to one of these campaigns, you may have the
+    option to provide us with personal information, which we will use for the purpose
+    indicated. '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Phone_Number&1stParty
+    modality: PERFORMED
+  - practice: Contact_Postal_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Email/Direct Mail Data: unless you opt in for this feature in
+      our Sites or Apps, from time to time, we may interact with you directly by mail,
+      email, or telephone to inform you about new services, features, products, or
+      special offers that you told us you were interested in receiving (including
+      our newsletters).'
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Phone_Number&1stParty
+      modality: PERFORMED
+    - practice: Contact_Postal_Address&1stParty
+      modality: PERFORMED
+- segment_id: 18
+  segment_text: 'Special Collaborative Programs with beauty brands: from time to time,
+    we may collaborate with another beauty brands company to provide you with special
+    campaigns, freegifts or invitation to a beauty liveshows with other collaboration
+    partners (''Collaborative Program''). Our use of your Personal Data is limited
+    to the specific Collaborative Program that you have joined or elected to join
+    or participate and you will be informed on the specific purpose of use, unless
+    your otherwise consent, we will disclose your specific Personal Data you submit
+    to us with and share with our collaboration partners for purposes correspond with
+    the purpose as specified to you. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'Business Contact or Sales Prospect Data (on Sites): If you are a
+    business contact or sales prospect that has provided us your Personal Data, we
+    will store your data in our database so that we can follow up on previous business
+    conversations we''ve had with you, provide you additional information about our
+    services and features which you are interested in. We may also share your Personal
+    Data with sales representatives employed with our local affiliates to connect
+    with you with respect to any potential prospect of business opportunity we will
+    have with you. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'Sharing Personal Information with Third Parties. We treat your Personal
+    Data with care and confidentially and will only pass it on to third parties to
+    the extent described below and not beyond. We do not share, sell, rent, or trade
+    Personal Data with third parties for any promotional purposes. Where our affiliates,
+    resellers, or service providers process Personal Data, they will do so solely
+    on our instructions and have undertaken to comply with strict contractual requirements
+    for the security of your data (including, but not limited to, complying with this
+    Privacy Statement). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'Public Content. If you post content for public view on YouCam Apps,
+    we may distribute such content to a wider audience by sharing it (or portions
+    of it) with third parties so that they can publish it on their own websites and
+    media platforms. We may ask them to credit you as the source of these contributions
+    by including your account name and profile photo, photo album (when sharing your
+    post/content). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: "Audio Recordings when using 1 on 1 Consultation (\u201CSession\u201D\
+    ) If you use a Session on YouCam Apps, your audio recordings of your Session(s)\
+    \ with a designated beauty consultation will be shared with our related brand\
+    \ partners for service and quality improvement purposes. "
+  annotations:
+  - practice: Multimedia&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  sentences:
+  - sentence_text: If you use a Session on YouCam Apps, your audio recordings of your
+      Session(s) with a designated beauty consultation will be shared with our related
+      brand partners for service and quality improvement purposes
+    annotations:
+    - practice: Multimedia&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+- segment_id: 23
+  segment_text: 'Third Party Service Provider Perfect transmits data to service providers
+    that enable us to provide our Site and market, sell, payment process and delivery.
+    This includes the parties providing our third-party cookies and tracking tools,
+    as well as parties providing us with services to assist us in processing transactions,
+    including credit card transactions, handling shipping and processing of orders,
+    providing customer support, managing customer relationships, hosting the Sites,
+    collecting, storing, or removing your information, or performing statistical analysis,
+    providing marketing assistance, investigating fraudulent activity, conducting
+    customer surveys, technical and customer support, perform tracking and reporting
+    functions, conduct quality assurance testing providing customer service, customer
+    surveys and other services in connection with the Site or Apps. We sometimes need
+    to share your information with these companies in order for them to provide the
+    applicable services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: 'Third party advertising. Third parties serve some of the ads on YouCam
+    Apps. We may send individualized personal information about you to them, and they
+    may also have access to certain information that they obtain through cookies placed
+    on your device or that you share with them yourself. For the avoidance of doubt,
+    the individualized personal information which might be sent to third party advertising
+    partners does not include your name, email address, and/or image/photo/video.
+    The following is a list of our current third party advertising partners linked
+    to their privacy policies: Facebook, Google, Inmobi, MoPub, Smaato, PubMatic,
+    Mintegral (Mobista) and ThirdPresence. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Contact_E_Mail_Address&3rdParty&Advertisement_Marketing
+    modality: NOT_PERFORMED
+  - practice: Contact_Name&3rdParty&Advertisement_Marketing
+    modality: NOT_PERFORMED
+  - practice: Multimedia&3rdParty&Advertisement_Marketing
+    modality: NOT_PERFORMED
+  sentences:
+  - sentence_text: 'Third parties serve some of the ads on YouCam Apps. We may send
+      individualized personal information about you to them, and they may also have
+      access to certain information that they obtain through cookies placed on your
+      device or that you share with them yourself. '
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+  - sentence_text: For the avoidance of doubt, the individualized personal information
+      which might be sent to third party advertising partners does not include your
+      name, email address, and/or image/photo/video.
+    annotations:
+    - practice: Contact_E_Mail_Address&3rdParty&Advertisement_Marketing
+      modality: NOT_PERFORMED
+    - practice: Contact_Name&3rdParty&Advertisement_Marketing
+      modality: NOT_PERFORMED
+    - practice: Multimedia&3rdParty&Advertisement_Marketing
+      modality: NOT_PERFORMED
+- segment_id: 25
+  segment_text: "When purchasing at our YouCam Apps YouCam Apps acts as a gateway\
+    \ for you to make purchases online. In app purchase for frames, watermark/ad removal\
+    \ that are initiated from our YouCam Apps are actually completed on Apple App\
+    \ Store, Google Play or any other mobile application stores; Whilst purchases\
+    \ of beauty or cosmetic brand products that are initiated from our YouCam Apps\
+    \ are actually completed on Shopify (US region) or Asknet (remaining selected\
+    \ regions) (collectively known as \u201CShopping Cart Vendors\u201D). In order\
+    \ to complete a purchase transaction, Shopping Cart Vendors must collect personal\
+    \ information from you, including your credit card number. If you are interested\
+    \ in purchasing any of the beauty or cosmetic brand through Shopping Cart Vendors,\
+    \ please view the Privacy Statement of respective stores. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: 'Beauty Brands. We act as a platform brands to feature their products
+    on YouCam Apps and we share an aggregate information and data relating to users
+    responses and engagements to brand products from most popular lip colour, eye
+    shades, blushers, eye lashes of a particular brand that appeal most to users to
+    an aggregate number of users try out a product from a particular brand. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: 'Public Authorities: Although we make every effort to preserve user
+    privacy, we may need to disclose personal information when required by law, such
+    as when we have a good-faith belief that such action is necessary to comply with
+    a current judicial proceeding, a court order, or litigation or other legal process
+    or action (whether or not initiated by Perfect) to protect Perfect''s, our users''
+    or third parties'' rights, property or safety. We will transmit data to public
+    authorities such as law enforcement or tax authorities only in the case of a legal
+    obligation to do so based on a request for information from the respective authority. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: 'Personal Information Protection We strive to protect the security
+    of your information during transmission using, for instance TSL software, which
+    encrypts information you input. It is important for you to protect against unauthorized
+    access to your password and to your mobile device. Be sure to sign off when finished
+    using a shared mobile device. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: 'Your Californian Privacy Right California resident customers of ours
+    have a right to obtain a list of Personal Information that we may have disclosed
+    to affiliates for their marketing purposes or to unaffiliated third parties for
+    their own marketing purposes. A California customer may contact us and request
+    the general list of Personal Information shared and the companies among which
+    it is shared. This request may be sent electronically by email to privacyteam@perfectcorp.com
+    or by phone at +886-2-8667-1265. We will respond to these requests for the list
+    within 30 days. Written requests may be sent to 14F., No.98, Minquan Rd., Xindian
+    Dist., New Taipei City 231, Taiwan (R.O.C.) Attn: Privacy Team. Requests for this
+    information that come to us through other channels may result in a delayed response. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 30
+  segment_text: 'Measurement of Advertising Effectiveness To measure the effectiveness
+    of the advertisement, we may install third party modules in the smart phone versions
+    of the Services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 31
+  segment_text: "Children\u2019s Privacy Our Service do not cater for minors. We strongly\
+    \ advise that this service is cater for individual who are 16 years and above,\
+    \ otherwise, we request a parental /guardian express consent for you to continue\
+    \ using our service or by writing to us at privacyteam@perfectcorp.com. If, via\
+    \ notice, any user information relating to minors was on our record, we will deactivate\
+    \ minor\u2019s account and take reasonable measures to promptly delete such information\
+    \ from our records. Perfect does not knowingly collect or solicit personal information\
+    \ from anyone under the age of 13. In the event that we learn that we have inadvertently\
+    \ collected personal information from a child under age 13, we will delete that\
+    \ information as quickly as possible. If you believe that we might have any information\
+    \ from or about a child under 13, please contact us at privacyteam@perfectcorp.com. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 32
+  segment_text: 'Opt-out Right You may limit the advertisements appearing on the mobile
+    app via your mobile Device by adjusting the advertising settings on your mobile
+    Device. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: "You may control cookie setting by following the steps below: How\
+    \ to Control Cookies on Mobile Phone, Computer and Tablet You may also set your\
+    \ browser to block all cookies, including cookies associated with our services,\
+    \ or to indicate when a cookie is being set by us. However, it\u2019s important\
+    \ to remember that many of our services may not function properly if your cookies\
+    \ are disabled. For example, we may not remember your language preferences "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: 'Most web browsers automatically accept cookies but provide controls
+    that allow you to turn off, block or delete them. Learn more at https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en
+    Please be aware that if you choose to delete cookies, settings and preferences
+    controlled by those cookies, including advertising preferences, will be deleted
+    and may need to be recreated. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Most web browsers automatically accept cookies but provide controls
+      that allow you to turn off, block or delete them.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+- segment_id: 35
+  segment_text: "How Can You Manage Information About Yourself. We provide you with\
+    \ the ability to access, rectify, update and erase your data on YouCam Apps. If\
+    \ you choose to delete your account, we delete things you have posted, such as\
+    \ your photos and status updates, and you won't be able to recover that information\
+    \ later. Information that others have shared about you isn't part of your account\
+    \ and won't be deleted. To delete your account at any time by under \u201CEdit\
+    \ Profile Page\u201D in our Sites and Apps, or if you want to port or download\
+    \ your data relating to your account, please email us at privacyteam@perfectcorp.com\
+    \ for any other enquiries relating to your account information. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 36
+  segment_text: 'Time Frame for Keeping Data (Data Retention Period) Data collected
+    via User Apps Usage Data will be automatically deleted after two years from date
+    of receipt of data (except for messages which will be kept for two weeks from
+    date of sending). However, these data may be retained on a case-by-case determination
+    that depends on things like the nature of the data, why it is collected and processed,
+    and relevant legal or operational retention needs longer than two years. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 37
+  segment_text: "How Do We Operate and Transfer We share information globally, both\
+    \ internally within Perfect and externally within our partners. Your information\
+    \ may, for example, be transferred or transmitted to, or stored and processed\
+    \ in the United States or other countries outside of where you live for the purposes\
+    \ as described in this policy. We rely on European Commission\u2019s guidelines\
+    \ and decisions about certain countries, as applicable for these data transfers\
+    \ to the United States and other countries. "
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Adequacy_Decision
+    modality: PERFORMED
+  - practice: TRANSFER&USA&Adequacy_Decision
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Your information may, for example, be transferred or transmitted
+      to, or stored and processed in the United States or other countries outside
+      of where you live for the purposes as described in this policy. '
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: "We rely on European Commission\u2019s guidelines and decisions\
+      \ about certain countries, as applicable for these data transfers to the United\
+      \ States and other countries."
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Adequacy_Decision
+      modality: PERFORMED
+    - practice: TRANSFER&USA&Adequacy_Decision
+      modality: PERFORMED
+- segment_id: 38
+  segment_text: 'Modifications to this Privacy Policy This Privacy Policy may be revised
+    periodically. Users will be notified on the changes accordingly. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 39
+  segment_text: 'Inquiries If you have any questions about this Privacy Statement
+    or any complaints or comments on how the Company handle your information related
+    to the Service, please write to appsupport@perfectcorp.com or 14F., No.98, Minquan
+    Rd., Xindian Dist., New Taipei City 231, Taiwan (R.O.C.). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

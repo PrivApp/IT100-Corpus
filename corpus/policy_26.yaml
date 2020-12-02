@@ -1,0 +1,380 @@
+policy_id: '26'
+policy_name: com.ninjakiwi.bftg
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'Privacy Policy Effective Date: 12th November, 2018 Thank you for
+    playing our games! This Privacy Policy describes: The ways we collect personal
+    data about you and why we do so How we use your personal data, and The choices
+    you have about your personal data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'This Privacy Policy applies to games developer by AMT Games Limited,
+    websites and related services, which we here collectively call the Service. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'We may periodically update this Privacy Policy by posting a new version
+    on amt-games.com and in our apps. Your continued use of the Service after the
+    effective date will be subject to the new Privacy Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'CONTACT US If you have questions about data protection, or if you
+    have any requests for resolving issues with your personal data, we encourage you
+    to primarily contact us through the game so we can reply to you more quickly. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'Name of the controller: AMT Games Limited Email: support@amt-games.com
+    THE DATA WE COLLECT Data you provide to us.  '
+  annotations: 
+  - practice: 'Data_Controller'
+  sentences:
+  - sentence_text: 'Name of the controller: AMT Games Limited Email: support@amt-games.com
+    THE DATA WE COLLECT Data you provide to us.  '
+    annotations: 
+    - practice: 'Data_Controller'
+- segment_id: 6
+  segment_text: 'Contact information (such as name and email address) Player name
+    and password Profile information (such as profile photo) Your messages to the
+    Service (such as chat logs and player support tickets) Other data you choose to
+    give us (such as data to identify a lost account) Data we collect automatically. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'Data about your account and game progress Your IP address and mobile
+    device identifiers (such as your device ID, advertising ID, MAC address, IMEI)
+    Data about your device, such as device name and operating system, browser type
+    and language Data we collect with cookies and similar technologies (see more below)
+    General location data Precise geo-location data (GPS, with your consent) Data
+    about your use of the Service, such as gameplay data and your interactions with
+    other players inside the Service In most cases, we also create a Battle-for-the-Galaxy-specific
+    ID for you when you use the Service. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'Data we collect from our partners. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'Data we receive if you link a third party tool with the Service (such
+    as Facebook, Kongregate or Armorgames) Demographic data (such as to determine
+    the coarse location of your IP address) Data to fight fraud (such as refund abuse
+    in games or click fraud in advertising) Data from platforms that the games run
+    on (such as to verify payment) Data for advertising and analytics purposes, so
+    we can provide you a better Service WHY DO WE COLLECT YOUR DATA To make the Service
+    work. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: 'To perform the contract, we process data necessary to Create accounts
+    and allow you to play our games and use our Service Operate the Service Verify
+    and confirm payments Provide and deliver products and services you request Send
+    you Service-related communications To make the Service more suitable for our players. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: 'To provide a great Service to our players, we have a legitimate interest
+    to collect and process necessary data to Update and develop player profiles Develop
+    and improve the Service and player experience Manage our relationship with you
+    Provide social features as part of the Service Customize your Service experience
+    Respond to your comments and questions and provide player support Provide you
+    Special offers in the Service as well as in other websites and services, and by
+    email Send you related information, such as updates, security alerts, and support
+    messages Enable you to communicate with other players To show personalized advertisements. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: "To show you personalized advertisements in the Service as well as\
+    \ in other websites and services (including email) we have a legitimate interest\
+    \ to process necessary data to Track the content you access in connection with\
+    \ the Service and your online behavior Deliver, target and improve our advertising\
+    \ and the Service For information on how to opt-out from personalized advertisements,\
+    \ see section \u2018Your rights and options\u2019 below. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'To keep the Service safe and fair. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: 'Ensuring a level playing field in the Service is a top priority for
+    us. For more information on our acceptable use policy, see the Terms of Service. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'In order to keep the Service and its social features safe and fair,
+    to fight fraud and ensure acceptable use otherwise, we have a legitimate interest
+    to process necessary data to Analyze and monitor use of the Service and its social
+    features Moderate chats either automatically or manually Take action against fraudulent
+    or misbehaving players To analyze, profile, and segment. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'In all of the above cases and purposes, we may analyze, profile and
+    segment all collected data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: 'With your consent. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'With your consent, we may process your data for additional purposes,
+    such as using your GPS location to show you local events. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'WHO CAN SEE YOUR DATA Apart from AMT Games Limited, your data can
+    be accessed by others in the following situations: OTHER PLAYERS AND USERS. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'Social features are a core component of our games. Other players
+    and users may, for example, see your profile data, in-game activities and read
+    the messages you have posted. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: "PARTNERS. AMT Games Limited has partners to perform services for\
+    \ us. These partners process your data only at and according to AMT Games Limited\xB4\
+    s instructions to provide the Service, such as hosting, player support, advertising,\
+    \ analytics and fraud prevention. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: 'Other companies and public authorities. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: 'In order to combat fraud and illegal activity, we may exchange data
+    with other companies and organizations and provide it to public authorities in
+    response to lawful requests. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: 'We may also disclose your data based on your consent, to comply with
+    the law or to protect the rights, property or safety of us, our players or others. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: 'Advertising and Social Media partners. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: 'The Service includes features from our partners, such as social media
+    interaction tools and in-game advertising. These partners may access your data
+    and operate under their own privacy policies. We encourage you to check their
+    privacy policies to learn more about their data processing practices. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: 'INTERNATIONAL DATA TRANSFERS Our Service is global by nature and
+    your data can therefore be transferred to anywhere in the world. Because different
+    countries may have different data protection laws than your own country, we take
+    steps to ensure adequate safeguards are in place to protect your data as explained
+    in this Policy. Adequate safeguards that our partners may use include standard
+    contractual clauses approved by EU Commission and the Privacy Shield certification
+    in case of transfers to the USA. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Standard_Data_Protection_Clauses&Without_Copy
+    modality: PERFORMED
+  - practice: TRANSFER&USA&Adequacy_Decision
+    modality: PERFORMED
+  sentences:
+  - sentence_text: INTERNATIONAL DATA TRANSFERS  Our Service is global by nature and
+      your data can therefore be transferred to anywhere in the world.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: Because different countries may have different data protection
+      laws than your own country, we take steps to ensure adequate safeguards are
+      in place to protect your data as explained in this Policy.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: 'Adequate safeguards that our partners may use include standard
+      contractual clauses approved by EU Commission and the Privacy Shield certification
+      in case of transfers to the USA. '
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Standard_Data_Protection_Clauses&Without_Copy
+      modality: PERFORMED
+    - practice: TRANSFER&USA&Adequacy_Decision
+      modality: PERFORMED
+- segment_id: 28
+  segment_text: 'YOUR RIGHTS AND OPTIONS Opt-out of marketing emails and other direct
+    marketing. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: 'You may opt-out of receiving promotional communications, such as
+    marketing emails from us by following the instructions in such communications. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 30
+  segment_text: 'Opt-out of targeted advertising. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 31
+  segment_text: "You can opt-out of interest-based advertising on mobile applications\
+    \ by checking the privacy settings of your Android or iOS device and selecting\
+    \ \u201Climit ad tracking\u201D (Apple iOS) or \u201Copt-out of interest based\
+    \ ads\u201D (Android). For more information, see also: Partner-opt-out. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 32
+  segment_text: 'Access the personal data we hold about you. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: 'If you request, we will provide you a copy of your personal data
+    in an electronic format. All requests should be submitted via contact form inside
+    the Service or from an Email associated with an account. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: 'Your other rights. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: 'You also have the right to correct your data, have your data deleted,
+    object how we use or share your data, and restrict how we use or share your data.
+    You can always withdraw your consent, for example by turning off GPS location
+    sharing in your mobile device settings. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 36
+  segment_text: 'All requests should be submitted via contact form inside the Service
+    or from an Email associated with an account.We will respond to all requests within
+    a reasonable timeframe.  If you have an unresolved privacy or data use concern
+    that we have not addressed satisfactorily, please contact third-party dispute
+    resolution provider (free of charge). You may also contact your local data protection
+    authority within the European Economic Area for unresolved complaints. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 37
+  segment_text: 'COOKIES AND SIMILAR TECHNOLOGIES Like most online services, we and
+    our partners use cookies and similar technologies to provide and personalize the
+    Service, analyse use, target advertisements and prevent fraud. You can disable
+    cookies in your browser settings, but some parts of the Service may then not function
+    properly. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 38
+  segment_text: 'HOW DO WE PROTECT YOUR DATA Security Safeguards. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 39
+  segment_text: 'In order to help ensure a secure and safe player experience, we are
+    continuously developing and implementing administrative, technical and physical
+    security measures to protect your data from unauthorized access or against loss,
+    misuse or alteration. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 40
+  segment_text: 'Data retention. We retain your data for as long as your account is
+    active or as needed to provide you the Service. We will for example periodically
+    de-identify unused game accounts and we regularly review and de-identify unnecessary
+    data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 41
+  segment_text: 'Note that if you ask us to remove your personal data, we will retain
+    your data as necessary for our legitimate business interests, such as to comply
+    with our legal obligations, resolve disputes, and enforce our agreements. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 42
+  segment_text: 'AGE LIMITS We do not knowingly collect or solicit personal data about
+    or direct or target interest based advertising to anyone under the age of 13 or
+    knowingly allow such persons to use our Services.  If you are under 13, please
+    do not send any data about yourself to us, including your name, address, telephone
+    number, or email address. No one under the age of 13 may provide any personal
+    data.  If we learn that we have collected personal data about a child under age
+    13, we will delete that data as quickly as possible. If you believe that we might
+    have any data from or about a child under the age of 13, please contact us. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

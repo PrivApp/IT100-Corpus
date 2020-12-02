@@ -1,0 +1,876 @@
+policy_id: '44'
+policy_name: com.firsttouchgames.story
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "PRIVACY POLICY   PRIVACY AND DATA POLICY ISSUED BY FIRST TOUCH GAMES\
+    \ LIMITED Last Updated: 2 January 2020  1. INTRODUCTION AND GENERAL TERMS These\
+    \ terms apply to the use of games and other products developed by First Touch\
+    \ Games Limited (\u2018FTG\u2019 / \u2018we\u2019 / \u2018us\u2019). Our registered\
+    \ office is at 264 Banbury Road, Oxford, OX2 7DY. We are a company registered\
+    \ in England, with company number 07638595. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: "This privacy and data policy (\u201CPrivacy Policy\u201D) applies\
+    \ and has effect in respect of all games, related online services (including online\
+    \ network play connectivity and interactivity) and other software and products\
+    \ made available by us (together the 'Game(s)'), as well as any other online features\
+    \ relating to the Games including our website (the \u201CWebsite\u201D), our online\
+    \ forums (the \u201CForums\u201D) and User Support Centre (the \u201CSupport Centre').\
+    \ Together the Game(s), the Website, the Forums and Support Centre are referred\
+    \ to as the \u201COnline Services\u201D. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: "If you have any questions or comments about this Privacy Policy,\
+    \ please contact us at support@ftgames.com We are committed to protecting and\
+    \ respecting your privacy. The Privacy Policy explains the basis on which personal\
+    \ information we collect from you will be processed by us or on our behalf. Where\
+    \ we decide the purpose or means for which personal data you supply through these\
+    \ Online Services is processed, we are the \u201Ccontroller\u201D. We will comply\
+    \ with all applicable data protection laws, including the General Data Protection\
+    \ Regulation 2016/679 and California Consumer Privacy Act 2018 (\u201CCCPA\u201D\
+    ). "
+  annotations: 
+  - practice: 'Data_Controller'
+  sentences:
+  - sentence_text: "Where\
+    \ we decide the purpose or means for which personal data you supply through these\
+    \ Online Services is processed, we are the \u201Ccontroller\u201D."
+    annotations: 
+    - practice: 'Data_Controller'
+- segment_id: 4
+  segment_text: 'Please read this Privacy Policy carefully as it contains important
+    information about the following: What information we may collect about you; How
+    we will use information we collect about you; Whether we will disclose your details
+    to anyone else; and Your choices and rights regarding the personal information
+    you have provided to us. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'This Privacy Policy forms a part of and should be read in conjunction
+    with our terms of use. These are linked below: In respect of the Game(s): In respect
+    of the Support Centre: The Online Services may contain hyperlinks to services
+    owned and operated by third parties. These third party services may have their
+    own privacy policies and we recommend that you review them. They will govern the
+    use of personal information that you submit or which is collected by cookies and
+    other tracking technologies whilst using these services. We do not accept any
+    responsibility or liability for the privacy practices of such third party services
+    and your use of these is at your own risk. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'We may make changes to this Privacy Policy in future, which will
+    be posted on this page. You should check this page from time to time to ensure
+    you are aware of any changes. Where appropriate we may notify you of changes through
+    the Games. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: '2. INFORMATION WE MAY COLLECT ABOUT YOU We collect and process the
+    following information which may include your personal data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'a) Information provided by you when using the Games '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: "(\u201CBasic Information\u201D) We will collect the following information\
+    \ from you when you play our Games: your mobile device\u2019s unique device ID\
+    \ (Device ID) and device name; your user preferences; and Core information related\
+    \ to your gameplay, such as your overall progression to a particular level or\
+    \ stage, your virtual currency stores or the completion of certain activities\
+    \ during your gameplay (for example, completing a tutorial, passing a level, making\
+    \ a purchase or viewing a video ad).  "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: 'b) Contact information provided by you when using the Forums or Support
+    Centre '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: "(\u201CContact Information\u201D) We may ask you for, or you may\
+    \ submit, certain contact information to us whenever you contact us through the\
+    \ Forums or Support Centre. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: 'This may include: your avatar/profile picture (Forums only); your
+    username (Forums only); your email address; your name (Forums only), and your
+    password (Forums only). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'c) Information used for the purposes of serving advertisements '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: "(\u201CAdvertising Data\u201D) Through our third party advertising\
+    \ network partners, we may gather information about your devices when you install\
+    \ or play our Games, depending on the permissions you\u2019ve granted. This may\
+    \ include: the make, model and operating system of your device; properties of\
+    \ your device, such as screen size and orientation, audio volume and battery;\
+    \ the mobile network operator linked to your device; the Games played; the country,\
+    \ time zone and locale settings on your device (i.e. country and preferred language);\
+    \ network connection type and speed; IP Address; MAC address; internet browser\
+    \ used to access the Games; and the advertiser ID, which is an identifier unique\
+    \ to you if you use an Apple or Android device, but which doesn\u2019t reveal\
+    \ your name. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'd) Information collected for the purposes of providing analytics '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: "(\u201CAnalytics\u201D) We may collect technical information about\
+    \ your use of the Online Services through the use of tracking technologies and\
+    \ analytics. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: 'Personal data we may collect includes the following: your Device
+    ID; your user ID (which is generated by us and allocated to you when you first
+    play our games); your device operating system & version; your device make and
+    model; game play attempts, progression and results; session game time start, end
+    and duration; purchase transaction types and spend you have made using virtual
+    items in the Games; the country of your Device; the time, date and install source
+    of your first download (e.g. from a clicked advertisement); advertisements viewed
+    and clicked; and identification of crashes and defects. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'We use a third party analytics provider called Adjust when conducting
+    our analysis on our marketing campaigns. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'Adjust may collect analytics and some advertising data on our behalf
+    and in accordance with our instructions, and its applicable privacy notice. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'If you would like to find out more about the way Adjust collects
+    and processes this information this is likely to be set out in their privacy policies
+    and/or terms and conditions. Please refer to https://www.adjust.com/terms/ and
+    https://www.adjust.com/privacy-policy/. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'For the small number of users that continue to play some of our legacy
+    games which are no longer available for sale, the management of the Analytics
+    is provided by Amazon Pinpoint, part of Amazon Web Services. If you would like
+    to find out more about the way Amazon Web Services collects and processes this
+    information this is likely to be set out in their privacy policies and/or terms
+    and conditions. Please refer to https://aws.amazon.com/legal/ e) Information about
+    you collected from third parties '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: "(\u201CThird Party Log In Information\u201D) When you access the\
+    \ Games via a third party social media provider such as Facebook, we may collect\
+    \ and store personal and non-personal information which is available on that third\
+    \ party social media provider, such as your Facebook name, your profile picture\
+    \ or its URL, your Facebook ID and other public data of your friends, provided\
+    \ that you have expressly agreed to the use of Facebook within the Games. We will\
+    \ also receive technical data in order to ensure the Games connect to the correct\
+    \ Facebook account. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: 'f) Content created by our users which we host and display on the
+    Forums and in the Support Centre '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: "(\u201CUser Content\u201D) When users submit their own User Content\
+    \ to the Forums or Support Centre, this content may contain personal and non-personal\
+    \ information. This could include information in or about the User Content, such\
+    \ as the location of a photo or the date a file was created, or anything else\
+    \ a user decides to communicate using these parts of our Online Services. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: "3. COOKIES The collection of this information may include the use\
+    \ of cookies and similar technologies (for example, which are used on the Website).\
+    \ A cookie is a string of information that a website stores on a visitor\u2019\
+    s computer, and that the visitor\u2019s browser provides to the website each time\
+    \ the visitor returns. Cookies are widely used in order to make websites work,\
+    \ to provide functionality, to make them more efficient and to provide website\
+    \ owners with information about how the website is being used and who's using\
+    \ it. We use a limited number of cookies on our website. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: 'The following cookies are used on our Website: Cookie Description
+    Link to third party terms Twitter cookies(including cookies named: __ncuid, _ga,
+    _gid, ads_prefs, auth_token, csrf_same_site_set, dnt, eu_cn, guest_id, kdt, personalization_id,
+    remember_checked_on,syndication_guest_id, tfw_exp, twid, lang) Cookie Duration:
+    No longer than 30 days We integrate these cookies into the Website to provide
+    an enhanced user experience with Twitter functionality (e.g. official, authenticated
+    Twitter widgets / embedded information). These cookies allow, for example, you
+    to see Twitter content on the website and for you to more easily share content
+    on Twitter. Where you are logged into your Twitter account while visiting our
+    website, Twitter may receive information or your activity on our website. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: "You can visit the following links for more information about Twitter\u2019\
+    s cookies: https://help.twitter.com/en/twitter-for-websites-ads-info-and-privacy\
+    \ https://help.twitter.com/en/rules-and-policies/twitter-cookies Google / YouTube\
+    \ cookies (including cookies named: APISID, CONSENT, HSID, LOGIN_INFO, PREF, SAPISID,\
+    \ SID, SSID, VISITOR_INFO1_LIVE, YSC, _ga, _gcl_au) Cookie Duration: No longer\
+    \ than 18 months We integrate these cookies into the Website to provide an enhanced\
+    \ user experience with YouTube functionality and to understand and maintain the\
+    \ integrity of video viewership statistics. We also use these cookies to help\
+    \ prevent fraud and to improve security. When you view a Youtube video on our\
+    \ website, Youtube may receive information to enable the video to play and to\
+    \ collect analytics data such as how long a viewer has watched the video and the\
+    \ type of video watched. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: "You can visit the following links for more information about Google\u2019\
+    s / YouTube\u2019s cookies: https://support.google.com/analytics/answer/6004245\
+    \ https://support.google.com/youtube/answer/171780?hl=en-GB To opt-out of being\
+    \ tracked by Google Analytics across all websites, visit here Most web browsers\
+    \ allow you to control cookies through your browser settings. To find out more\
+    \ about cookies generally and how to manage or delete them, you can visit here\
+    \ Find out how to manage cookies on popular browsers: Google Chrome (here) Microsoft\
+    \ Edge (here) Mozilla Firefox (here) Microsoft Internet Explorer (here) Opera\
+    \ (here) Apple Safari (here) To find information relating to other browsers, visit\
+    \ the browser developer's website. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: '4. WHY WE COLLECT INFORMATION ABOUT YOU a) To provide our Online
+    Services to you We will use information about you (including Basic Information,
+    Third Party Log In Information, Analytics and User Content) for delivering our
+    Games to you under the terms of use agreed between us. The processing of information
+    in this way is necessary for us to record your progress and current status within
+    a Game, and to ensure the Games deliver the features promised and function properly,
+    so that you have the best experience when playing any one of our Games. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 30
+  segment_text: "We will use information about you (including your Contact Information,\
+    \ User Content and Third Party Log In Information) to provide you with the Forums\
+    \ under the terms of use agreed between us. The processing of information in this\
+    \ way is necessary for us to provide you with the Forums\u2019 functionality and\
+    \ to ensure that you have the best experience when using the Forums. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 31
+  segment_text: 'b) To help us improve the Online Services and fix any problems We
+    may process information about you (including Basic Information, User Content and
+    Analytics) so that we can analyse and improve our Online Services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 32
+  segment_text: 'This processing is also necessary for us to pursue our legitimate
+    interests of (i) ensuring that our Online Services function properly so that you
+    and other users have the best experience when playing any of our Game(s) and using
+    the other Online Services; (ii) improving the quality of our Online Services,
+    and providing a better experience to our users; (iii) identifying and correcting
+    any bugs in the Online Services; and iv) understanding the effectiveness of our
+    marketing to attract new users and re-engage our current users at an aggregated
+    level. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: 'c) To respond to your enquiries and requests for support We may process
+    Contact Information so that we are able to properly respond to your enquiries
+    and support requests either via the Support Centre or Forums or through support@ftgames.com
+    d) To acquire new users and engage current users  We may process information (including
+    some Advertising Data and Analytics) to encourage engagement from our less active
+    users and to notify them with new virtual items or other promotions on offer. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: 'We may process this information to pursue our legitimate interests
+    of acquiring new users for our Games. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: "We use various forms of marketing to acquire new users. The information\
+    \ we collect about you may be used to improve the relevancy of our marketing,\
+    \ including the creation of \u2018lookalike\u2019 audiences. This allows us to\
+    \ offer more relevant marketing to potential new service users without using information\
+    \ that personally identifies you. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 36
+  segment_text: 'e) To improve the monetisation of the Games via in-app purchases
+    We may process information (including Basic Information, User Content, Advertising
+    Data and Analytics) to understand how users use our Games, and to compile statistical
+    reports regarding that activity, as well as understanding how users progress,
+    and their current status within a Game. This processing is necessary for us to
+    pursue our legitimate interests of improving the Games and increasing the amount
+    of revenue generated via in-app purchases. This may include the implementation
+    of dynamic pricing models, so that in-app purchases are priced according to relevant
+    factors, such as geography and gameplay progression so that we can offer temporary
+    promotional discounts. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 37
+  segment_text: 'We will not pass your information to third parties for the purposes
+    of dynamic pricing unless you give your consent should we ask for it. After you
+    have given your consent, you may withdraw it at any time. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 38
+  segment_text: 'f) For advertising purposes We may process Advertising Data to show
+    you advertisements for third party services; including advertising that may reward
+    you with benefits during your use of the Games. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 39
+  segment_text: 'The information we collect about you may be used to understand how
+    advertisements placed in our Games have performed or how many people have viewed
+    certain advertisements. We aggregate this information so that it does not personally
+    identify you or permit you to be treated individually. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 40
+  segment_text: 'We may also use this information to reward users with benefits that
+    can be used for further enjoyment of the Games from the viewing of certain advertising
+    placed in our Games. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 41
+  segment_text: 'We will not pass or process your information for the purposes of
+    marketing by third parties unless you give your consent should we ask for it.
+    After you have given your consent, you may withdraw it at any time. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 42
+  segment_text: 'We may use the information we collect about you to serve you targeted
+    advertisements in our Games. We do this to provide you with more relevant advertising
+    content. We work with the following third party advertising networks : Chartboost
+    - https://answers.chartboost.com/en-us/articles/115001489623 Adcolony - https://www.adcolony.com/privacy-policy/
+    Facebook - https://www.facebook.com/privacy/explanation Unity - https://unity3d.com/legal/privacy-policy
+    Admob - https://policies.google.com/technologies/partner-sites If you would like
+    to find out more about the way these third parties collect and process your information
+    please refer to their respective privacy policies and/or terms and conditions
+    by clicking on the links provided above. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 43
+  segment_text: 'g) To prevent fraud and illegal activity We process personal data
+    for our legitimate interests of ensuring that any use of the Online Services is
+    lawful and non-fraudulent, does not disrupt the operation of our services, does
+    not harass our staff or other individuals, to enforce our legal rights and also
+    in order to comply with our legal obligations. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 44
+  segment_text: 'Where we reasonably believe that you are or may be in breach of any
+    applicable laws or our terms of use, we may use your personal information to inform
+    relevant third parties such as your law enforcement agencies about the content. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 45
+  segment_text: 'We reserve the right to disclose your identity to any third party
+    who is claiming that any User Content posted by you constitutes a violation of
+    their intellectual property rights, or of their right to privacy. You may not
+    copy, download, or embed any User Content without the express written permission
+    of the content owner. You may not use any User Content for any commercial purposes,
+    or any public performances. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 46
+  segment_text: 'We work with Apple and Google to assist us with fraud prevention
+    and the detection of any illegal activity (e.g. to verify in-app purchases made
+    through iTunes and Google Play). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 47
+  segment_text: '5. DATA SHARING We will share your information with third parties
+    only in the ways that are described in this Privacy Policy Group members, personnel,
+    suppliers or subcontractors: We keep your information confidential, but may disclose
+    it to any member of our group (which means our subsidiaries, our ultimate holding
+    company and its subsidiaries, as defined in section 1159 of the Companies Act
+    2006), our personnel, suppliers or subcontractors insofar as it is reasonably
+    necessary for the purposes set out in this Privacy Policy. However, this is on
+    the basis that they do not make independent use of the information, and have agreed
+    to safeguard it. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 48
+  segment_text: 'Merger or acquisition: If we are involved in a merger, acquisition,
+    or sale of all or a portion of its assets, any third party to which we sell or
+    transfer our assets to will have the right to continue to use the personal and
+    other information that you provide us in the manner set out in this Privacy Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 49
+  segment_text: 'Required by law: In addition, we may disclose your information to
+    the extent that we are required to do so by law (which may include to government
+    bodies and law enforcement agencies); in connection with any legal proceedings
+    or prospective legal proceedings; and in order to establish, exercise or defend
+    our legal rights (including providing information to others for the purposes of
+    fraud prevention). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 50
+  segment_text: 'Enforcement: We may also disclose your personal information to third
+    parties in order to enforce or apply the terms of agreements, to investigate potential
+    breaches, or to protect the rights, property or safety of FTG, our customers,
+    or others. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 51
+  segment_text: 'Digital Content Stores: Where the Games are downloaded though Google
+    Play, iTunes and/or Amazon Appstore, we may disclose your personal information
+    to Google, Apple and/or Amazon respectively for the purposes of facilitating any
+    in-Game payments made through these platforms. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 52
+  segment_text: 'Support Centre: We use a third party platform provider called Zendesk
+    to manage any support requests, queries and issues raised by users via the Support
+    Centre or sent to support@ftgames.com. Further details about the way in which
+    Zendesk may collect and process your information can be found in their terms here. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 53
+  segment_text: '6. AUTOMATED DECISION MAKING We use automated decision making methods
+    which do not involve human involvement to process your information only in the
+    ways that are described in this Privacy Policy We process your personal information
+    via automated decision making methods in order to identify users who are suspected
+    of cheating in the Games. Our automated decision making methods are designed to
+    detect cheating by looking out for (i) excessive currency stores against actual
+    completed gameplay; and (ii) excessive content against actual purchases made and
+    completed gameplay. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 54
+  segment_text: 'If users are determined to be or suspected of cheating the following
+    actions may be taken and which will be unknown to the user: an increase in the
+    number of advertisements displayed within the Games; and an increase in the frequency
+    of suspected cheats playing against other suspected cheats. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 55
+  segment_text: 'We may block users from the Games and/or the Online Services who
+    are determined to be cheating following an automated decision process. In this
+    scenario the user will be notified of the outcome and will have the right to obtain
+    human intervention to express his or her point of view and to contest the decision
+    to block access to the Games and/or the Online Services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 56
+  segment_text: '7. CONSUMER CONTROL AND OPT-OUT OPTIONS If you do not wish to be
+    part of a lookalike campaign, receive notifications from us or be served with
+    targeted advertisements you can opt-out by changing your advertising and notification
+    settings on your device directly. You can opt-out from analytics performed by
+    Adjust here. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 57
+  segment_text: 'You can withdraw your consent to targeted advertising by changing
+    your advertising settings on your device at any time. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 58
+  segment_text: '8. YOUR RIGHTS IN RELATION TO PERSONAL DATA WHICH WE PROCESS RELATING
+    TO YOU You have the following rights over the way we process personal data relating
+    to you, as set out in the table below. We aim to comply without undue delay, and
+    within one month at the latest. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 59
+  segment_text: 'To make a request, please let our Data Protection Officer know by
+    sending an email to support@ftgames.com. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 60
+  segment_text: 'a) Ask for a copy of data we are processing about you and have inaccuracies
+    corrected You have the right to request a copy of the personal information we
+    hold about you and to have any inaccuracies corrected. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 61
+  segment_text: 'We will use reasonable efforts to the extent required by law to supply,
+    correct or delete personal information held about you on our files (and with any
+    third parties to whom it has been disclosed to). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 62
+  segment_text: "b) Object to us processing data about you You can ask us to restrict,\
+    \ stop processing, or to delete your personal data if: you consented to our processing\
+    \ the personal data, and have withdrawn that consent; we no longer need to process\
+    \ that personal data for the reason it was collected; we are processing that personal\
+    \ data because it is in the public interest or it is in order to pursue a legitimate\
+    \ interest of FTG or a third party, you don\u2019t agree with that processing,\
+    \ and there is no overriding legitimate interest for us to continue processing\
+    \ it; the personal data was unlawfully processed; you need the personal data to\
+    \ be deleted in order to comply with legal obligations; the personal data is processed\
+    \ in relation to the offer of a service to a child. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 63
+  segment_text: 'c) Obtain a machine readable copy of your personal data, which you
+    can use with another service provider If we are processing data in order to perform
+    our obligations to you, or because you consented, or if that processing is carried
+    out by automated means, we will help you to move, copy or transfer your personal
+    data to other IT systems. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 64
+  segment_text: 'If you request, we will supply you with the relevant personal data
+    in CSV format. Where it is technically feasible, you can ask us to send this information
+    directly to another IT system provider if you prefer. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 65
+  segment_text: 'd) Make a complaint to a Supervisory Authority If you are unhappy
+    with the way we are processing your personal data, please let us know by contacting
+    us via the support services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 66
+  segment_text: 'If you do not agree with the way we have processed your data or responded
+    to your concerns, an alternative is to submit a complaint to a Data Protection
+    Supervisory Authority. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 67
+  segment_text: '9. DATA RETENTION We will hold your personal information on our systems
+    for as long as is necessary for the relevant service, or as otherwise described
+    in this Privacy Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 68
+  segment_text: '10. CHILDREN We do not use our Online Services to knowingly solicit
+    information from or market to children under the age of 13. Our terms of use prohibit
+    users aged under 13 years from accessing our Online Services. In the event that
+    we learn that we have collected personal information from a child under 13 years
+    of age we will delete that information as quickly as possible.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 69
+  segment_text: 'If you believe that we might have any information from or about a
+    child under 13 years of age please contact us at support@ftgames.com 11. SECURITY
+    We will take all reasonable technical and organisational precautions to prevent
+    the loss misuse or alteration of your personal information. For example, our databases
+    are password protected and limited to essential employees only (such as FTG management
+    or employees whose main role requires system access). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 70
+  segment_text: 'Please be aware that, although we endeavour to provide reasonable
+    security for information we process and maintain, no security system can prevent
+    all potential security breaches. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 71
+  segment_text: "12. INTERNATIONAL DATA TRANSFERS Where you make in-Game purchases\
+    \ via iTunes or Google\u2019s Play store, the confirmation that your purchase\
+    \ is valid as required by Apple or Google for such purchases will be processed\
+    \ using servers hosted in Singapore in the event that there is a problem with\
+    \ the servers hosted in Ireland. The servers we use for this purpose are hosted\
+    \ by Amazon Web Services. "
+  annotations:
+  - practice: TRANSFER&Singapour&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "INTERNATIONAL DATA TRANSFERS  Where you make in-Game purchases\
+      \ via iTunes or Google\u2019s Play store, the confirmation that your purchase\
+      \ is valid as required by Apple or Google for such purchases will be processed\
+      \ using servers hosted in Singapore in the event that there is a problem with\
+      \ the servers hosted in Ireland."
+    annotations:
+    - practice: TRANSFER&Singapour&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 72
+  segment_text: 'Basic Information used for Matchmaking services, where users may
+    play against other users, may be processed using servers based in Singapore or
+    US in addition to Ireland and Germany, reflecting the global player base of the
+    Games. The servers we use for this purpose are hosted by Amazon Web Services. '
+  annotations:
+  - practice: TRANSFER&USA&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&Singapour&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Basic Information used for Matchmaking services, where users may
+      play against other users, may be processed using servers based in Singapore
+      or US in addition to Ireland and Germany, reflecting the global player base
+      of the Games
+    annotations:
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+    - practice: TRANSFER&Singapour&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 73
+  segment_text: 'It is possible that your personal information may be transferred
+    outside of the EEA by Ad Networks, Adjust, or Zendesk. We recommend that you refer
+    to the privacy policies and/or terms and conditions of these third parties if
+    you are concerned about your data being transferred outside the EEA. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'It is possible that your personal information may be transferred
+      outside of the EEA by Ad Networks, Adjust, or Zendesk. '
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: We recommend that you refer to the privacy policies and/or terms
+      and conditions of these third parties if you are concerned about your data being
+      transferred outside the EEA.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 74
+  segment_text: 'Where we transfer your information outside of the EEA, we have agreements
+    in place with those parties which include standard data protection clauses adopted
+    by a data protection regulator and approved by the European Commission to ensure
+    that appropriate safeguards are in place to protect your personal data. If you
+    would like to find out more about these safeguards, please let us know by writing
+    to support@ftgames.com 13. CALIFORNIA RESIDENTS & CCPA If you are a California
+    resident, as defined in Section 17014 of Title 18 of the California Code of Regulations,
+    you have certain rights in respect of the personal information we hold about you. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Standard_Data_Protection_Clauses&Copy
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Where we transfer your information outside of the EEA, we have
+      agreements in place with those parties which include standard data protection
+      clauses adopted by a data protection regulator and approved by the European
+      Commission to ensure that appropriate safeguards are in place to protect your
+      personal data.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Standard_Data_Protection_Clauses&Without_Copy
+      modality: PERFORMED
+  - sentence_text: 'If you
+      would like to find out more about these safeguards, please let us know by writing
+      to support@ftgames.com'
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Standard_Data_Protection_Clauses&Copy
+      modality: PERFORMED
+- segment_id: 75
+  segment_text: 'If you have questions or concerns about our privacy policies and
+    practices, please contact us at the details set out at the end of this Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 76
+  segment_text: 'Please see above for: the date on which this Policy was last updated
+    (at the top of this Policy) categories of personal information collected about
+    you in the last 12 months (see paragraph 2) categories of sources from which the
+    personal information was collected (see paragraph 2 and 3) purposes for collecting
+    personal information (see paragraph 4) categories of third parties with whom we
+    share personal information (see paragraph 5) categories of personal information
+    we have disclosed within the last 12 months (see paragraphs 2 and 5) categories
+    of personal information we have sold within the last 12 months (see paragraph
+    2c and 4f) We have disclosed and sold personal information to third parties within
+    the last 12 months to our third-party advertising networks (see paragraph 4f).
+    We do not sell the personal information of minors under 16 years of age without
+    affirmative authorisation. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 77
+  segment_text: 'You can designate an authorised agent to make a request under the
+    CCPA on your behalf. The authorized agent must submit proof that they have been
+    authorized by you to act on your behalf and proof of their own identity. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 78
+  segment_text: 'You have the right to: request access to your personal information;
+    request deletion of your personal information; opt-out of the sale of your personal
+    information (see paragraph 7 above or email us at support@ftgames.com); not be
+    discriminated against for exercising any of your rights under the California Consumer
+    Privacy Act of 2018 (CCPA). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 79
+  segment_text: 'To make a verifiable consumer request of access or deletion, please
+    contact us by email at support@ftgames.com or by mail to First Touch Games Ltd,
+    264 Banbury Rd, Oxford, OX2 7DY, UK. We may verify your request by asking for
+    proof of identity such as your device ID and/or User ID. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 80
+  segment_text: 'CONTACT INFORMATION All questions, comments or enquiries should be
+    directed to FTG at support@ftgames.com. We will endeavour to respond to any query
+    or questions within three business days. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 81
+  segment_text: "\xA9 2020 First Touch Games Limited. All trade marks are the property\
+    \ of the relevant owners. All rights reserved. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 82
+  segment_text: "Copyright \xA9 2019-2020 First Touch Games. All rights reserved.Terms\
+    \ of UsePrivacy Policy  This website includes cookies to provide you with a better\
+    \ experience. Most browsers allow you to manage your cookies, and you can read\
+    \ more about the cookies we use in our Privacy Policy. By clicking \u2018OK\u2019\
+    \ or any link on the site, you agree to this use. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 83
+  segment_text: 'More information OK '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

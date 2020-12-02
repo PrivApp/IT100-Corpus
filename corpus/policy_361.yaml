@@ -1,0 +1,429 @@
+policy_id: '361'
+policy_name: com.doodle.master.draw.glow.art
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'HIS PRIVACY POLICY WAS UPDATED ON MAY.22TH.2018. According to the
+    General Data Protection Regulation (GDPR) (EU) 2016/679. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: "Draw apps for free team has adopted this privacy policy (\u201CPrivacy\
+    \ Policy\u201D) to explain how Draw apps for free collects, stores, and uses the\
+    \ information collected in connection with Draw apps for free\u2019s Services. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: "BY INSTALLING, USING, REGISTERING TO OR OTHERWISE ACCESSING THE SERVICES,\
+    \ YOU AGREE TO THIS PRIVACY POLICY AND GIVE AN EXPLICIT AND INFORMED CONSENT TO\
+    \ THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THIS PRIVACY POLICY.\
+    \ IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT INSTALL, USE, REGISTER\
+    \ TO OR OTHERWISE ACCESS THE SERVICES. Draw apps for free reserves the right to\
+    \ modify this Privacy Policy at reasonable times, so please review it frequently.\
+    \ If Draw apps for free makes material or significant changes to this Privacy\
+    \ Policy, Draw apps for free may post a notice on Draw apps for free\u2019s website\
+    \ along with the updated Privacy Policy. Your continued use of Services will signify\
+    \ your acceptance of the changes to this Privacy Policy. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: "Non-personal data For purposes of this Privacy Policy, \u201Cnon-personal\
+    \ data\u201D means information that does not directly identify you. The types\
+    \ of non-personal data Draw apps for free may collect and use include, but are\
+    \ not limited to: application properties, including, but not limited to application\
+    \ name, package name and icon installed on your device. Your checkin (include\
+    \ like, recommendation) of a game will be disclosed to all Draw apps for free\
+    \ users. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'The data we collect depends on the context of your interactions with
+    us, the choices you make, including your privacy settings, and the products and
+    features you use. The data we collect can include SDK/API/JS code version, browser,
+    Internet service provider, IP address, platform, timestamp, application identifier,
+    application version, application distribution channel, independent deice identifier,
+    iOS ad identifier (IDFA), Android ad master identifier, network card (MAC) address,
+    and international mobile device identification code (IMEI) The equipment model,
+    the terminal manufacturer, the terminal device operating system version, the session
+    start / stop time, the location of the language, the time zone and the network
+    state (WiFi and so on), the hard disk, the CPU, and the battery use, etc. '
+  annotations:
+  - practice: Identifier_Ad_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Device_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IMEI&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  - practice: Identifier_MAC&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: The data we collect can include SDK/API/JS code version, browser,
+      Internet service provider, IP address, platform, timestamp, application identifier,
+      application version, application distribution channel, independent deice identifier,
+      iOS ad identifier (IDFA), Android ad master identifier, network card (MAC) address,
+      and international mobile device identification code (IMEI)
+    annotations:
+    - practice: Identifier_Ad_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_Device_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IMEI&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+    - practice: Identifier_MAC&1stParty
+      modality: PERFORMED
+- segment_id: 6
+  segment_text: "Draw apps for free may use and disclose to Draw apps for free\u2019\
+    s partners and contractors the collected non-personal data for purposes of analyzing\
+    \ usage of the Services, investigate, prevent or take action regarding unauthorized\
+    \ use of the services to further develop the Services and other Draw apps for\
+    \ free services and products. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: "For purposes of this Privacy Policy, \u201Cpersonal data\u201D means\
+    \ personally identifiable information that specifically identifies you as an individual. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: "Personal information collected by Draw apps for free is information\
+    \ voluntarily provided to us by you when you create your account or change your\
+    \ account information. The information includes your Facebook id, name, gender,\
+    \ location and your friends\u2019 id on Facebook. Draw apps for free also stores\
+    \ your game checkins, likes, dislikes, recommendations and messages. "
+  annotations:
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: Demographic_Gender&1stParty
+    modality: PERFORMED
+  - practice: Location&1stParty
+    modality: PERFORMED
+  - practice: Facebook_SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "The information includes your Facebook id, name, gender, location\
+      \ and your friends\u2019 id on Facebook. Draw apps for free also stores your\
+      \ game checkins, likes, dislikes, recommendations and messages."
+    annotations:
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: Demographic_Gender&1stParty
+      modality: PERFORMED
+    - practice: Location&1stParty
+      modality: PERFORMED
+    - practice: Facebook_SSO&1stParty
+      modality: PERFORMED
+- segment_id: 9
+  segment_text: "Draw apps for free may use collected personal data for purposes of\
+    \ analyzing usage of the Services, providing customer and technical support, managing\
+    \ and providing Services (including managing advertisement serving) and to further\
+    \ develop the Services and other Draw apps for free services and products. Draw\
+    \ apps for free may combine non-personal data with personal data. But unless the\
+    \ Law forces us, we will not share any personal data with any unaffiliated third\
+    \ party for any purpose\u2026ever.. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: "The personal data and information includes: 1. Your mobile device\u2019\
+    s unique identifier (UDID) 2. Your email address used to login the social network\
+    \ 3. Your social network or third-party service user identification number (like\
+    \ your Facebook ID number), which is linked to publicly-available information\
+    \ like your name and profile photo (including the social network ID numbers and\
+    \ other public data of your friends) 4. In-game transaction identifiers and purchases\
+    \ 5. Your device types and its OS version 6. The local language and country settings\
+    \ on your device "
+  annotations:
+  - practice: Identifier_Device_ID&1stParty
+    modality: PERFORMED
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Facebook_SSO&1stParty
+    modality: PERFORMED
+  - practice: Contact_City&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "The personal data and information includes:  1. Your mobile device\u2019\
+      s unique identifier (UDID)"
+    annotations:
+    - practice: Identifier_Device_ID&1stParty
+      modality: PERFORMED
+  - sentence_text: 2. Your email address used to login the social network
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+  - sentence_text: '3. Your social network or third-party service user identification
+      number (like your Facebook ID number), which is linked to publicly-available
+      information like your name and profile photo (including the social network ID
+      numbers and other public data of your friends) '
+    annotations:
+    - practice: Facebook_SSO&1stParty
+      modality: PERFORMED
+  - sentence_text: 6. The local language and country settings on your device
+    annotations:
+    - practice: Contact_City&1stParty
+      modality: PERFORMED
+- segment_id: 11
+  segment_text: "Please note that certain features of the Services may be able to\
+    \ connect to your social networking sites to obtain additional information about\
+    \ you. In such cases, Draw apps for free may be able to collect certain information\
+    \ from your social networking profile when your social networking site permits\
+    \ it, and when you consent to allow your social networking site to make that information\
+    \ available to Draw apps for free. This information may include, but is not limited\
+    \ to, your name, profile picture, gender, user ID, email address, your country,\
+    \ your language, your time zone, the organizations and links on your profile page,\
+    \ the names and profile pictures of your social networking site \u201Cfriends\u201D\
+    \ and other information you have included in your social networking site profile.\
+    \ Draw apps for free may associate and/or combine as well as use information collected\
+    \ by Draw apps for free and/or obtained through such social networking sites in\
+    \ accordance with this Privacy Policy. "
+  annotations:
+  - practice: Contact_City&1stParty
+    modality: PERFORMED
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: Demographic_Gender&1stParty
+    modality: PERFORMED
+  - practice: Identifier&1stParty
+    modality: PERFORMED
+  - practice: Multimedia&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "This information may include, but is not limited to, your name,\
+      \ profile picture, gender, user ID, email address, your country, your language,\
+      \ your time zone, the organizations and links on your profile page, the names\
+      \ and profile pictures of your social networking site \u201Cfriends\u201D and\
+      \ other information you have included in your social networking site profile."
+    annotations:
+    - practice: Contact_City&1stParty
+      modality: PERFORMED
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: Demographic_Gender&1stParty
+      modality: PERFORMED
+    - practice: Identifier&1stParty
+      modality: PERFORMED
+    - practice: Multimedia&1stParty
+      modality: PERFORMED
+- segment_id: 12
+  segment_text: 'Draw apps for free collects and processes personal data on a voluntary
+    basis and it is not in the business of selling your personal data to third parties.
+    Personal data may, however, occasionally be disclosed in accordance with applicable
+    legislation and this Privacy Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'Draw apps for free may disclose your personal data to third parties
+    as required by law enforcement or other government officials in connection with
+    an investigation of fraud, intellectual property infringements, or other activity
+    that is illegal or may expose you or Draw apps for free to legal liability. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: "Draw apps for free may also disclose your personal data to third\
+    \ parties when Draw apps for free has a reason to believe that a disclosure is\
+    \ necessary to address potential or actual injury or interference with Draw apps\
+    \ for free\u2019s rights, property, operations, users or others who may be harmed\
+    \ or may suffer loss or damage, or Draw apps for free believes that such disclosure\
+    \ is necessary to protect Draw apps for free\u2019s rights, combat fraud and/or\
+    \ comply with a judicial proceeding, court order, or legal process served on Draw\
+    \ apps for free. To the extent permitted by applicable law, Draw apps for free\
+    \ will make reasonable efforts to notify you of such disclosure through Draw apps\
+    \ for free\u2019s website or in another reasonable manner. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'Besides, If Draw apps for free becomes involved in a merger, acquisition,
+    or any form of sale of some or all of its assets, we will provide notice before
+    personal information is transferred and becomes subject to a different privacy
+    policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: "Draw apps for free follows generally accepted industry standards\
+    \ and maintains reasonable safeguards to attempt to ensure the security, integrity\
+    \ and privacy of the information in Draw apps for free\u2019s possession. Only\
+    \ those persons with a need to process your personal data in connection with the\
+    \ fulfillment of their tasks in accordance with the purposes of this Privacy Policy\
+    \ and for the purposes of performing technical maintenance, have access to your\
+    \ personal data in Draw apps for free\u2019s possession. Personal data collected\
+    \ by Draw apps for free is stored in secure operating environments that are not\
+    \ available to the public. To prevent unauthorized on-line access to personal\
+    \ data, Draw apps for free maintains personal data behind a firewall-protected\
+    \ server. However, no system can be 100% secure and there is the possibility that\
+    \ despite Draw apps for free\u2019s reasonable efforts, there could be unauthorized\
+    \ access to your personal data. By using the Services, you assume this risk. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: 'Please be aware of the open nature of certain social networking and
+    other open features of the Services Draw apps for free may make available to you.
+    You may choose to disclose data about yourself in the course of contributing user
+    generated content to the Services. Any data that you disclose in any of these
+    forums, blogs, chats or the like is public information, and there is no expectation
+    of privacy or confidentiality. Draw apps for free is not responsible for any personal
+    data you choose to make public in any of these forums. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: "If you are under 15 years of age or a minor in your country of residence,\
+    \ please ask your legal guardian\u2019s permission to use or access the Services.\
+    \ Draw apps for free takes children\u2019s privacy seriously, and encourages parents\
+    \ and/or guardians to play an active role in their children's online experience\
+    \ at all times. Draw apps for free does not knowingly collect any personal information\
+    \ from children below the aforementioned age and if Draw apps for free learns\
+    \ that Draw apps for free has inadvertently gathered personal data from children\
+    \ under the aforementioned age, Draw apps for free will take reasonable measures\
+    \ to promptly erase such personal data from Draw apps for free\u2019s records. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: "Draw apps for free may store and/or transfer your personal data to\
+    \ its affiliates and partners in and outside of EU/EEA member states and the United\
+    \ States in accordance with mandatory legislation and this Privacy Policy. Draw\
+    \ apps for free may disclose your personal data to third parties in connection\
+    \ with a corporate merger, consolidation, restructuring, the sale of substantially\
+    \ all of Draw apps for free\u2019s stock and/or assets or other corporate change,\
+    \ including, without limitation, during the course of any due diligence process\
+    \ provided, however, that this Privacy Policy shall continue to govern such personal\
+    \ data. "
+  annotations:
+  - practice: TRANSFER&USA&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Draw apps for free may store and/or transfer your personal data
+      to its affiliates and partners in and outside of EU/EEA member states and the
+      United States in accordance with mandatory legislation and this Privacy Policy.
+    annotations:
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 20
+  segment_text: "Draw apps for free regularly reviews its compliance with this Privacy\
+    \ Policy. If Draw apps for free receives a formal written complaint from you,\
+    \ it is Draw apps for free\u2019s policy to attempt to contact you directly to\
+    \ address any of your concerns. Draw apps for free will cooperate with the appropriate\
+    \ governmental authorities, including data protection authorities, to resolve\
+    \ any complaints regarding the collection, use, transfer or disclosure of personal\
+    \ data that cannot be amicably resolved between you and Draw apps for free. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'We process Personal Data for the purposes set out in this Privacy
+    Policy, as described above. Our legal basis to process personal data includes
+    processing that is: necessary for the performance of the contract with you (for
+    example, to provide you with the services you request and to identify and authenticate
+    you so you may use the Sites); necessary to comply with legal requirements (for
+    example, to comply with applicable accounting rules and to make mandatory disclosures
+    to law enforcement); necessary for our legitimate interests (for example, to manage
+    our relationship with you, to ensure the security of our services, to communicate
+    with you about our products and services); and based on consent by our customers
+    (for example, to place certain cookies and to share your information with third
+    parties for advertising purposes). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: "Our business may require us to transfer your Personal Data to countries\
+    \ outside of the European Economic Area (\u201CEEA\u201D), including to countries\
+    \ such as the People\u2019s Republic of China or Singapore. We take appropriate\
+    \ steps to ensure that recipients of your Personal Data are bound to duties of\
+    \ confidentiality and we implement measures such as standard contractual clauses.\
+    \ A copy of those clauses can be obtained by contacting our Help Center. "
+  annotations:
+  - practice: TRANSFER&China&Standard_Data_Protection_Clauses&Copy
+    modality: PERFORMED
+  - practice: TRANSFER&Singapour&Standard_Data_Protection_Clauses&Copy
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "International Transfers of Personal Data Our business may require\
+      \ us to transfer your Personal Data to countries outside of the European Economic\
+      \ Area (\u201CEEA\u201D), including to countries such as the People\u2019s Republic\
+      \ of China or Singapore. "
+    annotations:
+    - practice: TRANSFER&China&Unspecified_Mechanism
+      modality: PERFORMED
+    - practice: TRANSFER&Singapour&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: We take appropriate steps to ensure that recipients of your Personal
+      Data are bound to duties of confidentiality and we implement measures such as
+      standard contractual clauses
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Standard_Data_Protection_Clauses&Without_Copy
+      modality: PERFORMED
+  - sentence_text: 'A copy of those clauses can be obtained by contacting
+      our Help Center. '
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Standard_Data_Protection_Clauses&Copy
+      modality: PERFORMED
+- segment_id: 23
+  segment_text: 'Subject to limitations in applicable law, you are entitled to object
+    to or request the restriction of processing of your Personal Data, and to request
+    access to, rectification, erasure and portability of your own Personal Data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: 'Where the use of your information is based on consent, you can withdraw
+    this consent at any time without affecting the lawfulness of processing based
+    on consent before its withdrawal. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: 'If you are aware of changes or inaccuracies in your information,
+    you should inform us of such changes so that our records may be updated or corrected.
+    You may lodge a complaint with a supervisory authority if you consider that our
+    processing of your Personal Data infringes applicable law. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: 'We retain your Personal Data as long as needed to provide services
+    or products to you, or as required or permitted by applicable laws, such as tax
+    and accounting laws. Requests should be submitted by contacting us through email:
+    draw.app@hotmail.com '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

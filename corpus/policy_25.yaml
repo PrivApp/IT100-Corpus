@@ -1,0 +1,481 @@
+policy_id: '25'
+policy_name: com.mt.mtxx.mtxx
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'Privacy Policy Last Modified: October 13, 2017 Your privacy is important
+    to us. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'Meitu and its affiliates (''Meitu'', ''we'', ''us'' or ''our'') are
+    dedicated to protecting the privacy of our users (''users'' or ''you''). This
+    Privacy Policy (the ''Policy'') is meant to explain our practices regarding how
+    we collect, store, use, manage and protect your user information (including your
+    personal details) during your use of our websites www.meitu.com, www.meipai.com
+    and www.beautyplus.com (collectively, the ''Sites'') and through any of our mobile
+    applications available on other mobile devices, such as Apple and Android devices
+    (the ''Services''), with the exception of those Meitu applications which have
+    separate privacy policies. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'Please note that the scope of this Policy is limited solely to your
+    user information (including your personal details) collected or received by Meitu
+    when you are using the Sites and the Services. In this Policy, ''personal details''
+    refer to information that either identifies you or that can be used to identify
+    you when used in association with other personal information that Meitu can access,
+    including your name, address, phone number and email address. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'BY USING OUR SITES AND OUR SERVICES, YOU ARE EXPRESSING YOUR CONSENT
+    TO THIS POLICY AND THE COLLECTION, PROCESSING, DISCLOSURE AND SHARING OF YOUR
+    USER INFORMATION, INCLUDING YOUR PERSONAL DETAILS, IN THE MANNER PROVIDED IN THIS
+    POLICY. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OF THIS POLICY OR ANY SUBSEQUENT
+    CHANGES TO THIS POLICY, PLEASE DO NOT USE OUR SITES OR OUR SERVICES. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'If you have any questions regarding this Privacy Policy or any privacy-related
+    matters, please contact us at support@meitu.com or legal@meitu.com, or via registered
+    mail at Unit 8106B, 81/F, International Commerce Center, 1 Austin Road West, Kowloon,
+    Hong Kong (attention: Legal Department, Meitu). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'The Information We Collect In order to provide and improve the Sites
+    and Services, Meitu will collect, to the extent permitted by laws and only when
+    you are browsing the Sites or using certain functions and Services, your personal
+    details and user information in accordance with this Policy. If you do not provide
+    this information, we may be unable to provide you with our products or Services.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'The Information You Provide to Us When you use the Sites or the Services,
+    we might recommend you sign up for a Meitu ID (''Meitu ID'') to take full advantage
+    of the Sites, the Services and all their features. When you create a Meitu ID,
+    we will collect certain information that can be used to identify you, such as
+    your Meitu ID user name and mobile phone number and so on (''personal details'').
+    When you request to enable Meipai''s live video broadcasting feature, we will
+    require you to provide your personal details (including your name, passport number
+    and mobile phone number) as provided by law for real-name authentication. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'Device Information When you use our Services on your mobile device,
+    we will collect information about your device, including its International Mobile
+    Equipment Identity (''IMEI''), Identifier for Advertising (''IDFA'') and Identifier
+    for Vendor (''IDFV''), Integrated Circuit Card Identifier (''ICCID''), Media Access
+    Control (''MAC'') address, model and resolution, which will be used by us to calculate
+    the number of devices that use our products and Services and analyze data on device
+    models and graphics adaptation. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'Network Information When you use the Sites or the Services online,
+    we will collect information about the network you use, including the name of the
+    operator and the type of network, so as to understand the distribution of operators
+    and networks used by our users. In addition, we will collect information such
+    as the name of the WiFi to which you connect and the duration of your WiFi connection
+    to understand the scenarios in which you use our Services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: 'Location Information We will collect your Location Information, including
+    the country code, latitude and longitude, network location, IP address and the
+    system country and system time zone recorded on your device. This information
+    will help us understand user distribution and usage scenarios, and allow us to
+    provide users with the correct version of our apps and better services.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: 'Except as otherwise provided in this Policy, we will not share this
+    Location Information with any third parties. If you no longer wish to allow us
+    to collect or use such information, you may turn off your Internet access or GPS,
+    or disable our access to information about your network, GPS and device. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: 'Log Information When you use some of the Services, including generating
+    and browsing certain content, we will automatically collect certain relevant log
+    information stored in the Meitu App (''Log Information''). Log Information may
+    include (i) details on when and how often you use the Services, (ii) device statistics,
+    including critical operation paths, errors, crashes, language and time zone. This
+    Log Information is used to improve the Services and is NOT USED to identify our
+    users individually. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'Image Information By choosing to use the cloud editing feature of
+    our service, you understand and agree that we must upload your photos to our server
+    for processing before returning processed photos to you for the purposes of providing
+    such service to you and continuous optimization and that we will also receive
+    the EXIF data about your photos (EXIF data may contain GPS coordinates where photos
+    were taken and processed, equipment type, ISO and information about the front
+    and rear cameras and creation time, depending on the equipment manufacturer) for
+    the purpose of further optimizing our services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: 'Metadata Metadata refers to technical data associated with user content.
+    Put simply, metadata is data that describes data. For example, metadata can describe
+    the location information and file creation time contained in photos or other files,
+    or the rough features of the characters in photos and other content contained
+    in photos. When you use the Services, we will use photo metadata to provide you
+    with certain features including precise ''Facial Recognition'', ''Key-Points Recognition'',
+    ''Region Segmentation'', ''Content Tags'' and other custom features based on a
+    combination of these basic features. Metadata cannot normally be used to identify
+    a specific individual, and it will be used to improve the Services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'Forum Posts Some of our Services or applications offer publicly accessible
+    community forums. You should be aware that any content or information about yourself
+    that you provide and make public in these areas may be read, collected, and used
+    by others who access the forums. You can remove your personal details from these
+    community forums by yourself or by contacting us at support@meitu.com or legal@meitu.com.
+    In some cases, we may not be able to remove your personal details from the community
+    forums, in which case, we will let you know if we are unable to do so and why. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'Cookies When you are browsing the Sites, Meitu or a third party designated
+    by Meitu will use cookies, tags and scripts to collect information in log files
+    and locally cached information for the purposes of analyzing trends, managing
+    the Sites, tracking users activity on the Sites and collecting demographics on
+    the user base. Information in log files may include information about your Internet
+    Protocol (IP) address, browser type, Internet Service Provider (ISP), referring
+    and exit pages, your operating system, dates and timestamps, and clickstream data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: 'Advertising We may include advertisements within our Services, and
+    we may collect and use information about you such as your device identifier, MAC
+    address, IMEI and geographic location and IP address for the purpose of tracking
+    these advertisements. We will use this information to create a unique user account
+    to help us better count and track advertisements based on language, geographic
+    location and other details. We will not sell this information to third parties. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'Information Collected by Third Party Services Our Services provided
+    to you may contain third party tracking tools from our service providers. These
+    third parties may use Cookies, Application Programming Interfaces (APIs) and Software
+    Development Kits (SDKs) on our Services and collect and analyze user information
+    on our behalf. Third parties may access your information such as your device identifier,
+    MAC address, IMEI, region (defined as the location where a given language is used),
+    location information and IP address for the purposes of implementing our Services
+    provided under their respective privacy policies. This Policy does not govern
+    the use of third party tracking tools. We have no access to or control over such
+    third parties. If you want to know more about third parties, you may send an email
+    to support@meitu.com or legal@meitu.com. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'Information Collected as Part of User Experience Programs We may
+    launch a user experience program on our products to improve our products and services
+    and improve user experience.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'You may choose to join and leave such user experience programs at
+    any time. After you have agreed to join a user experience program and before you
+    choose to leave the program, we will collect your information in accordance with
+    the program. This information will be used by us to better understand and improve
+    our technologies and Services and will not be used to identify you. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'Other Information We may also collect other information which is
+    not related to your identity. For example, we may collect information on the type
+    and version number of your operating system to better understand system upgrades,
+    we may collect information on your system language for the purpose of language
+    adaptation, and we may collect your App list to understand user preferences. If
+    we choose to collect such information, we will do so for the purpose of improving
+    our Services provided to you. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: 'How We Use Information We collect user information and personal details
+    so that we can provide our products and Services to you and ensure our compliance
+    with relevant laws. We will use your user information and personal details as
+    provided under ''The Information We Collect'' for the following purposes: (i)
+    Services. To provide, process, maintain, improve and develop our Sites and/or
+    our Services provided to you, including customer support, and other services provided
+    through our devices or our Sites. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: '(ii) Statistical analysis.To develop and analyze statistics on the
+    use of our products and Services for the purpose of improving our products and
+    our Services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: '(iii) To create a Meitu ID. The personal details that we collect
+    when you use our Sites or Services to create a Meitu ID will be used by us to
+    create your Meitu ID and profile. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: '(iv) To facilitate your use of forums. Your personal details related
+    to Meipai, Shanliao or other Meitu community platforms  may be used when we display
+    your profile, when you interact with other users and when you publish forum posts. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: '(v) To provide location-based services. When you use our Services,
+    we or third party service providers may take advantage of your location information
+    to provide you with the correct version of our Services and help you gain good
+    user experience. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: '(vi) To improve user experience. Certain optional features such as
+    user experience programs allow Meitu to analyze data regarding the use of our
+    products and our Services and improve user experience. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: '(vii) To provide push services. Meitu ID numbers and device information
+    may be used by us to provide push services to assess the performance of adverts
+    and the success of software updates, or provide notifications on new product releases.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: 'You may turn off this feature at any time by changing your preferences
+    under ''Settings''. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 30
+  segment_text: '(viii) To verify your identity. Verifying your identity using a text
+    message when you log in to your account helps prevent unauthorized logins to your
+    account. We are required by law to verify your identity once you enable the live
+    video broadcasting feature.and/or (ix) To collect feedback from you. Your feedback
+    is of great value in helping Meitu improve our Services. To keep track of your
+    feedback, Meitu may use the personal details provided by you to contact you and
+    retain the records. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 31
+  segment_text: '(x) Other purposes. We will store and maintain information about
+    you for the purpose of running our operations and satisfying our legal obligations. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 32
+  segment_text: 'Information Sharing and Disclosure We will not sell any personal
+    details to third parties. We have no right to share with or disclosure to third
+    parties your personal details in whole or in part except for the purposes of:
+    (i) protecting the security of others or their property; (ii) preventing or dealing
+    with Internet fraud; (iii) safeguarding the legitimate rights and interests of
+    Meitu; (iv) taking action in line with our purposes as described in the ''The
+    Information We Collect'' section, provided that recipient of any such disclosure
+    by us is also bound by this Policy and can provide adequate protection for your
+    information;  complying with laws and regulations or requests by government departments
+    or judicial authorities, which are typically designed to uphold Internet security
+    and the rights, property and safety of us, our users and third parties. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: 'Information Security We will take reasonable measures to prevent
+    the loss, improper use of, unauthorized access to or disclosure of information.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: 'For example, some of our Services will use encryption techniques
+    (such as SSL) to protect your personal details. However, you understand and accept
+    that (in the Internet industry) even though we will take all possible security
+    measures, we cannot always guarantee that your information is 100% secure. You
+    understand and accept that the system and communication network used by you to
+    access our Services may fail due to factors beyond our control. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: 'Information Access and Control We will take all reasonable and appropriate
+    technical measures to ensure that you can access, update and correct your personal
+    details or other personal details provided to us by you when using our Services.
+    Before you access, update, correct or remove such personal details, we may verify
+    your identity in order to protect the security of your account. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 36
+  segment_text: 'Data Retention and Deletion Subject to applicable laws and regulations,
+    we will retain your information (including your personal details) pursuant to
+    the ''How We Use Information'' section or for as long as needed to provide you
+    with our Services. If you wish to withdraw your consent to our collection, use
+    and disclosure of your personal details or wish us to delete your personal details,
+    you may send an email to support@meitu.com or legal@meitu.com or send a registered
+    email to Unit 8106B, 81/F, International Commerce Center, 1 Austin Road West,
+    Kowloon, Hong Kong (attention: Legal Department, Meitu). We will process your
+    request within a reasonable period of time after receiving your email or registered
+    mail, and will cease collecting, using and disclosing your personal details thereafter.
+    Please note that if you withdraw your consent or delete your personal details,
+    your use of some of our Services may be influenced. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 37
+  segment_text: 'Information about Children We will not knowingly collect or request
+    personal details from children under 13 (or any other age stipulated by law applicable
+    to your region). If you are under 13, please do not send your personal details
+    to us, including your name, address, phone number or email address. If you believe
+    we may have any information about children under 13, you may send an email to
+    support@meitu.com or legal@meitu.com or send a registered mail to Unit 8106B,
+    81/F, International Commerce Center, 1 Austin Road West, Kowloon, Hong Kong (attention:
+    Legal Department, Meitu). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 38
+  segment_text: 'Your Consent to Cross-border Data Transfers You understand and agree
+    that (i) we may store the information (including personal details) collected by
+    us under this Policy on a server in mainland China or other countries, which requires
+    the transfer of information across national borders, and (ii) we may transfer
+    the information collected by us to our affiliated or controlled companies or other
+    third parties. Please note that such countries or regions may not provide the
+    same level of data protection as provided in your country or region, and you agree
+    to our transfer of your information to mainland China and our use and disclosure
+    of your information (including personal details) under this Policy. If you do
+    not consent to this transfer, use and disclosure of information or you want to
+    know more, you may send an email to support@meitu.com or legal@meitu.com or send
+    a registered mail to Unit 8106B, 81/F, International Commerce Center, 1 Austin
+    Road West, Kowloon, Hong Kong (attention: Legal Department, Meitu). '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&China&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Your Consent to Cross-border Data Transfers  You understand and
+      agree that (i) we may store the information (including personal details) collected
+      by us under this Policy on a server in mainland China or other countries, which
+      requires the transfer of information across national borders, and (ii) we may
+      transfer the information collected by us to our affiliated or controlled companies
+      or other third parties. '
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+    - practice: TRANSFER&China&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: Please note that such countries or regions may not provide the
+      same level of data protection as provided in your country or region, and you
+      agree to our transfer of your information to mainland China and our use and
+      disclosure of your information (including personal details) under this Policy.
+    annotations:
+    - practice: TRANSFER&China&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 39
+  segment_text: 'Governing Law This Policy is established, comes into force, and shall
+    be enforced and interpreted under the law of the People''s Republic of China (excluding
+    the laws of the Hong Kong Special Administrative Region and the Macao Special
+    Administrative Region).  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 40
+  segment_text: 'Any disputes arising hereunder shall also be resolved in accordance
+    with the law of this jurisdiction. We do not represent or warrant that this Policy
+    complies with the privacy law of any jurisdiction. Therefore, you should not interpret
+    this Policy in accordance with such law. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 41
+  segment_text: "Amendments to this Policy You agree that we may update this Policy\
+    \ according to relevant laws and regulations or based on Meitu\u2019s business\
+    \ decisions, and you agree to be bound by any such revisions hereto. We will post\
+    \ any significant changes to this Policy on our Sites or notify you by other means\
+    \ accordingly. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 42
+  segment_text: 'If You Are a Resident of California If you are a resident of California,
+    every year we will provide you free of charge with an opportunity to obtain a
+    list of third parties to which we have disclosed or with whom we have shared your
+    personal details during the previous year. If you are a resident of California
+    and wish to obtain this list, you may send an email with the subject ''The right
+    to privacy of a California resident'' to support@meitu.com or legal@meitu.com
+    or send a registered mail to Unit 8106B, 81/F, International Commerce Center,
+    1 Austin Road West, Kowloon, Hong Kong (attention: Legal Department, Meitu). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

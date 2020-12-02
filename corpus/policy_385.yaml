@@ -1,0 +1,455 @@
+policy_id: '385'
+policy_name: interactive.story.games.high.school.drama.love.story
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "Interactive Story Games\u2019 Privacy Policy has been adopted to\
+    \ explain how we store and use the information collected about you online on our\
+    \ websites, during your use of our products (apps and games) and/or services and\
+    \ on mobile platforms. Interactive Story Games and its subsidiary companies respect\
+    \ the privacy rights of Users and recognize the importance of protecting the information\
+    \ collected. By accepting our Privacy Policy and Terms of Service, you consent\
+    \ to our collection, storage, use and disclosure of your personal information\
+    \ as described in this Privacy Policy. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: "If you have any questions or concerns, please contact our Support\
+    \ Team at interactive.story.games.mobile@gmail.com 1. Introduction Interactive\
+    \ Story Games and its owned or controlled subsidiaries and affiliates may be collectively\
+    \ referred to herein as \u201CInteractive Story Games\u201D, \u201Cwe\u201D, or\
+    \ \u201Cour\u201D, as the context requires. Interactive Story Games is a well\
+    \ known developer and publisher of social, casual and sport games for the web\
+    \ and mobile devices. By using or instaling Interactive Story Games' websites,\
+    \ Interactive Story Games\u2019 Applications, Interactive Story Games' Games or\
+    \ any of the related services, you signify your assent to Interactive Story Games\u2019\
+    \ Privacy Policy and understanding that Interactive Story Games may process your\
+    \ data in accordance with this Privacy Policy. IF YOU DO NOT AGREE TO THE FOREGOING,\
+    \ PLEASE DO NOT USE THE OUR SITES OR APPLICATIONS OR MOBILE GAMES. If you access\
+    \ our games from a third party Social Networking Site (\u201CSNS\u201D), or trough\
+    \ any other web or mobile source or app store, you may be required to also read\
+    \ and accept the their Terms of Service and Privacy Policy. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: '2. Information that we collect Interactive Story Games collects both
+    personal and non-personal User information. Personal information is information
+    that identifies you and that may be used to contact you on-line or off-line. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: '2.1. Interactive Story Games may collect personal information from
+    our online Users during: Information collected will vary depending upon the activity
+    or service and may include but not restricted to your name, email address, phone
+    number, home address, birth date, Facebook account, friends list, mobile phone
+    number and credit card information. You can choose not to provide (when such opportunity
+    is provided) certain information, but then you might not be able to take advantage
+    of many of our features. '
+  annotations:
+  - practice: Contact_Address_Book&1stParty
+    modality: PERFORMED
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: Contact_Phone_Number&1stParty
+    modality: PERFORMED
+  - practice: Contact_Postal_Address&1stParty
+    modality: PERFORMED
+  - practice: Demographic_Age&1stParty
+    modality: PERFORMED
+  - practice: Facebook_SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Information collected will vary depending upon the activity or
+      service and may include but not restricted to your name, email address, phone
+      number, home address, birth date, Facebook account, friends list, mobile phone
+      number and credit card information. '
+    annotations:
+    - practice: Contact_Address_Book&1stParty
+      modality: PERFORMED
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: Contact_Phone_Number&1stParty
+      modality: PERFORMED
+    - practice: Contact_Postal_Address&1stParty
+      modality: PERFORMED
+    - practice: Demographic_Age&1stParty
+      modality: PERFORMED
+    - practice: Facebook_SSO&1stParty
+      modality: PERFORMED
+- segment_id: 5
+  segment_text: "2.2. Non-personal information, alone, cannot be used to identify\
+    \ or contact you. Interactive Story Games collects non-personal information about\
+    \ your use of our online and mobile products and services both on our websites\
+    \ and in the course of game play and software usage.When you use Interactive Story\
+    \ Games online and mobile products and services, we may collect certain non-personal\
+    \ information including gender, zip code, information about your computer, hardware,\
+    \ software, platform, game system, media, mobile device, including device IDs,\
+    \ incident data, Internet Protocol (IP) address and other information.When you\
+    \ browse certain portions of the Service, we may automatically collect and record\
+    \ standard user information and clickstream data about your visit (through the\
+    \ use of cookies, analitycs SDKs and otherwise) as part of our analysis of the\
+    \ use of the Service. For example, when you visit or request a web page from our\
+    \ server, we may record the IP address of the user\u2019s machine, the time, date\
+    \ and URL of the request and information about the browser being used, and other\
+    \ information regarding the visit, such as the pages visited on the Service, the\
+    \ time spent on each page, any advertisements clicked and any search terms used\
+    \ (collectively \u201CLog Data\u201D). "
+  annotations:
+  - practice: Contact_ZIP&1stParty
+    modality: PERFORMED
+  - practice: Demographic_Gender&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Device_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: When you use Interactive Story Games online and mobile products
+      and services, we may collect certain non-personal information including gender,
+      zip code, information about your computer, hardware, software, platform, game
+      system, media, mobile device, including device IDs, incident data, Internet
+      Protocol (IP) address and other information.
+    annotations:
+    - practice: Contact_ZIP&1stParty
+      modality: PERFORMED
+    - practice: Demographic_Gender&1stParty
+      modality: PERFORMED
+    - practice: Identifier_Device_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+  - sentence_text: 'When you browse certain portions of the Service, we may automatically
+      collect and record standard user information and clickstream data about your
+      visit (through the use of cookies, analitycs SDKs and otherwise) as part of
+      our analysis of the use of the Service. '
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+- segment_id: 6
+  segment_text: "2.3. When you use any Interactive Story Games game at an SNS such\
+    \ as Facebook or Google +, you allow Interactive Story Games to access certain\
+    \ information from you profile for that site. The information you allow Interactive\
+    \ Story Games to access varies by game and SNS, and it is affected by the privacy\
+    \ settings you establish at the SNS. You can control and find our more about these\
+    \ settings at the SNS where you play our game. By playing a Interactive Story\
+    \ Games game through an SNS, you are authorizing Interactive Story Games to collect,\
+    \ store, and use in accordance with this Privacy Policy any and all information\
+    \ that you agreed the SNS could provide to Interactive Story Games through the\
+    \ SNS Application Programming Interface. Your agreement takes place when you \u201C\
+    accept\u201D or \u201Callow\u201D (or similar terms) one of our applications on\
+    \ an SNS. "
+  annotations:
+  - practice: Facebook_SSO&1stParty
+    modality: PERFORMED
+  - practice: Other&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: When you use any Interactive Story Games game at an SNS such as
+      Facebook or Google +, you allow Interactive Story Games to access certain information
+      from you profile for that site.
+    annotations:
+    - practice: Facebook_SSO&1stParty
+      modality: PERFORMED
+    - practice: Other&1stParty
+      modality: PERFORMED
+- segment_id: 7
+  segment_text: "2.4. When you use any Interactive Story Games game at mobile platforms\
+    \ such as iTunes Appstore, Google Play, Amazon App Store, Windows Phone or any\
+    \ other mobile platform or store where we publish games and apps you allow Interactive\
+    \ Story Games to access certain information from you profile for that site, store\
+    \ or service. The information you allow Interactive Story Games to access varies\
+    \ by game and mobile platform, and it is affected by the privacy settings you\
+    \ accepted at the mobile platform. You can control and find our more about these\
+    \ settings at the mobile platform where you download or play our game. By playing\
+    \ a Interactive Story Games game through a mobile platform, you are authorizing\
+    \ Interactive Story Games to collect, store, and use in accordance with this Privacy\
+    \ Policy any and all information that you agreed the mobile platform could provide\
+    \ to Interactive Story Games through the mobile platform Application Programming\
+    \ Interface. Your agreement takes place when you \u201Caccept\u201D or \u201C\
+    allow\u201D or 'install' or 'download' (or similar terms) one of our applications\
+    \ on an mobile platform. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: "\u2022Registration for sites, SNS, games, mobile games, mobile apps.\
+    \ \u2022Registration for Interactive Story Games and/or other service accounts;\
+    \ \u2022User support and/or technical service requests; \u2022Player match up\
+    \ and other head-to-head online competitionsand/or special game-specific events;\
+    \ \u2022Contest registration and prize acceptance; \u2022Creation of a personal\
+    \ profile; \u2022Access to our products and/or services on social networks or\
+    \ other third party services; and \u2022Otherwise through use of our software,\
+    \ mobile or online service where personal information is required for use and/or\
+    \ participation. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: '3. Where we store information about you Interactive Story Games stores
+    information about you on servers located in the United States, but reserves the
+    right to transfer information elsewhere at its sole discretion. Personal data
+    collected within the European Union may be transferred to, and stored at, a destination
+    outside the European Union. Data we collect may also be processed by staff operating
+    outside the US and the EU who works for us or for one of our suppliers. By submitting
+    your personal data, you agree to this transfer, storing or processing. We will
+    take all steps reasonably necessary to ensure that your data is treated securely
+    and in accordance with this privacy policy. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&USA&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Interactive Story Games stores information about you on servers
+      located in the United States, but reserves the right to transfer information
+      elsewhere at its sole discretion.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: Personal data collected within the European Union may be transferred
+      to, and stored at, a destination outside the European Union.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: 'Data we collect may also be processed by staff operating outside
+      the US and the EU who works for us or for one of our suppliers. '
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 10
+  segment_text: "4. How Interactive Story Games uses information collected Interactive\
+    \ Story Games uses your information only as follows: \u2022To provide our products\
+    \ and services to you and fulfill your specific requests; \u2022To send you messages\
+    \ about our products and services, new products, features, enhancements, special\
+    \ offers, upgrade opportunities, contests and events of interest; \u2022To enable\
+    \ user-to-user communications; \u2022To better understand the behavior and preferences\
+    \ of our Users, to troubleshoot technical problems, to deliver advertising, for\
+    \ the purposes of proper functioning of our products and services and improving\
+    \ them; to handle users accounts and all in-game payments. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: "\u2022To improve our software and services by providing experiences\
+    \ and recommendations, language and location customization, personalized help\
+    \ and instructions. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: "\u2022Interactive Story Games collects and uses Users personal information\
+    \ in association or trough different API or SDK of Social Network Sites, Mobile\
+    \ Platforms, Data Analysis Networks or Mobile Ad Networks. By instaling or using\
+    \ our services or games you (User) also agree on any such additional Privacy Policy\
+    \ provided by such Site, Platform or Network. Here are some of the such companies\
+    \ used on our Sites or in our Games or Apps so you can check or opt-out your data\
+    \ trought their Privacy Policy forms: iTunes, Google Play, FaceBook, AppAnnie,\
+    \ Admob, Google Analitycs, Unity Ads, Unity and many others. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: '5. How we disclose information collected We disclose your information
+    to third parties, that is parties other than Interactive Story Games, in the following
+    circumstances: 5.1 We may share your information with subsidiaries, partners and
+    affiliates that we work with, own or control, but only if those entities are either
+    subject to this Privacy Policy or follow practices at least as protective as those
+    described in this Privacy Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: '5.2 From time to time Interactive Story Games employs third party
+    contractors to collect personal information on our behalf to provide email delivery,
+    product, prize or promotional fulfillment, contest administration, credit card
+    processing, shipping or other services on our sites or in our mobile games and
+    apps. We ask some third party contractors, such as credit agencies, data analytics,
+    ad networks or market research firms, to supplement personal information that
+    you provide to us for our own studies or other uses. When our third party agents
+    or service providers collect and/or have access any information other than non-personal,
+    anonymous and/or aggregated data, Interactive Story Games requires that they use
+    data consistently with our stated privacy policies and protect the confidentiality
+    of personal information they collect or have access to in the course of their
+    engagement by Interactive Story Games. These third parties are prohibited from
+    using your personal information for any other purpose without your specific consent. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: "5.3 The Service supports and may encourage interaction among players.\
+    \ Your SNS friends may see your name, profile photo and descriptions of your game\
+    \ activity, your game profile. Other players may also be able to send you game\
+    \ requests or even friend requests through the related SNS\u2019 communication\
+    \ channels or trough API of mobile platform. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: '5.4 Interactive Story Games may share aggregated information (information
+    about you and other users collectively), anonymous information and certain technical
+    information (including IP Addresses, MAC Addresses for mobile devices and mobile
+    device IDs) to develop and deliver targeted advertising in the service and on
+    the websites of third parties. We may also allow advertisers to collect this information
+    within the Service and they may share it with Us. '
+  annotations:
+  - practice: Identifier_Device_ID&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  - practice: Identifier_MAC&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Interactive Story Games may share aggregated information (information
+      about you and other users collectively), anonymous information and certain technical
+      information (including IP Addresses, MAC Addresses for mobile devices and mobile
+      device IDs) to develop and deliver targeted advertising in the service and on
+      the websites of third parties. '
+    annotations:
+    - practice: Identifier_Device_ID&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+    - practice: Identifier_MAC&1stParty
+      modality: PERFORMED
+- segment_id: 17
+  segment_text: '5.5 We reserve the right to disclose your information when we believe
+    release is appropriate to comply with the law, judicial proceedings, court order
+    or other legal process; enforce or apply our Terms of Service and other agreements;
+    or protect the rights, property, or safety of Interactive Story Games, our employees,
+    our users, or others. This includes exchanging information with other companies
+    and organizations for fraud protection and credit risk reduction purposes. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: '5.6 In the event that Interactive Story Games undergoes a business
+    transition, such as a merger, acquisition by another company, or sale of all or
+    a portion of its assets, we may transfer all of your information, including personal
+    information, to the successor organization in such transition. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: "6. Information about Children Interactive Story Games does not sell\
+    \ products or in-apps for purchase by children and does not knowingly collect\
+    \ personal information from children. We sell children\u2019s products for purchase\
+    \ by adults. If you are under age of 13, you may use our Sites or Mobile Games\
+    \ and Apps only with the involvement of a parent or guardian. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: '7. How does Interactive Story Games protect your information? Interactive
+    Story Games understands the importance of keeping your information safe and secure.
+    Interactive Story Games will make commercially reasonable precautions to protect
+    your personal information and ensure the security of our systems. However, there
+    is no 100% secure method of transmission over the Internet or method of electronic
+    storage. We cannot assume responsibility or liability for unauthorized access
+    to our servers and systems. It is important for you to protect against unauthorized
+    access to your password and to your computer. Be sure to sign off when finished
+    using a shared computer or mobile device. We strongly recommend that you implement
+    measures to protect your computer or mobile device from unauthorized access such
+    as firewall protection and anti-virus software. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: "8. How you can access and update or delete your information 8.1 You\
+    \ can correct or update your account information at any time by logging on our\
+    \ sites or SNS and navigating to different account settings. Should you be unable\
+    \ to log in or wish to have your account(s) deactivated, you may send an e-mail\
+    \ to our Support Team interactive.story.games.mobile@gmail.com. You can put \u201C\
+    Delete my Account\u201D or \u201CUpdate my information\u201D in the subject line\
+    \ and include your first name, last name, e-mail address and user ID number (if\
+    \ applicable) in the body of the e-mail. We will be happy to review, update or\
+    \ remove information as appropriate. We may still retain your information in our\
+    \ files however, to resolve disputes, enforce our user agreement, and due to technical\
+    \ and legal requirements and constraints related to the security, integrity and\
+    \ operation of our websites, mobile games and apps. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: "8.2 If you have granted Interactive Story Games access to your SNS\
+    \ account information through a Interactive Story Games\u2019 application or mobile\
+    \ game, you may manage the information Interactive Story Games receives about\
+    \ you from an SNS. For this purpose you will need to follow the instructions at\
+    \ that site for updating your information and changing your privacy settings. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: '8.3 You also may have the right (subject to certain exceptions to
+    be given a copy of certain data that Interactive Story Games may hold about you
+    (and for which we may charge a small fee to process) and to have any inaccuracies
+    in the data that Interactive Story Games holds about you corrected and/or erased.
+    You may exercise any such rights by emailing our Support Team at interactive.story.games.mobile@gmail.com.
+    We will need sufficient information from you to establish you identity and to
+    verify your access request, and also to assist us in handling your request. Requests
+    will be processed as soon as possible and not later than 45 days. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: '9. Terms of service and notices If you choose to visit a Site, use
+    any of our Games or Apps, your visit and any dispute over privacy is subject to
+    this Policy and our Terms of Service. If you have any concerns about your privacy,
+    please contact us with a thorough description or your question or concern via
+    the postal addresses or email address in the div 11 of this Privacy Policy, and
+    we will try to resolve it. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: '10. Changes to our privacy policy If we decide to make material changes
+    to our Privacy Policy, we will notify you and other users by placing a notice
+    on Interactive Story Games.com or by sending you a notice to the e-mail address
+    we have on file for you. We may supplement this process by placing notices in
+    our games and on other Interactive Story Games websites. You should periodically
+    check this privacy policy page for updates. Any update to our Privacy Policy is
+    valid without your new acceptance. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: '11. Contact us If you have any questions about the privacy aspects
+    of our products or services, or would like to make a complaint having to do with
+    a privacy matter, please send a written request as follows: Interactive Story
+    Games. Attention: Data Privacy - Majora Tepica 10, 18000 Nis, Serbia Support Team:
+    interactive.story.games.mobile@gmail.com '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

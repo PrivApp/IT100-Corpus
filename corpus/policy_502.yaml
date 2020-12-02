@@ -1,0 +1,495 @@
+policy_id: '502'
+policy_name: Moodle
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "Privacy Notice Last updated 5 May 2020 This Privacy Notice tells\
+    \ you how we, Moodle Pty Ltd, will collect and use your personal data to provide\
+    \ our service which allows educators, of any kind, to create a private space online,\
+    \ filled with tools that easily create courses and activities, all optimized for\
+    \ collaborative learning. The Moodle software is free and open source, and may\
+    \ be hosted by Moodle Pty Ltd, but also by anyone who wishes to manage an installation.\
+    \ This notice will tell you how Moodle Pty Ltd uses your data, but if the site\
+    \ you are using isn\u2019t hosted by Moodle Pty Ltd, then your data controller\
+    \ will have added their own specific information to it as well, on how your data\
+    \ is used by them. "
+  annotations: 
+  - practice: 'Data_Controller'
+  sentences:
+  - sentence_text: "This notice will tell you how Moodle Pty Ltd uses your data, but if the site\
+    \ you are using isn\u2019t hosted by Moodle Pty Ltd, then your data controller\
+    \ will have added their own specific information to it as well, on how your data\
+    \ is used by them."
+    annotations: 
+    - practice: 'Data_Controller'
+- segment_id: 2
+  segment_text: 'Who are we? Moodle Pty Ltd is a software company which allows educators,
+    of any kind, to create a private space online, filled with tools that easily create
+    courses and activities, all optimized for collaborative learning. The Moodle software
+    is open source, and may be hosted by Moodle Pty Ltd, but also by anyone who wishes
+    to manage an installation. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: "What\u2019s covered by this Privacy Notice? Under the EU\u2019s General\
+    \ Data Protection Regulation (GDPR) personal data is defined as: \u201Cany information\
+    \ relating to an identified or identifiable natural person (\u2018data subject\u2019\
+    ); an identifiable natural person is one who can be identified, directly or indirectly,\
+    \ in particular by reference to an identifier such as a name, an identification\
+    \ number, location data, an online identifier or to one or more factors specific\
+    \ to the physical, physiological, genetic, mental, economic, cultural or social\
+    \ identity of that natural person\u201D. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'All data subjects whose personal data is collected, in line with
+    the requirements of the GDPR. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: "where Moodle Pty Ltd is hosting a website on its own behalf, it is\
+    \ the Data Controller for all the data collected. Where Moodle Pty Ltd is hosting\
+    \ someone else\u2019s installation of the Moodle Platform (as with MoodleCloud)\
+    \ it is the Data Processor for the site admin for that installation. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'when Moodle Pty Ltd is not hosting an installation of the software
+    platform, it is neither the Data Controller nor the Data Processor and those duties
+    fall on the people or organizations who have installed and are hosting those installations. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: "Why does Moodle Pty Ltd need to collect and store personal data?\
+    \ In order for Moodle Pty Ltd to provide you with MoodleCloud and other Moodle\
+    \ hosted websites we need to collect personal data for correspondence purposes\
+    \ and/or to allow us to provide you our service(s). We are committed to ensuring\
+    \ that the information we collect and use is appropriate for this purpose. Moodle\
+    \ Pty Ltd is a company which values its users\u2019 data protection and privacy\
+    \ rights and we have no interest in collecting data beyond what we need to make\
+    \ our service(s) work for you. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: "If you are going to be contacted by us for marketing purposes, we\
+    \ will not rely solely on this notice, but will always seek an additional confirmation\
+    \ from you that it\u2019s ok to do that. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'In general we collect personal data relating to you for specific
+    purposes, with the nature of the data collected depending on your interaction
+    with Moodle Pty Ltd. We are committed to transparency in this and have provided
+    a very detailed breakdown of these processes in Annex 1 of this Privacy Notice. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: 'Our legal basis for the processing of personal data are: Article
+    6.1(a), GDPR, Consent Article 6.1(b), GDPR, Contract Article 6.1(f), GDPR, Legitimate
+    Interest Any legitimate interests pursued by us, or third parties we use, are
+    as follows: recruitment and Induction of new Candidates emergency Contacts for
+    people who work with us, such as employees and contractors for health and safety
+    purposes. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: "business Development providing login systems to users via their existing\
+    \ social media accounts The special categories of personal data concerned are:\
+    \ biometric Data in the form of facial images health Data in respect of employees,\
+    \ contractors and other people who work with us any special categories of special\
+    \ personal data which any user volunteers while using the Moodle systems (for\
+    \ example in a forum or submission) Will Moodle Pty Ltd share my personal data\
+    \ with anyone else? We may pass your personal data on to third-party service providers\
+    \ contracted to Moodle Pty Ltd in the course of dealing with you. We do this because\
+    \ there are some services, such as our video conferencing facility, which will\
+    \ not work unless we are able to make these transfers. Any third parties that\
+    \ we may share your data with are obliged to keep your details securely, and to\
+    \ use them only to deliver the service they provide on our- and of course, your-behalf.\
+    \ When they no longer need your data to fulfil this service, they will dispose\
+    \ of the details in line with Moodle Pty Ltd\u2019s procedures. If we wish to\
+    \ pass your sensitive personal data onto a third party we will only do so once\
+    \ we have obtained your consent, or if it is necessary to comply with an employment\
+    \ contract, unless we are legally required to do otherwise. If you would like\
+    \ an up-to-date register of all our third-party service providers, please contact\
+    \ privacy@moodle.com and we will be happy to provide it. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: "How will Moodle Pty Ltd use the personal data it collects about me?\
+    \ Moodle Pty Ltd will process (collect, store and use) the information you provide\
+    \ in a manner compatible with the EU\u2019s General Data Protection Regulation\
+    \ (GDPR). We will endeavour to keep your information accurate and up to date,\
+    \ and not keep it for longer than is necessary. Moodle Pty Ltd maintains a register\
+    \ of its data processes which includes a record of the data retention policy for\
+    \ each type of data collected and is committed to only ever trying to process\
+    \ the minimum amount of data needed. Moodle Pty Ltd is required to retain certain\
+    \ information in accordance with the Law, such as information needed for income\
+    \ tax and audit purposes. How long certain kinds of personal data should be kept\
+    \ may also be governed by specific business-sector requirements and agreed practices.\
+    \ Personal data may be held in addition to these periods depending on individual\
+    \ business needs. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'For avoidance of doubt, Moodle Workplace websites include a tracking
+    pixel for statistical purposes only and no personal data are collected or processed. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: 'Can I find out the personal data that the organisation holds about
+    me? Moodle Pty Ltd at your request, can confirm what information we hold about
+    you and how it is processed. If Moodle Pty Ltd does hold personal data about you,
+    you can request the following information: Identity and the contact details of
+    the person or organisation that has determined how and why to process your data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'Contact details of our data protection officer in the EU, where applicable. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'The purpose of the processing as well as the legal basis for processing. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: 'If the processing is based on the legitimate interests of Moodle
+    Pty Ltd or a third party, information about those interests. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'The categories of personal data collected, stored and processed. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'Recipient(s) or categories of recipients that the data is/will be
+    disclosed to. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'If we intend to transfer the personal data to a third country or
+    international organisation, information about how we ensure this is done securely.
+    The EU has approved sending personal data to some countries because they meet
+    a minimum standard of data protection. In other cases, we will ensure there are
+    specific measures in place to secure your information. These will rely on measures
+    approved by the EU Commission. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&Unspecified_Country&Adequacy_Decision
+    modality: PERFORMED
+  sentences:
+  - sentence_text: If we intend to transfer the personal data to a third country or
+      international organisation, information about how we ensure this is done securely
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: The EU has approved sending personal data to some countries because
+      they meet a minimum standard of data protection.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Adequacy_Decision
+      modality: PERFORMED
+- segment_id: 21
+  segment_text: 'How long the data will be stored. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: 'Details of your rights to correct, erase, restrict or object to such
+    processing. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: 'Information about your right to withdraw consent at any time. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: 'How to lodge a complaint with the supervisory authority. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: 'Whether the provision of personal data is a statutory or contractual
+    requirement, or a requirement necessary to enter into a contract, as well as whether
+    you are obliged to provide the personal data and the possible consequences of
+    failing to provide such data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: "The source of personal data if it wasn\u2019t collected directly\
+    \ from you. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: 'Any details and information of automated decision making, such as
+    profiling, and any meaningful information about the logic involved, as well as
+    the significance and expected consequences of such processing. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: 'What forms of ID will I need to provide in order to access this?
+    Moodle Pty Ltd accepts a request made through a Moodle account while the person
+    making the request is logged in. In certain circumstances Moodle Pty Ltd could
+    ask for additional information and the following forms of ID when information
+    on your personal data is requested: A colour copy of a Passport, driving licence
+    or National ID Card Agreeing to these terms is your Consent By consenting to this
+    privacy notice you are giving us permission to process your personal data specifically
+    for the purposes identified. Where consent is required for Moodle Pty Ltd to process
+    both standard and sensitive types of personal data, it must be explicitly given.
+    Where we are asking you for sensitive personal data we will always tell you why
+    and how the information will be used. Agreement with this Privacy Notice and its
+    accompanying terms and conditions (as applicable) (and any Data Processing Agreements,
+    if they apply to you) will be considered to be explicit consent and we will keep
+    a copy of the records of that consent for audit purposes. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: "You may withdraw consent at any time by: MoodleCloud, \u201CMoodle\
+    \ Apps Plans portal\u201D and other Moodle hosted websites: contacting privacy@moodle.com\
+    \ self \u2013 hosted Moodle installations\u2019: contacting the Data Protection\
+    \ Officer for your Data Controller Please identify your role in relation to Moodle\
+    \ (if you are a contractor, employee, Moodle partner, end-user, site admin etc.),\
+    \ and the data you wish to withdraw consent to be processed. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 30
+  segment_text: 'Disclosure Moodle Pty Ltd will pass on your personal data to certain
+    third parties. Moodle is a distributed, global company and it uses cloud services
+    which may be accessed by Moodle employees in any part of the world, including
+    our Head Office in Australia. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&Australia&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Disclosure  Moodle Pty Ltd will pass on your personal data to certain
+      third parties. Moodle is a distributed, global company and it uses cloud services
+      which may be accessed by Moodle employees in any part of the world, including
+      our Head Office in Australia
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+    - practice: TRANSFER&Australia&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 31
+  segment_text: 'The Moodle Software platform is open source, so that anyone can install
+    and host a copy of the software, as the data controller. In those circumstances,
+    it will be a matter for the Data Controller to ensure they have also put the necessary
+    safeguards in place for any international transfers outside the EU. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: In those circumstances, it will be a matter for the Data Controller
+      to ensure they have also put the necessary safeguards in place for any international
+      transfers outside the EU.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 32
+  segment_text: "Third country (non-EU)/international organisation Safeguards in place\
+    \ to protect your personal data MoodleCloud: Australia, Global Use of the EU\u2019\
+    s Standard Contract Clauses, Privacy Shield, and binding corporate rules Other\
+    \ Moodle Sites and services Use of the EU\u2019s Standard Contract Clauses, Privacy\
+    \ Shield, and binding corporate rules Other Moodle installations, not hosted by\
+    \ Moodle Pty Ltd or additional processing of data from MoodleCloud by the Data\
+    \ Controller To be provided directly to you by the Data Controller for that installation. "
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Binding_Corporate_Rules&Without_Copy
+    modality: PERFORMED
+  - practice: TRANSFER&Unspecified_Country&Standard_Data_Protection_Clauses&Without_Copy
+    modality: PERFORMED
+  - practice: TRANSFER&Australia&Binding_Corporate_Rules&Without_Copy
+    modality: PERFORMED
+  - practice: TRANSFER&Australia&Standard_Data_Protection_Clauses&Without_Copy
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "Third country (non-EU)/international organisation  Safeguards\
+      \ in place to protect your personal data  MoodleCloud: Australia, Global  Use\
+      \ of the EU\u2019s Standard Contract Clauses, Privacy Shield, and binding corporate\
+      \ rules  Other Moodle Sites and services  Use of the EU\u2019s Standard Contract\
+      \ Clauses, Privacy Shield, and binding corporate rules  Other Moodle installations,\
+      \ not hosted by Moodle Pty Ltd or additional processing of data from MoodleCloud\
+      \ by the Data Controller  To be provided directly to you by the Data Controller\
+      \ for that installation."
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Binding_Corporate_Rules&Without_Copy
+      modality: PERFORMED
+    - practice: TRANSFER&Unspecified_Country&Standard_Data_Protection_Clauses&Without_Copy
+      modality: PERFORMED
+    - practice: TRANSFER&Australia&Binding_Corporate_Rules&Without_Copy
+      modality: PERFORMED
+    - practice: TRANSFER&Australia&Standard_Data_Protection_Clauses&Without_Copy
+      modality: PERFORMED
+- segment_id: 33
+  segment_text: "Retention period Moodle Pty Ltd will processes different forms of\
+    \ personal data for as long as is necessary and proportionate for the purpose\
+    \ for which it has been supplied and will store the personal data for the shortest\
+    \ amount of time possible, taking into account legal and service requirements.\
+    \ For further details on the retention period for any particular type of data,\
+    \ please contact privacy@moodle.com Your rights as a data subject At any point\
+    \ while we are in possession of or processing your personal data, you, the data\
+    \ subject, have the following rights: right of access \u2013 you have the right\
+    \ to request a copy of the information that we hold about you. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: "right of rectification \u2013 you have a right to correct data that\
+    \ we hold about you that is inaccurate or incomplete. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: "right to be forgotten \u2013 in certain circumstances you can ask\
+    \ for the data we hold about you to be erased from our records. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 36
+  segment_text: "right to restriction of processing \u2013 where certain conditions\
+    \ apply to have a right to restrict the processing. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 37
+  segment_text: "right of portability \u2013 you have the right to have the data we\
+    \ hold about you transferred to another organisation. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 38
+  segment_text: "right to object \u2013 you have the right to object to certain types\
+    \ of processing such as direct marketing. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 39
+  segment_text: "right to object to automated processing, including profiling \u2013\
+    \ you also have the right to be subject to the legal effects of automated processing\
+    \ or profiling. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 40
+  segment_text: "right to judicial review: in the event that Moodle Pty Ltd refuses\
+    \ your request under rights of access, we will provide you with a reason as to\
+    \ why. You have the right to complain as outlined in the section named \u201C\
+    Complaints\u201D below. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 41
+  segment_text: 'Where Moodle Pty Ltd are your Data Controller, you may make a request
+    directly to the Data Protection Officer using the email address dpo@moodle.com
+    Where Moodle Pty Ltd are a Data Processor, and act on behalf of a data controller
+    (such as MoodleCloud) any requests received by Moodle Pty Ltd will be passed on
+    to the Data Controller. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 42
+  segment_text: 'Where Moodle Pty Ltd are not involved with your data, such as where
+    the Moodle platform has been self-hosted, you should address your requests to
+    the data controllers of those sites. Moodle Pty Ltd will have no access to your
+    data. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 43
+  segment_text: "Complaints In the event that you wish to make a complaint about how\
+    \ your personal data is being processed by Moodle Pty Ltd (or third parties as\
+    \ described above), or how your complaint has been handled, you have the right\
+    \ to lodge a complaint directly with the supervisory authority and Moodle Pty\
+    \ Ltd\u2019s data protection Officer, Data Compliance Europe Ltd. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 44
+  segment_text: 'If you wish to make a complaint about how your personal data has
+    been processed in MoodleCloud, or by a Self-Hosted installation of the Moodle
+    Software you should contact your Moodle Site Admin or the Data Controller for
+    your Moodle installation. (For example, if your university or school hosts their
+    own Moodle site, they will be the Data Controller). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 45
+  segment_text: "The details of Contacts for where Moodle Pty Ltd\u2019s are the Data\
+    \ Controller:   Supervisory authority contact details Data Protection Officer\
+    \ (DPO) / GDPR Owner contact details Contact Name: Data Protection Commissioner\
+    \ Data Compliance Europe, Address line 1: Canal House Lower Bridge Street Address\
+    \ line 2: Portarlington Dublin 8 Address line 3: Co Laois Address line 4: R32\
+    \ AP23 Email: info@dataprotection.ie dpo@moodle.com Telephone: +353 57 8684800\
+    \ +353 1 6351580 The details of Contacts for where Moodle Pty Ltd is not the Data\
+    \ Controller, in your installation of Moodle, are available directly from your\
+    \ Data Controller. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

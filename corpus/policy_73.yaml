@@ -1,0 +1,512 @@
+policy_id: '73'
+policy_name: com.prettysimple.mysteriesofthepastandroid
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "Privacy Policy Updated on: May 5th, 2018 Welcome to Pretty Simple\
+    \ Privacy policy! Your privacy is important to us. Therefore we have developed\
+    \ a Privacy Policy (this \u201CPolicy\u201D) that describes the ways Pretty Simple\
+    \ S.A. (\u201CPretty Simple\u201D, \u201Cus\u201D, \u201Cour\u201D or \u201Cwe\u201D\
+    ) collect, store, use, and manage the information, including personal information,\
+    \ and data that you (hereinafter referred as \u201Cyou\u201D or \u201Cuser(s)\u201D\
+    ) provide or we collect in connection with our website (the \u201CSite\u201D)\
+    \ or any Pretty Simple game provided on a mobile platform (for example, iOS and\
+    \ Android) or on Facebook (collectively, the \u201CService(s)\u201D). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'Please note that the scope of this Policy is limited to information
+    and data collected or received by Pretty Simple through your use of the Service.
+    Pretty Simple is not responsible for the actions of third party people or companies,
+    the content of their sites, the use of information or data you provide to them,
+    or any products or services they may offer. Any link to those sites does not constitute
+    our sponsorship of, or affiliation with, those people or companies. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'By using the Service, you are expressing your agreement to this Policy
+    and the processing of your information and data, including your personal information,
+    in the manner provided in this Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'IF YOU DO NOT AGREE TO THESE TERMS, PLEASE DO NOT USE THE SERVICE. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'If you have any questions or concerns, please contact us with the
+    information provided in the Contact Information of Data Controller section of
+    this Policy. '
+  annotations: 
+  - practice: 'Data_Controller'
+  sentences:
+  - sentence_text: 'If you have any questions or concerns, please contact us with the
+    information provided in the Contact Information of Data Controller section of
+    this Policy. '
+    annotations: 
+    - practice: 'Data_Controller'
+- segment_id: 6
+  segment_text: "INFORMATION AND DATA WE COLLECT Here are some example of information\
+    \ and data we may collect from you: Data that are collected automatically  (such\
+    \ as IP Address, your device\u2019s operating system, browser type and language);\
+    \ Identifiers that are used to identify your mobile device such as your unique\
+    \ device ID (persistent/non-persistent), hardware type, medial access control\
+    \ (\u201CMAC\u201D) address; Profile information that you volunteer (such as name,\
+    \ email address, profile photo, gender, age or birthday, links to profiles on\
+    \ other social networking websites); Employment information (such as name, email\
+    \ address, phone number, resume). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: "TRACKING TECHNOLOGIES We and our marketing and outsourcing partners,\
+    \ affiliates, or analytics service providers use technologies such as cookies,\
+    \ beacons, scripts, and tags to identify a user\u2019s computer/device and to\
+    \ store information about your visit. Information contained in a cookie may be\
+    \ linked to your personal information, such as your user ID, for purposes such\
+    \ as improving the quality of our Service, tailoring recommendations to your interests,\
+    \ and making the Service easier to use. You can disable cookies at any time, although\
+    \ you may not be able to access or use features of the Service. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'OTHER COLLECTION PRACTICES The Service include Social Media features,
+    such as the Facebook Like button and Widgets, such as the Share this button.  These
+    Features may collect your IP address, and may set a cookie to enable the Feature
+    to function properly. Social Media Features and Widgets are hosted by a third
+    party. Your interactions with these Features are governed by the privacy policy
+    of the company providing it. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'Pretty Simple may offer you the opportunity to invite your contacts
+    from a Social Network Service (such as your Facebook friends) so that those contacts
+    can be located in Pretty Simple games and/or you can invite them to join you in
+    Pretty Simple games. Such contact information will be used only for the purpose
+    of sending communications to the addressee. You or the third party may contact
+    us to request the removal of this information from our database to the extent
+    Pretty Simple stores any of this information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: "HOW WE USE THE DATA WE COLLECT Pretty Simple\u2019s first goals in\
+    \ using information are to provide the Service to you, improve our Service, contact\
+    \ you, conduct marketing and research and create reports for internal use. We\
+    \ store information on servers located in the United States via third parties\
+    \ (such as Packet Host, Inc. or Amazon Web Services), and may store information\
+    \ on servers and equipment in other countries. "
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&USA&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: ' We store information on servers located in the United States
+      via third parties (such as Packet Host, Inc. or Amazon Web Services), and may
+      store information on servers and equipment in other countries.'
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 11
+  segment_text: 'We use information collected through our Service for purposes described
+    in this Policy or disclosed to you in connection with our Service. For example,
+    we may use your information to: Allow you to play our games; Identify and suggest
+    connections with other Pretty Simple users; Operate and improve our Service; Understand
+    you and your preferences to enhance your experience and enjoyment using our Service;
+    Respond to your comments and questions and provide customer service; Provide and
+    deliver products and services you request; Deliver advertising and marketing and
+    promotional information to you; Link or combine it with other information we get
+    from third parties, to help understand your preferences and provide you with better
+    services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: "WEBSITE SERVICES While you are browsing our website, your computer\u2019\
+    s operating system, Internet Protocol (IP) address, access times, browser type\
+    \ and language and referring Web site addresses may be logged automatically. We\
+    \ may use this information to monitor, develop and analyze your use of the Service. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'THIRD PARTY SERVICES Our Service may contain third party tracking
+    and data collection and analytics tools from our service providers, examples of
+    which include Google Analytics, or Facebook Analytics. Such third parties may
+    use cookies, APIs, and SDKs in our Services to enable them to collect and analyze
+    user and device related data and information on our behalf. The third parties
+    may have access to and collect data and information about you, such as your device
+    identifier, MAC address, IMEI, locale (specific location where a given language
+    is spoken), IP address, application usage, access and session times, applications
+    present on the device or in use at a particular time on the device, and your viewing
+    of and interactions with advertising, for the purpose of providing their services,
+    including, for example, enabling, providing and delivering advertising as described
+    in further detail below. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: 'The privacy policies of our service providers may include additional
+    terms and disclosures regarding their data collection and use practices and tracking
+    technologies, and we encourage you to check those privacy policies to learn more
+    about their data collection and use practices, use of cookies and other similar
+    tracking technologies. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: "We may provide links to third party applications, services or websites\
+    \ from our Services (including advertising that may link to a third party). You\
+    \ understand that when you click on these links any data which you provide afterwards\
+    \ is subject to that third party\u2019s privacy policy and not to ours. We can\
+    \ take no responsibility for the content, safety, privacy or security of any third\
+    \ party application, service or website. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'APPLICATION FOR EMPLOYMENT If you wish to submit a resume, we provide
+    you the option to upload it to the Site and we collect your name, email address
+    and mobile telephone number. We use this information to contact you regarding
+    setting up an interview or to determine if you are qualified for the position
+    in which you applied. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: "GAMES When you use any of the Pretty Simple games or applications\
+    \ on a mobile platform or on Facebook, we may record certain information and data,\
+    \ such as: your application usage, access, session times and in-app purchases;\
+    \ your unique device ID (persistent / non-persistent); hardware type; media access\
+    \ control (\u201CMAC\u201D) address; the version of your operating system (\u201C\
+    OS\u201D); your email address (if you have connected to Facebook); and your location\
+    \ (based on your Internet Protocol (\u201CIP\u201D) address). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'This information is useful to us for troubleshooting and helps us
+    understand usage trends and improve and optimize the Services and your user experience,
+    and may also be utilized for other purposes, such as interest based advertising
+    as described elsewhere in this Policy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'In addition, we create a unique user ID to track your use of our
+    Service. This unique user ID is stored in connection with your profile information
+    to track the Pretty Simple games you are playing. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'We may occasionally send you push notifications through our mobile
+    applications to send you game updates or other service related notifications that
+    may be of importance to you. You may at any time opt-out from receiving these
+    types of communications by turning them off at the device level through your settings. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'ADVERTISING We may feature advertisements in our games and elsewhere,
+    both ourselves and with the help of our partners, and collect and use data and
+    information about you and your device (including the presence of applications
+    on the device or in use at a particular time on the device) in connection with
+    such advertising, including your viewing of and interaction with any such advertising,
+    in order to deliver, enable, target and optimize advertising and promotional information
+    that is more relevant to you and is based on your game and device usage, online
+    behavior and interests (this is commonly referred to as online behavioral or interest
+    based advertising). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: 'We and our partners may also use cookies or similar tracking technologies
+    to track the content you access or your device location for purposes of interest
+    based advertising. The privacy policies of our partners may include additional
+    terms and disclosures regarding their data collection and use practices and tracking
+    technologies, and we encourage you to check those privacy policies to learn more
+    about their data collection and use practices, use of cookies and other similar
+    tracking technologies. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: "Advertisers on mobile devices and our third party advertising and\
+    \ analytics partners sometimes collect and use Advertising IDs to enable and optimize\
+    \ advertising. Advertising IDs are non-permanent device identifiers such as the\
+    \ Android advertising ID and/or Apple\u2019s ID for advertising. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 24
+  segment_text: 'These advertisers and third party advertising and analytics partners
+    may collect and use data and information about you, such as your Service session
+    activity, viewing of and interaction with an advertisement, device identifier,
+    MAC address, IMEI, geo-location information and IP address for the purposes of
+    analyzing, tracking and measuring advertisement performance and to provide interest
+    based advertising. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: 'In addition, you may see our games advertised in other services.
+    After clicking on one of these advertisements and installing our game, you will
+    become a user of our Service. In order to verify the installs, a device identifier
+    may be shared with the advertiser or third party advertiser or analytics partner. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: 'CHOICES REGARDING AD TARGETING AND DATA USE You may click on the
+    following link: partner-opt-out for information on how to opt-out of the delivery
+    of interest based advertising as well as certain uses of precise location. Please
+    note, you will still receive generic ads. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: "You can exercise an opt-out for interest based advertising services\
+    \ on mobile applications by checking the privacy settings of your Android or iOS\
+    \ device and selecting \u201Climit ad tracking\u201D (Apple iOS) or \u201Copt-out\
+    \ of interest based ads\u201D (Android).  "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: 'If you would like to adjust your choices regarding the use of precise
+    location data, you may also do so via your mobile device settings. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: "Many of our partner\u2019s that enable online behavioral or interest\
+    \ based advertising are members of one or more digital advertising industry self-regulatory\
+    \ programs. You may click below for the Network Advertising Initiative (\u201C\
+    NAI\u201D) and Digital Advertising Alliance (\u201CDAA\u201D) to learn more about\
+    \ targeted or interest based advertising and to opt out of certain targeting programs. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 30
+  segment_text: 'http://www.networkadvertising.org/choices http://www.aboutads.info/choices/
+    HOW WE MAY DISCLOSE THE DATA WE COLLECT TO THIRD PARTIES Pretty Simple does not
+    share your personal information except as approved by you or as described below:
+    Pretty Simple may engage other companies and individuals to perform services on
+    our behalf. Example of these services include analyzing data and providing customer
+    support. These agents and service providers may have access to your personal information
+    in connection with the performance of services for Pretty Simple. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 31
+  segment_text: 'We may release your information as permitted by law, such as to comply
+    with a subpoena, or when we believe that release is appropriate to comply with
+    the law; investigate fraud, respond to a government request, enforce or apply
+    our rights; or protect the rights, property, or safety of us or our users, or
+    others. This includes exchanging information with other companies and organizations
+    for fraud protection. In certain situations, Pretty Simple may be required to
+    disclose personal information in response to lawful requests by public authorities
+    or for local law enforcement requirements. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 32
+  segment_text: 'Pretty Simple may share your information in connection with any merger,
+    sale of our assets, or a financing or acquisition of all or a portion of our business
+    to another company. You will be notified via email and/or notice on our Site of
+    any change in ownership or users of your personal information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: 'We may share aggregate or anonymous information about you with advertisers,
+    publishers, business partners, sponsors, and other third parties. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: 'ACCESSING, CORRECTING AND DELETING DATA WE COLLECT FROM YOU Right
+    of access You have a right to know what information we hold about you and in some
+    cases to have the information communicated to you.  If you wish to exercise this
+    right please contact us letting us know that you wish to exercise your right of
+    access and what information in particular you would like to receive. We reserve
+    the right to ask for reasonable evidence to verify your identity before we provide
+    you with any information, and the law permits us to charge a fee for exercising
+    this right of access. Where we are not able to provide you with information that
+    you have asked for, we will endeavour to tell you why. We will try to respond
+    to any request within a reasonable timeframe Right to correct personal information
+    We try to keep the information that we hold about you accurate and up to date.
+    Should you realize that any of the information that we hold about you is incorrect,
+    please contact us using the information below and we will correct it as soon as
+    we can. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: 'Data deletion In some circumstances you have a right to have some
+    of the personal information that we hold about you deleted. Should you wish to
+    have any information about you deleted, please contact us using the information
+    below. Please note that to ensure that we do not collect any further information
+    you should also delete our games from your mobile devices and clear our cookies
+    from any device where you have played our games in a web browser. Where we delete
+    personal information about you, we may still retain some or all of that information
+    for other purposes such as maintaining financial records, protecting or enforcing
+    legal rights, maintaining marketing suppression lists or for technical reasons
+    such as maintaining technical security or our database integrity. We may also
+    retain your information in an anonymized form. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 36
+  segment_text: 'OPTING OUT OF MARKETING You may opt-out of receiving promotional
+    emails from us by following the instructions in those emails. If you opt-out,
+    we may still send you non-promotional emails, such as emails about our ongoing
+    business relations. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 37
+  segment_text: 'SECURITY SAFEGUARDS Pretty Simple takes reasonable measures to protect
+    your information from unauthorized access or against loss, misuse or alteration
+    by third parties. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 38
+  segment_text: 'Although we make good faith efforts to store the information collected
+    on the Service in a secure operating environment that is not available to the
+    public, we cannot guarantee the absolute security of that information during its
+    transmission or its storage on our systems. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 39
+  segment_text: 'Further, while we attempt to ensure the integrity and security of
+    our network and systems, we cannot guarantee that our security measures will prevent
+    third-party hackers from illegally obtaining access to this information. We do
+    not warrant or represent that your information will be protected against, loss,
+    misuse, or alteration by third parties. However, no method of transmission over
+    the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot
+    guarantee its absolute security. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 40
+  segment_text: 'DATA RETENTION We retain your information for as long  as needed
+    to provide you the Service. We will also retain and use your information as necessary
+    to comply with our legal obligations, resolve disputes, and enforce our agreements. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 41
+  segment_text: 'OUR POLICY REGARDING CHILDREN We do not knowingly collect or solicit
+    personal information from or direct or target interest based advertising to anyone
+    under the age of 13 or knowingly allow such persons to use our Service. If you
+    are under 13, please do not send any information about yourself to us, including
+    your name, address, telephone number, or email address. No one under the age of
+    13 may provide any personal information. In the event that we learn that we have
+    collected personal information from a child under age 13, we will delete that
+    information as quickly as possible. If you believe that we might have any information
+    from or about a child under the age of 13, please contact us. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 42
+  segment_text: 'INTERNATIONAL TRANSFER We may transfer information that we collect
+    about you to other third parties across borders and from your country or jurisdiction
+    to other countries or jurisdictions around the world. Please note that these countries
+    and jurisdictions may not have the same data protection laws as your own jurisdiction,
+    and we take steps to ensure adequate safeguards are in place to enable transfer
+    of information to the U.S. and the use and disclosure of information about you,
+    including personal information, as described in this Policy. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  - practice: TRANSFER&USA&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'INTERNATIONAL TRANSFER  We may transfer information that we collect
+      about you to other third parties across borders and from your country or jurisdiction
+      to other countries or jurisdictions around the world. '
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: Please note that these countries and jurisdictions may not have
+      the same data protection laws as your own jurisdiction, and we take steps to
+      ensure adequate safeguards are in place to enable transfer of information to
+      the U.S. and the use and disclosure of information about you, including personal
+      information, as described in this Policy
+    annotations:
+    - practice: TRANSFER&USA&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 43
+  segment_text: 'CHANGES TO THIS POLICY We may update this Policy to reflect changes
+    to our data and information privacy practices. If we make any material changes
+    we will notify you by means of a notice on this Site prior to the change becoming
+    effective. We encourage you to periodically review this page for the latest information
+    on our privacy practices. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 44
+  segment_text: "CONTACT INFORMATION OF DATA CONTROLLER Pretty Simple S.A. (RCS Paris\
+    \ 519 554 299) 6 rue de Hanovre 75002 Paris France If you have any questions or\
+    \ concerns about our data privacy practices, or if you have any requests for resolving\
+    \ issues with your personal information, please contact us at: legal@prettysimplegames.com.\
+    \   We're Hiring   Apply now See all open positions        \xA9 2013 Pretty Simple\
+    \ SA | Terms of Service | Privacy Policy "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

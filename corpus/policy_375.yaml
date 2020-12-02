@@ -1,0 +1,224 @@
+policy_id: '375'
+policy_name: com.Neighbor.AlphaGuide
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'This page is used to inform our users regarding our policies with
+    the collection, use, and disclosure of Personal Information if anyone decided
+    to use our Mobile Apps or its Services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: "What information do we collect? Personal Information: We do not collect\
+    \ Personal Information. \u201CPersonal Information\u201D is information that identifies\
+    \ you or another person, which may be transmitted or received when you use an\
+    \ Application, the Services and/or the Site. Personal Information includes your\
+    \ geographic location information, names, physical addresses, email addresses,\
+    \ telephone, fax, SSN, information stored within your devices and other information\
+    \ you transmit or receive using an Application, the Service and/ or the Site which\
+    \ identifies you or another person. "
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: NOT_PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: NOT_PERFORMED
+  - practice: Contact_Phone_Number&1stParty
+    modality: NOT_PERFORMED
+  - practice: Contact_Postal_Address&1stParty
+    modality: NOT_PERFORMED
+  - practice: Location&1stParty
+    modality: NOT_PERFORMED
+  sentences:
+  - sentence_text: "We do not collect Personal Information. \u201CPersonal Information\u201D\
+      \ is information that identifies you or another person, which may be transmitted\
+      \ or received when you use an Application, the Services and/or the Site. Personal\
+      \ Information includes your geographic location information, names, physical\
+      \ addresses, email addresses, telephone, fax, SSN, information stored within\
+      \ your devices and other information you transmit or receive using an Application,\
+      \ the Service and/ or the Site which identifies you or another person."
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: NOT_PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: NOT_PERFORMED
+    - practice: Contact_Phone_Number&1stParty
+      modality: NOT_PERFORMED
+    - practice: Contact_Postal_Address&1stParty
+      modality: NOT_PERFORMED
+    - practice: Location&1stParty
+      modality: NOT_PERFORMED
+- segment_id: 3
+  segment_text: 'Non-Personal Information: We may collect Non-Personal Information
+    about users whenever they interact with our apps. Non-Personal Information may
+    include the information about your devices, including the list of installed apps
+    on your devices, and technical information about users means of connection to
+    our apps, such as the versions of phone model and other similar information. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'When do we collect information? We collect information from you when
+    you or enter information on our site. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'Or When Install our Application What do we use your information for?
+    Personal Information: Since we do not collect Personal Information, we may not
+    use your personal information in any way. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'Non- Personal Information: We may use Non-Personal Information for
+    any purpose as below: personalize user experience, improve our Mobile Apps or
+    its services, improve user service and respond to queries and emails of our users,
+    run and operate our Mobile Apps or its Services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'We do not sell, trade, or otherwise transfer to outside parties your
+    personally identifiable information. However, Non-personal information collected
+    may used only to identify potential cases of abuse. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'Third Party In general, the Applications, uses Google Admob SDK.
+    This is for collecting information for serving advertisements through out the
+    application. The Site may also carry advertisements from other companies. When
+    you click on links of third parties in an Application, the Services or the Site,
+    you may leave the Application, the Services or the Site. We do not collect your
+    information on and through and This Policy does not address, and we are not responsible
+    for, the privacy practices of Web sites operated by third parties, whether they
+    are linked to or otherwise accessible from an Application, the Services or the
+    Site. The inclusion of a link or accessibility of third party Websites does not
+    imply endorsement of such third party Website by us. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'The information that you transfer and share through the Application,
+    the Services and/or the Site may be intercepted, collected, used and disclosed
+    by third parties. We are not responsible for any interception, collection, use
+    and disclosure of your information by any third party. Please choose other ways
+    to transfer and share if you have higher security requirements. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: 'Google We use Google AdMob for Advertising on our Mobile Apps. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: 'Google''s advertising requirements can be summed up by Google''s
+    Advertising Principles. They are put in place to provide a positive experience
+    for users. Learn more about Google advertising at here. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: 'Link to privacy policy of third party service providers used by the
+    app Google Play Services AdMob Firebase Analytics Crashlytics Log Data Permissions
+    we us We use the following Permissions while using the application. All such permissions
+    are for improving the application. Please read why these permissions are required
+    in this application. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'Storage Permission:- This is for storing and deleting the files made
+    using App. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: 'Photos / Media / Files:- For saving the wallpaper, set the background
+    as wallpaper, sharing the DP images etc. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'Internet Colection:- This is for getting the files from Internet. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'Location:- This is for serving best suitable information to the user '
+  annotations:
+  - practice: Location&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: '  Location:- This is for serving best suitable information to
+      the user'
+    annotations:
+    - practice: Location&1stParty
+      modality: PERFORMED
+- segment_id: 17
+  segment_text: 'Links to Other Sites Our Mobile Apps may contain links to other sites.
+    If you click on a third-party link, you will be directed to that site. Note that
+    these external sites are not operated by us. Therefore, we strongly advise you
+    to review the Privacy Policy of these websites. We have no control over and assume
+    no responsibility for the content, privacy policies, or practices of any third-party
+    sites or services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'Information security The security of your Personal Information is
+    important to us, but remember that no method of transmission over the Internet,
+    or method of electronic storage is 100% secure. While we strive to use commercially
+    acceptable means to protect your Personal Information, we cannot guarantee its
+    absolute security. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'Changes and amendments We reserve the right to modify this privacy
+    policy relating to our Mobile Apps or its Services at any time, effective upon
+    posting of an updated version of this privacy policy on the Website. When we do
+    we will revise the updated date at the top of this page. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'Acceptance of this policy You acknowledge that you have read this
+    Policy and agree to all its terms and conditions. By using our Mobile Apps or
+    its Services you agree to be bound by this Policy. If you do not agree to abide
+    by the terms of this Policy, you are not authorized to use or access our Mobile
+    Apps or its Services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'Contacting Us If you have any questions about this Policy, please
+    email us on dannyjhon855@gmail.com Report abuse This site uses cookies from Google
+    to deliver its services and to analyze traffic. Information about your use of
+    this site is shared with Google. By using this site, you agree to its use of cookies.
+    Learn more Got it '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

@@ -1,0 +1,75 @@
+policy_id: '64'
+policy_name: netgenius.bizcal
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "Privacy Policy Last update: Jan 14th, 2020 This is the privacy policy\
+    \ of the android application Business Calendar (\u201CBusiness Calendar\u201D\
+    , \u201Cthe application\u201D, \u201Cthe app\u201D) that explains how we, Appgenix\
+    \ Software UG (\u201CAppgenix\u201D, \u201Cwe\u201D, \u201Cour\u201D or \u201C\
+    us\u201D) use, store and process the information that we collect from the end\
+    \ users (\u201Cyou\u201D) through the application and its services. We as a company\
+    \ are committed to transparency and to protecting the privacy of your personal\
+    \ data.  "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'Our privacy policy may be altered or updated in time. Should the
+    privacy policy change, we will update this page. So please check back from time
+    to time. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'Personal data When you send an email to our support team, we keep
+    the record of our communication. This includes your email, name and the conversation
+    history. This is the only personal information we collect, and it helps us develop,
+    deliver, protect and improve our products, services, content and customer communication. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'We do not share, distribute or sell this information with any other
+    third parties. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'Advertising  Business Calendar is using AddApptr, provided by AddApptr
+    GmbH (https://www.addapptr.com), to show you personalized banner advertisements
+    to help support and maintain our service.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'AddApptr is using different ad networks to present banner ads in
+    Business Calendar. The list of partners can be viewed on the consent dialog that
+    is displayed in Business Calendar after the first start and later on in Settings
+    -> Miscellaneous -> Advertisements -> Edit settings.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'The consent dialog also gives you different options to adjust your
+    ad experience, including the option to opt-out from personalized ads. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: "Contact If you have any questions, concerns or feedback regarding\
+    \ this privacy policy please contact us by email at privacy@appgenix-software.com\
+    \ or postal mail at: APPGENIX SOFTWARE UG Sch\xF6nhauser Allee 48 10437 Berlin,\
+    \ Germany "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

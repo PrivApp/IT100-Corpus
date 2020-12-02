@@ -1,0 +1,871 @@
+policy_id: '380'
+policy_name: com.ticketswap.ticketswap
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'Privacy Statement Last update: May 2019 Who are we and what do we
+    do? We are TicketSwap B.V., acting under the name TicketSwap. You can find our
+    contact information at the bottom of this Privacy Policy. TicketSwap is a safe,
+    convenient and fair place to buy and sell e-tickets for concerts, festivals, sports
+    events, theatre and days out, with a focus on fraud prevention by strict checks
+    and collaborations with organizations and partners (the Services). You can find
+    more information about us and our Services on our Website: www.ticketswap.nl (and
+    all its subdomains for other countries) (the Website) or on the mobile application
+    offered under the name TicketSwap (the App). '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'In this Privacy Policy we explain which personal data we collect
+    through our Services, Website and App. We also explain for which purposes we use
+    personal data, how we secure them and how long we store them. At the bottom of
+    this Privacy Policy we explain what rights you have with regard to your personal
+    data and how you can exercise these rights. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'Privacy and relevant legislation We care about your privacy. We comply
+    with the new General Data Protection Regulation (GDPR), which replaced the various
+    privacy laws in European Member States as of 25 May 2018 and with the Dutch Telecommunications
+    Act (Telecommunicatiewet, DTA). This legislation will be referred to hereinafter
+    as the Relevant Legislation. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: "Personal Data In this Privacy Policy the notion of \u201Cpersonal\
+    \ data\u201D is understood as all the information by which you can be, directly\
+    \ or indirectly, identified. This definition is in accordance with the Relevant\
+    \ Legislation. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: "Which personal data do we collect and for what purposes do we use\
+    \ them? We can collect various sorts of personal data of you when you use our\
+    \ Website, App and/or Services: (Personal) Data Purpose(s) General Information\
+    \ Name, date of birth, gender, city and country of residence, telephone number,\
+    \ email address and avatar\t "
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: Contact_Phone_Number&1stParty
+    modality: PERFORMED
+  - practice: Demographic_Age&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: General Information  Name, date of birth, gender, city and country
+      of residence, telephone number, email address and avata
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: Contact_Phone_Number&1stParty
+      modality: PERFORMED
+    - practice: Demographic_Age&1stParty
+      modality: PERFORMED
+- segment_id: 6
+  segment_text: 'We use your general information to contact you in the right manner;
+    your email address to send you information and updates about your transaction(s);
+    Based on your (optional) consent we may also send you information about topics
+    that might be interesting for you through a newsletter; your avatar and city and
+    country of residence to personalize your account; your telephone number to check
+    whether it is real and it belongs to you. When you sell tickets, the verification
+    of your phone number (and not the number itself) will be shown on our Websites
+    to make the selling and buying of second hand tickets safer for (potential) buyers.
+    When your ticket is sold we send a text message to your telephone number. '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_City&1stParty
+    modality: PERFORMED
+  - practice: Contact_Phone_Number&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We use your general information to contact you in the right manner;  your
+      email address to send you information and updates about your transaction(s);
+      Based on your (optional) consent we may also send you information about topics
+      that might be interesting for you through a newsletter;
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+  - sentence_text: your avatar and city and country of residence to personalize your
+      account;
+    annotations:
+    - practice: Contact_City&1stParty
+      modality: PERFORMED
+  - sentence_text: your telephone number to check whether it is real and it belongs
+      to you. When you sell tickets, the verification of your phone number (and not
+      the number itself) will be shown on our Websites to make the selling and buying
+      of second hand tickets safer for (potential) buyers. When your ticket is sold
+      we send a text message to your telephone number.
+    annotations:
+    - practice: Contact_Phone_Number&1stParty
+      modality: PERFORMED
+- segment_id: 7
+  segment_text: "Payment Information Bank account,  tokenized payment   details and\
+    \ bank account holder name We use your payment information to enable us - and\
+    \ the processors we work with \u2013 to process and record your payments.   "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'Social Media Information Facebook app specific  ID and Twitter ID
+    We use your Facebook ID, avatar, name, Facebook email address, friends and your
+    residence to (enable you to) complete your account (optional). These ''Facebook
+    data'' will be shown on our Websites and mobile apps when you sell tickets to
+    make the selling and buying of second hand tickets safer for (potential) buyers.
+    We further use Facebook IDs for marketing purposes, as described further in this
+    Privacy Policy. '
+  annotations:
+  - practice: Contact_E_Mail_Address&1stParty
+    modality: PERFORMED
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: SSO&1stParty
+    modality: PERFORMED
+  - practice: Facebook_SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Facebook app specific  ID and Twitter ID  We use your Facebook
+      ID, avatar, name, Facebook email address, friends and your residence to (enable
+      you to) complete your account (optional). '
+    annotations:
+    - practice: Contact_E_Mail_Address&1stParty
+      modality: PERFORMED
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: SSO&1stParty
+      modality: PERFORMED
+    - practice: Facebook_SSO&1stParty
+      modality: PERFORMED
+- segment_id: 9
+  segment_text: "Your Twitter ID, username, name, location, followers count, friends\
+    \ count, number of status updates, security status, verification status and account\
+    \ creation date to complete your account. There \u201CTwitter data\u201D will\
+    \ be shown on our Websites and mobile apps when you sell tickets to make the selling\
+    \ and buying of second hand tickets safer for (potential) buyers. "
+  annotations:
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: Location&1stParty
+    modality: PERFORMED
+  - practice: SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "Your Twitter ID, username, name, location, followers count, friends\
+      \ count, number of status updates, security status, verification status and\
+      \ account creation date to complete your account. There \u201CTwitter data\u201D\
+      \ will be shown on our Websites and mobile apps when you sell tickets to make\
+      \ the selling and buying of second hand tickets safer for (potential) buyers."
+    annotations:
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: Location&1stParty
+      modality: PERFORMED
+    - practice: SSO&1stParty
+      modality: PERFORMED
+- segment_id: 10
+  segment_text: 'Google Login Your Google ID, Google Mail. First Name, Last Name,
+    Location, These ''Google data'' will be shown on our Websites and mobile apps
+    when you sell tickets to make the selling and buying of second hand tickets safer
+    for (potential) buyers. We further use Google Mail and Google ID  for marketing
+    purposes, as described further in this Privacy Policy. '
+  annotations:
+  - practice: Contact_Name&1stParty
+    modality: PERFORMED
+  - practice: Location&1stParty
+    modality: PERFORMED
+  - practice: SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Google Login  Your Google ID, Google Mail. First Name, Last Name,
+      Location, These ''Google data'' will be shown on our Websites and mobile apps
+      when you sell tickets to make the selling and buying of second hand tickets
+      safer for (potential) buyers. '
+    annotations:
+    - practice: Contact_Name&1stParty
+      modality: PERFORMED
+    - practice: Location&1stParty
+      modality: PERFORMED
+    - practice: SSO&1stParty
+      modality: PERFORMED
+- segment_id: 11
+  segment_text: "Snapchat\t Your Snapchat Public profile will be used by TicketSwap\
+    \ Apps based on the user confirmation. We may use Snapchat public profile for\
+    \ some marketing purposes as described further in this privacy policy. "
+  annotations:
+  - practice: SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "Snapchat\t  Your Snapchat Public profile will be used by TicketSwap\
+      \ Apps based on the user confirmation"
+    annotations:
+    - practice: SSO&1stParty
+      modality: PERFORMED
+- segment_id: 12
+  segment_text: "Instagram\t Your Instagram Public profile will be used by TicketSwap\
+    \ Apps based on the user confirmation. We may use Instagram public profile for\
+    \ some marketing purposes as described further in this privacy policy. "
+  annotations:
+  - practice: SSO&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "Instagram\t  Your Instagram Public profile will be used by TicketSwap\
+      \ Apps based on the user confirmation"
+    annotations:
+    - practice: SSO&1stParty
+      modality: PERFORMED
+- segment_id: 13
+  segment_text: 'Electronic Identifiers IP address, cookies and  pixels We use Your
+    IP address, cookies and pixels in order to communicate with you in a language
+    you speak and to show you content that relates to the country you reside in. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  - practice: Identifier_IP_Address&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Electronic Identifiers IP address, cookies and  pixels  We use
+      Your IP address, cookies and pixels in order to communicate with you in a language
+      you speak and to show you content that relates to the country you reside in.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+    - practice: Identifier_IP_Address&1stParty
+      modality: PERFORMED
+- segment_id: 14
+  segment_text: 'Fraud Prevention Personal and technical information We use personal
+    data to prevent (users that have committed) fraud. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'Why can we process your personal data? There are several grounds
+    from the Relevant Legislation on the basis of which we are allowed or required
+    to process your personal data: Consent: For sending newsletters and direct marketing
+    through email we request your permission. This permission can also easily be withdrawn
+    through the unsubscribe link in each newsletter. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'Performance of the agreement: We process your general information,
+    payment information, social information and electronic identifiers to provide
+    our Services to you as a user. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: 'Legal obligation: We are required to store certain general information
+    and payment data in our records for Tax Authorities, such as invoice data and
+    your country of residence. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'Legitimate interest: For processing general information, payment
+    information, social information and electronic identifiers, in order to log user
+    activities to identify and prevent unlawful use of the account and Services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: 'Are under the age of sixteen? If you are younger than sixteen years,
+    you are not allowed to register your profile on our Websites or Apps. This is
+    because the law (the General Data Protection Regulation) gives us strict rules
+    on the personal data of minors. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: "How long do we keep the personal data? It is our policy to only store\
+    \ and process personal data that is essential in providing you with the best service\
+    \ possible. We do not store or process personal data we don\u2019t use. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'We keep the personal data as long as we need them for the purposes
+    stated above: Personal data in our accounting records for Tax Authorities we store
+    10 years after you have bought or sold on our Platform; Personal data we process
+    to prevent (users that have committed) fraud we store 5 years after your last
+    login. All other personal data we use within the context of your account we store
+    for 2 years after your last login. If your account is inactive we will send you
+    a notification after 2 years and remove your account and personal data if your
+    account remains inactive. We will remove your personal data if you delete your
+    account as well. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: "Do we share your personal data with others? TicketSwap does not sell,\
+    \ trade or rent personal data to third parties. We make use of \u201CData Processors\u201D\
+    \ however to assist us in our Services. Within this context these Data Processors\
+    \ receive personal data from us which they process by our order. By means of \u201C\
+    Data Processing Agreements\u201D we contractually obligate all the Data Processors\
+    \ we work with, not to process the personal data for any other purpose than as\
+    \ instructed by us. These Data Processors are required to follow our instructions\
+    \ strictly. They will, therefore, not use the personal data for their own purposes.\
+    \ We will verify that all our Data Processors comply with the Relevant Legislation. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: 'We may transfer personal data outside the EU, if one of our Data
+    Processors is established outside the EU. The personal data will only be transmitted
+    to countries and/or parties offering an adequate level of protection which meets
+    the European standards. We will check inter alia whether an organization outside
+    the EU is listed in the Privacy Shield List and whether the level of protection
+    of the third country has been approved by the European Commission. To learn more
+    about the Privacy Shield Program, see here. '
+  annotations:
+  - practice: TRANSFER&USA&Adequacy_Decision
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We may transfer personal data outside the EU, if one of our Data
+      Processors is established outside the EU
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: The personal data will only be transmitted to countries and/or
+      parties offering an adequate level of protection which meets the European standards.
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+  - sentence_text: We will check inter alia whether an organization outside the EU
+      is listed in the Privacy Shield List and whether the level of protection of
+      the third country has been approved by the European Commission.
+    annotations:
+    - practice: TRANSFER&USA&Adequacy_Decision
+      modality: PERFORMED
+- segment_id: 24
+  segment_text: "Transfer of data outside the EU will always be in accordance with\
+    \ the Relevant Legislation (such as Article 76(1) of the Dutch Data Protection\
+    \ Act \u2013 replaced as per 25 May 2018 by Chapter 5 of the GDPR). "
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: PERFORMED
+  sentences:
+  - sentence_text: "Transfer of data outside the EU will always be in accordance with\
+      \ the Relevant Legislation (such as Article 76(1) of the Dutch Data Protection\
+      \ Act \u2013 replaced as per 25 May 2018 by Chapter 5 of the GDPR"
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: PERFORMED
+- segment_id: 25
+  segment_text: 'The Data Processors we use for the processing of the personal data
+    are listed in Annex 1. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: 'We may share generic aggregated data with our business partners and
+    trusted affiliates. In such case the data will be fully anonymized. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: 'How do we protect personal data? We protect all personal data we
+    process from unauthorized and unlawful access, alteration, disclosure, use and
+    destruction. For instance, we take among other things the following technical
+    and organizational measures to protect the personal data: Security of our network
+    connections through Secure Socket Layer (SSL); The (access to) data is secured
+    with passwords and two factor authentication; All new employees are trained about
+    data privacy during onboarding; Periodic training about data privacy to all employees;
+    Restricted access to databases containing personnel information to senior employees;
+    Pre-employment background screening of all employees.   Third-party websites You
+    can find (hyper)links on our Website which link to the websites of partners, suppliers,
+    advertisers, sponsors, licensors or other third parties. We do not have control
+    of the content or links which appear on these websites and we are not responsible
+    for the practices of websites linked to or from our Website. Furthermore, these
+    websites, including their content and links, may constantly change. These websites
+    may have their own privacy policies, user terms and customer policy. Browsing
+    and interaction on any other website, including websites which are linked to or
+    from our Website, are subject to the terms and conditions and policy of such website. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: 'Cookies We use cookies on the Website to enhance your experience
+    when you use our Services. A cookie is a simple small text file that can be stored
+    on your computer, when you visit the Website. This text file identifies your browser
+    and/or computer. When you revisit our Website, the cookie ensures, for instance,
+    that our Website recognizes your browser or computer. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We use cookies on the Website to enhance your experience when you
+      use our Services.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+- segment_id: 29
+  segment_text: 'We use the following types of cookies: Technical cookies: Technical
+    cookies are essential to the operation of our Website. They allow you to navigate
+    through our Website and to use the functions incorporated in it. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'We use the following types of cookies:  Technical cookies: Technical
+      cookies are essential to the operation of our Website. They allow you to navigate
+      through our Website and to use the functions incorporated in it.'
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+- segment_id: 30
+  segment_text: 'Analytical or statistical cookies: Analytical cookies are used to
+    check the quality and effectiveness of the Website. For instance, we can see how
+    many users visit the Website and which pages are visited. We use this information
+    to improve our Website and Services. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Analytical or statistical cookies: Analytical cookies are used
+      to check the quality and effectiveness of the Website. '
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+- segment_id: 31
+  segment_text: 'Tracking cookies: Tracking-cookies monitor the click and surf behaviour
+    of our visitors. By means of these cookies we can see whether and when you look
+    at your profile and whether you click through to our Website. We may also use
+    these cookies to show you ads based on your interests. For more information about
+    cookie tracking used for advertisements customized to your interests and how you
+    can opt-out to these cookies you can use Your Online Choices or Cookiebot. '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&1stParty
+    modality: PERFORMED
+  sentences:
+  - sentence_text: By means of these cookies we can see whether and when you look
+      at your profile and whether you click through to our Website. We may also use
+      these cookies to show you ads based on your interests.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&1stParty
+      modality: PERFORMED
+- segment_id: 32
+  segment_text: 'If you do not want cookies to be sent to your computer, you can change
+    this in the cookie settings of your browser. Please note that some of the functions
+    or services of our Website may not operate, or not so well, without cookies. If
+    you want to opt-out from tracking cookies, click here: '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: 'Opt out Amendments to this Privacy Policy We aim at constantly improving
+    our Website and Services. That is why from time to time we can update this Privacy
+    Policy. If we change our Privacy Policy significantly, then we will state so on
+    our Website and App together with the reviewed Privacy Policy. We may also notify
+    before using our services that our Privacy Policy has been updated. You need to
+    agree to the updated Privacy Policy before you can continue to use our Website
+    and App. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: 'Your rights and our contact data As laid down in the Relevant Legislation,
+    you have the right to: Access a copy of the personal data we process of yours.
+    You can find a copy of the personal information we process of you here; Ask us
+    to rectify, review or remove your personal data from our systems; Object to our
+    processing of your personal data; File a complaint with your National Data Protection
+    Authority, if you believe that we process your personal data unlawfully. See here
+    a list of all National Data Protection Authorities in the European Union. Please
+    note that you can also edit or delete your personal data by logging in to your
+    personal account. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: 'If you want to exercise your aforementioned rights or when you have
+    any questions, comments or concerns regarding the manner in which we handle your
+    personal data, please contact our Data Protection Officer through the contact
+    data below. We will do our best to respond to any of the above requests within
+    30 days. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 36
+  segment_text: 'TICKETSWAP B.V., acting under the name TicketSwap Rokin 75 1012KL
+    Amsterdam The Netherlands No. Chamber of Trade and Industry: 59084952 VAT number:
+    NL8533.10488.B01 Telephone: +31 20 308 06 76 E-mail: info@ticketswap.com     The
+    Data Processors we use for the processing of personal data in order to deliver
+    our Services are listed hereunder:   Processor Purpose Location Explanation Branch
+    Marketing / Analytics California, US '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 37
+  segment_text: 'Branch provides solutions that unify user measurement across different
+    devices, platforms and channels. It fixes that by providing a holistic view of
+    various user touch points and ensuring that links take the user to the right place
+    on the website or native app. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 38
+  segment_text: 'For more information refer to the Branch Privacy Policy. Facebook
+    Marketing/Analytics California, US For Facebook we use the services of Facebook
+    Custom Audience (see Facebook Business for more information). This means that
+    the Facebook Data you shared with us, will be sent (back) to Facebook in a hashed
+    format. Facebook is contractually obliged not to use said data for any other purpose
+    than to render its audience targeting services. See here for the relevant terms. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 39
+  segment_text: "Included in the Privacy Shield list. Firebase Marketing/Analytics\
+    \ California, US Google Analytics for Firebase or Firebase Analytics is an analytics\
+    \ service provided by Google Inc. (\u201CGoogle\u201D). In order to understand\
+    \ Google's use of personal data, consult Google's partner policy. Firebase Analytics\
+    \ may share personal data with other tools provided by Firebase, such as Crash\
+    \ Reporting, Authentication, Remote Config or Notifications. This application\
+    \ uses identifiers for mobile devices (including Android Advertising ID or Advertising\
+    \ Identifier for iOS, respectively) and technologies similar to cookies to run\
+    \ the Firebase Analytics service. "
+  annotations:
+  - practice: Identifier&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  - practice: Identifier_Ad_ID&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  sentences:
+  - sentence_text: Firebase Analytics may share personal data with other tools provided
+      by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications.
+      This application uses identifiers for mobile devices (including Android Advertising
+      ID or Advertising Identifier for iOS, respectively) and technologies similar
+      to cookies to run the Firebase Analytics service
+    annotations:
+    - practice: Identifier&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+    - practice: Identifier_Ad_ID&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+- segment_id: 40
+  segment_text: "Users may opt-out of certain Firebase features through applicable\
+    \ device settings, such as the device advertising settings for mobile phones or\
+    \ by following the instructions in other Firebase related sections of this privacy\
+    \ policy, if available. Personal data collected: cookies, unique device identifiers\
+    \ for advertising (Google Advertiser ID or IDFA, for example) and usage data.\
+    \ See here for the details. Moreover; We\u2019re also using Firebase for push\
+    \ notifications. We send notifications to drive user re-engagement and retention\
+    \ to our mobile apps. "
+  annotations:
+  - practice: Identifier_Ad_ID&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Personal data collected: cookies, unique device identifiers for
+      advertising (Google Advertiser ID or IDFA, for example) and usage data.'
+    annotations:
+    - practice: Identifier_Ad_ID&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+- segment_id: 41
+  segment_text: 'Included in the Privacy Shield list. Google Adwords Marketing/Analytics
+    California, US Google AdWords is an online advertising service developed by Google
+    where advertisers pay to display brief advertising copy, product listings, and
+    video content within the Google ad network to web users (Google Display Network,
+    Google Search, YouTube etc.). These companies also use automated technologies
+    to collect information when you click on our ads, which helps track and manage
+    the effectiveness of our marketing efforts (such as: re-marketing/re-targeting
+    purposes). You may opt out of the automated collection of information by third-party
+    ad networks for the purpose of delivering advertisements tailored to your interests.
+    See here for the details and relevant terms. '
+  annotations: []
+  sentences:
+- segment_id: 42
+  segment_text: 'Google Analytics Marketing/Analytics California, US Google Analytics
+    is a web analysis service provided by Google. Google utilizes the personal data
+    collected to track and examine the use of this Application, to prepare reports
+    on its activities and share them with other Google services. Google may use the
+    personal data collected to contextualize and personalize the ads of its own advertising
+    network.  Personal data collected are cookies and usage data. See here for the
+    details. Included in the Privacy Shield list. Google Login API Marketing California,
+    US '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'Google Analytics is a web analysis service provided by Google.
+      Google utilizes the personal data collected to track and examine the use of
+      this Application, to prepare reports on its activities and share them with other
+      Google services. Google may use the personal data collected to contextualize
+      and personalize the ads of its own advertising network.   Personal data collected
+      are cookies and usage data. See here for the details. '
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+- segment_id: 43
+  segment_text: 'A Google Account is a user account that is required for access, authentication
+    and authorization to certain online Google services, including Gmail and similar
+    products. It is a public API and  service provided by Google Inc. Google utilizes
+    the personal data collected to track and examine the use of this Application,
+    to prepare reports on its activities and share them with other Google service.
+    We use Google Login API for the fast registration process. Google Optimize Marketing/Analytics
+    California, US '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 44
+  segment_text: "Google Optimize (Optimize) is an experimentation tool developed by\
+    \ Google. Optimize utilizes Google Analytics cookies to target content variants\
+    \ to a user and a content experiment cookie to determine a user\u2019s participation\
+    \ in an experiment. We are using this tool to record and track visitors involvement\
+    \ in a website experiment such as an A/B Test where half of our website users\
+    \ see one webpage, and the other half see another custom variant. These tests\
+    \ help us improve the user experience. Google Tag Manager Marketing/Analytics\
+    \ California, US "
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  sentences:
+  - sentence_text: " Optimize utilizes Google Analytics cookies to target content\
+      \ variants to a user and a content experiment cookie to determine a user\u2019\
+      s participation in an experiment. "
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+- segment_id: 45
+  segment_text: 'Google Tag Manager is a tag management system created by Google to
+    manage JavaScript and HTML tags used for tracking and analytics on websites. We
+    use this service to load scripts into our webpages. These scripts can have tracking
+    or advertising purposes which are also mentioned in this Privacy Policy. Hotjar
+    Marketing/Analytics Malta, EU '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 46
+  segment_text: 'Hotjar is a tool that reveals the online behavior and voice of our
+    users. By combining analysis and feedback tools, Hotjar gives us an idea  of how
+    to improve our platform. For more information refer to the Hotjar privacy policy.
+    Instagram Marketing California, US '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 47
+  segment_text: 'Instagram is a photo and video-sharing social networking service
+    owned by Facebook, Inc. The user can share any listing or anything on Instagram
+    based on the feature that offered in the platform. For public accounts anyone
+    on Instagram can see the user story, while for private accounts only approved
+    followers can see stories. Whenever we use the services of Instagram the Instagram
+    privacy policy applies. For further Information refer to this thread. Mailchimp
+    Mass Messaging Georgia, US '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 48
+  segment_text: 'We use Mailchimp to send promotional emails to our users. We share
+    your name and email address with Mailchimp. Whenever we use the services of Mailchimp
+    the Mailchimp privacy policy applies. Included in the Privacy Shield list. Mailgun
+    Mass Messaging California, US '
+  annotations:
+  - practice: Contact_E_Mail_Address&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Contact_Name&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We use Mailchimp to send promotional emails to our users. We share
+      your name and email address with Mailchimp. Whenever we use the services of
+      Mailchimp the Mailchimp privacy policy applies.
+    annotations:
+    - practice: Contact_E_Mail_Address&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Contact_Name&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+- segment_id: 49
+  segment_text: 'We use Mailgun to send transactional emails to our users. We share
+    different types of personal data with Mailgun depending on what kind of message
+    we send. Whenever we use the services of Mailgun the Mailgun privacy policy applies.
+    Included in the Privacy Shield list. MessageBird Mass Messaging The Netherlands,
+    EU '
+  annotations:
+  - practice: Contact_E_Mail_Address&3rdParty&Support_Development
+    modality: PERFORMED
+  sentences:
+  - sentence_text: We use Mailgun to send transactional emails to our users.
+    annotations:
+    - practice: Contact_E_Mail_Address&3rdParty&Support_Development
+      modality: PERFORMED
+- segment_id: 50
+  segment_text: 'We use MessageBird to send text messages (SMS) and emails to our
+    users. We share your phone number, email address and SMS content with MessageBird.
+    The SMS content could contain personal information to directly address you (e.g.
+    name). Whenever we use the services of MessageBird the MessageBird privacy policy
+    applies. Is established in the EU and thus needs to comply with the Relevant Legislation.
+    Mixpanel Marketing/Analytics California, US '
+  annotations:
+  - practice: Contact_E_Mail_Address&3rdParty&Support_Development
+    modality: PERFORMED
+  - practice: Contact_Phone_Number&3rdParty&Support_Development
+    modality: PERFORMED
+  sentences:
+  - sentence_text: 'We use MessageBird to send text messages (SMS) and emails to our
+      users. We share your phone number, email address and SMS content with MessageBird. '
+    annotations:
+    - practice: Contact_E_Mail_Address&3rdParty&Support_Development
+      modality: PERFORMED
+    - practice: Contact_Phone_Number&3rdParty&Support_Development
+      modality: PERFORMED
+- segment_id: 51
+  segment_text: 'Mixpanel is a business analytics service company. It tracks user
+    interactions with web and mobile applications and provides tools for targeted
+    communication with them. Its tool-set contains in-app A/B tests and user survey
+    forms. Data collected is used to build custom reports and measure user engagement
+    and retention. Ticketswap use Mixpanel  for better reporting and user analysis. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 52
+  segment_text: 'Privacy Policy of Mixpanel Mollie Payments Only for EUR payments
+    The Netherlands, EU '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 53
+    segment_text: "In performing its services, Mollie acts as a Data Processor for TicketSwap.\
+      \ As a payment services provider, Mollie however also has own obligations with\
+      \ regard to your personal data. Mollie can therefore also be regarded as a Data\
+      \ Controller with regard to your personal data. For any data processing operations\
+    \ Mollie performs as a data controller, Mollie\u2019s privacy policy applies.\
+    \ Is established in the EU and thus needs to comply with the Relevant Legislation.\
+    \ Przelewy24 (\u201CP24\u201D) Payments Only for PLN payments Poland, EU "
+  annotations: 
+  - practice: 'Data_Controller'
+  sentences:
+  - sentence_text: "In performing its services, Mollie acts as a Data Processor for TicketSwap.\
+      \ As a payment services provider, Mollie however also has own obligations with\
+      \ regard to your personal data. Mollie can therefore also be regarded as a Data\
+      \ Controller with regard to your personal data. For any data processing operations\
+    \ Mollie performs as a data controller, Mollie\u2019s privacy policy applies."
+    annotations: 
+    - practice: 'Data_Controller'
+- segment_id: 54
+  segment_text: 'In performing its services, P24 acts as a Data Processor for TicketSwap.
+    As a payment services provider, P24 however also has own obligations with regard
+    to your personal data. P24 can therefore also be regarded as a Data Controller
+    with regard to your personal data. For any data processing operations P24 performs
+    as a data controller, P24 privacy policy applies. See for more information also
+    the GDPR Information page. Is established in the EU and thus needs to comply with
+    the Relevant Legislation. Secureswap Mass Messaging The Netherlands, EU '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 55
+  segment_text: 'For our SecureSwap service we have partnered up with various ticket
+    providers. We have entered into data processing agreements with those ticket providers,
+    as to safeguard your personal data as much as possible. Refer to here for the
+    full list of partnered ticket providers and organizers. Is established in the
+    EU and thus needs to comply with the Relevant Legislation. Segment Marketing/Analytics
+    California, US '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 56
+  segment_text: 'Segment is a place to collect customer data and send it to our tools
+    for analytics (e.g. Google Analytics, Firebase) and marketing purposes (e.g. Google
+    Adwords, Facebook Pixel etc.). Essentially Segment is a company that helps us
+    process our customer data. We collect personal data and cookies to identify the
+    users and pushing data to Segment to connect with other 3rdparty products for
+    analytical and marketing purposes. See here for the details. Included in the Privacy
+    Shield list . Snapchat Marketing California, US '
+  annotations:
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+    modality: PERFORMED
+  - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+    modality: PERFORMED
+  sentences:
+  - sentence_text: ebook Pixel etc.). Essentially Segment is a company that helps
+      us process our customer data. We collect personal data and cookies to identify
+      the users and pushing data to Segment to connect with other 3rdparty products
+      for analytical and marketing purposes. See here for the details.
+    annotations:
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Advertisement_Marketing
+      modality: PERFORMED
+    - practice: Identifier_Cookie_or_similar_Tech&3rdParty&Analytics_Design_Optimization
+      modality: PERFORMED
+- segment_id: 57
+  segment_text: 'Snap Inc. is an American technology and camera company, based in
+    Santa Monica, California. We use Snapchat API to give our users a chance to share
+    their public information on Snapchat. Snapchat Privacy Policy Stripe Payments
+    California, US '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 58
+  segment_text: "In performing its services, Stripe acts as a Data Processor for TicketSwap.\
+    \ As a payment services provider, Stripe however also has its own obligations\
+    \ with regard to your personal data. Stripe can therefore also be regarded as\
+    \ a Data Controller with regard to your personal data. For any data processing\
+    \ operations Stripe performs as a data controller, Stripe\u2019s privacy policy\
+    \ applies. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 59
+  segment_text: "When processing payments or payouts we may use Stripe to process\
+    \ payments made to us and to other users. In such event your payment information\
+    \ will be transmitted to Stripe via an encrypted connection. Stripe uses and processes\
+    \ your payment information, such as bank account number in accordance with Stripe\u2019\
+    s privacy policy. We only store tokenized data in connection with the processing\
+    \ of payments (incl. last 4 digits credit card number) ourselves. Included in\
+    \ the Privacy Shield list. TransferWise Payouts United Kingdom, EU "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 60
+  segment_text: 'TransferWise processes payouts to Sellers in a selected number of
+    countries* in Central Eastern Europe. We send your bank account holder name, IBAN
+    and date of birth to TransferWise to execute the payout. Whenever you are receiving
+    payouts as a Seller in the aforementioned countries the TransferWise privacy policy
+    applies. *refer to FAQ item about payouts. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

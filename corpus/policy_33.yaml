@@ -1,0 +1,141 @@
+policy_id: '33'
+policy_name: com.dataviz.docstogo
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: 'Privacy Policy This privacy policy pertains to DataViz, Inc., 606
+    Post Road East, Westport, CT 06880. It has been amended on May 25th, 2018 to ensure
+    compliance with GDPR regulations. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'At DataViz, we have always taken your privacy very seriously. We
+    are NOT in the business of selling, renting or disclosing your personally identifiable
+    information to others. We have created this statement to describe our commitment
+    to your privacy. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: 'What Information do we gather and track? We collect your email address
+    which you provide to us when you (optionally) register your product. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'How and why do we collect this information? We collect this information
+    by asking you for it directly either by asking you to register your product or
+    by asking you to create an account with us. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'This information is only used to contact you for the following reasons:
+    Both Documents To Go and Passwords Plus Keep you informed of major new releases
+    of our products. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'Provide helpful hints and tips on how to use our products. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'Make special offers that we extend only to our registered customers. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: "For Passwords Plus only We use your email address as your account\
+    \ username so that we can store your Passwords Plus encrypted data for backup\
+    \ and sync purposes only. This data is kept encrypted at all times that it is\
+    \ on our servers and is only decrypted on the user\u2019s own device using their\
+    \ own private password. We do not store these passwords anywhere at DataViz. If\
+    \ you forget your master password, you will be unable to open your Passwords Plus\
+    \ data. There is no \u201Cforgot my password\u201D option, as the passwords are\
+    \ not stored anywhere. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'How do you keep this information safe? The information that we store
+    is kept in a secure cloud service. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: 'How long is this information kept? We keep this information indefinitely
+    or until we are asked by the customer to remove it. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: 'Is this information shared or sold? If so, with whom? NO, it is not
+    shared or sold. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: 'Do any third-parties collect personal information or have access
+    to the information you have collected? No Do you use cookies? Not at this time. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: 'How can you, our users control the data we collect? You can opt out
+    of our mailings by choosing the unsubscribe option in our emailings or on our
+    website. You can have your email address or an account removed completely by contacting
+    us. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: 'Other Privacy Policy details: Links to other sites The DataViz site
+    may contain links to other Web sites. Although we do not provide any personally
+    identifiable information to these companies, we cannot guarantee your privacy
+    once you leave the DataViz site. We are not responsible for the privacy policies,
+    practices or content of web sites with links on our site. We encourage you to
+    read the posted privacy statement whenever interacting with any web site. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: "Safe Shopping Protecting your order information is important to us\
+    \ and we make every effort to protect your online order information by using Secure\
+    \ Sockets Layer (SSL) technology. However, some firewalls and certain versions\
+    \ of browsers don\u2019t permit communication through secure servers. If you have\
+    \ any questions or feedback regarding our privacy statement, please contact us\
+    \ (see General Contact Information below) General contact information "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'DataViz, Inc.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 17
+  segment_text: '606 Post Road East Suite 317 Westport, CT 06880 USA E-mail DataViz '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []

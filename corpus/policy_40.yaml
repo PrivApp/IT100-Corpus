@@ -1,0 +1,387 @@
+policy_id: '40'
+policy_name: com.digidust.elokence.akinator.freemium
+policy_type: TRAINING
+contains_synthetic: false
+segments:
+- segment_id: 1
+  segment_text: "PRIVACY POLICY Protection of its users\u2019 personal data and privacy\
+    \ is of great importance for Elokence SAS (\u201CElokence\u201D, \u201Cwe\u201D\
+    , \u201Cus\u201D, or \u201Cour\u201D). To that purpose, Elokence commits to carry\
+    \ out processing of personal data in compliance with applicable data protection\
+    \ laws and regulations in the countries from which its users access and use the\
+    \ Akinator mobile applications (\u201CApp\u201D), including in particular the\
+    \ European General Data Protection Regulation (known as \xAB GDPR \xBB). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 2
+  segment_text: 'This Privacy Policy clarifies how we collect and process your personal
+    data in the context of your use of the App. Please read it carefully as it is
+    applicable each time you are using the App.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 3
+  segment_text: "You will find relevant information in this respect under the following\
+    \ categories: WHAT IS PERSONAL DATA? Personal data means any information relating\
+    \ to an identified or identifiable natural person (the \u201Cdata subject\u201D\
+    ). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 4
+  segment_text: 'In the context of your use of our App, you are considered as data
+    subjects. Personal data covered by this Privacy Policy are therefore all and any
+    information relating to you, to the extent that you are identified or identifiable,
+    for instance by reference to the IP address of your device or your account credentials. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 5
+  segment_text: 'Processing of personal data is subject to specific legal and regulatory
+    provisions, in particular the GDPR. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 6
+  segment_text: 'WHY DO WE COLLECT YOUR PERSONAL DATA? We only collect your personal
+    data that are necessary to pursue purposes such as ensuring you have the best
+    experience with the App, easily communicating with you, providing you with personalized
+    advertising and, in some circumstances and based on your consent, sharing your
+    personal data with our partners. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 7
+  segment_text: 'HOW IS MY PERSONAL DATA CONCERNED? We collect your personal data
+    in the following situations and for the purposes detailed hereafter: When using
+    the App Upon connecting to the App, we will collect the following personal data:
+    The IP address of your device; The model of this device; The advertising ID; The
+    device ID; The system language; The network used; The identified country; The
+    App version ; The business model of the App; The App language selected; The geolocation
+    data ; Technical data relating to your device; Personal data you might communicate
+    to us when creating a character on the App (display name, picture, description
+    of the character, language, etc.); And all relevant data related to events within
+    the App. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 8
+  segment_text: 'This data will be collected and processed for the purpose of allowing
+    correct display of the App on your device. This processing is based on its necessity
+    for performance of a contract to which you are a party, namely the Terms of service
+    of the App.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 9
+  segment_text: 'If you have consented to the use of the relevant categories of IDs
+    as described under Article 6 hereunder, we will also be able to collect data relating
+    to your use on the App, such as visited contents, through these IDs in the context
+    of such use. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 10
+  segment_text: 'This data will be collected and processed for the purpose of measuring
+    the audience of the contents of the App. This processing is based on our legitimate
+    interest in getting to know the users of our App better in order to improve the
+    App.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 11
+  segment_text: "Geolocation data may also be processed for the purpose of serving\
+    \ targeted advertising on the App. This processing is based on your consent. At\
+    \ any time, you can oppose both the activation and the operation of this collection\
+    \ by disabling it in the \u201Clocation services\u201D settings of the App on\
+    \ your device (settings might be different whether it is an Android or iOs system). "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 12
+  segment_text: "When using the \u201CLeave a message\u201D form When using the \u201C\
+    Leave a message\u201D form on the App, we will collect, through that form, the\
+    \ following data: Subject of your message; Your email address; The message you\
+    \ write in the field \u201CDescription\u201D; Any screenshot you may attach to\
+    \ your message; Data linked to your account and technical data linked to the context\
+    \ of use to help us to understand the problem you may encounter. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 13
+  segment_text: "This data will be collected and processed for the purpose of Elokence\
+    \ receiving and processing your message, and being able to answering it and fix\
+    \ any problem you may encounter described in your message. This processing is\
+    \ based on your consent, as expressed through clicking on the \u201CSend\u201D\
+    \ button of the \u201CLeave a message\u201D form. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 14
+  segment_text: "In case your message should contain personal data classified as \u201C\
+    sensitive data\u201D under the applicable data protection laws and regulations,\
+    \ for instance data relating to your health condition, you will consent explicitly,\
+    \ through clicking on the sending button of the contact form, to Elokence receiving\
+    \ and processing such data for the purpose of answering to your message. It is\
+    \ understood that Elokence does not require or encourage its users to communicate\
+    \ sensitive data through the \u201CLeave a message\u201D form. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 15
+  segment_text: 'Please note that when you purchase on the App, Elokence does not
+    collect, process or store your payments data. Payments made from our App are managed
+    by a secured service provided by a third party. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 16
+  segment_text: 'WHO IS THE DATA CONTROLLER AND CAN I GET IN TOUCH? The data controller
+    for the aforementioned processing activities is Elokence which provides the App. '
+  annotations:
+  - practice: 'Data_Controller'
+  sentences:
+  - sentence_text: 'WHO IS THE DATA CONTROLLER AND CAN I GET IN TOUCH? The data controller
+    for the aforementioned processing activities is Elokence which provides the App. '
+    annotations: 
+    - practice: 'Data_Controller'
+- segment_id: 17
+  segment_text: "Should you have any question or concern regarding this Privacy Policy,\
+    \ processing of personal data by Elokence on the App or more generally Elokence\u2019\
+    s commitments in terms of data protection and privacy, you may contact the Privacy\
+    \ Policy Administrator by sending an email via privacypolicy@elokence.com or by\
+    \ writing to Elokence.com SARL, Attention: Privacy Policy Administrator, 10 Avenue\
+    \ Gustave Eiffel, 28000 Chartres, France. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 18
+  segment_text: 'WITH WHO IS MY PERSONAL DATA SHARED? Personal data collected and
+    processed as described under Article 3 here above will be shared with the persons
+    and services within Elokence on a need-to-know basis only, namely in particular
+    our staff dedicated to technical issues and user experience studies. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 19
+  segment_text: "In some specific cases only, your personal data may be shared to\
+    \ answer to competent authorities\u2019 requests and in legal proceedings if necessary.\
+    \  "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 20
+  segment_text: 'Your personal data may also be indirectly collected by our partners
+    (google analytics, firebase, typeform and advertising partners) to the extent
+    necessary for fulfilling the purposes described under Article 3 here above. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 21
+  segment_text: 'Your personal data may also be shared with our partners in order
+    to provide you with targeted contents and advertising. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 22
+  segment_text: 'These partners may combine these data with other personal data you
+    may have provided to them or they may have collected while you used their own
+    services. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 23
+  segment_text: 'We do not transfer your personal data outside the European Union:
+    all our servers are located within the European Union and your personal data will
+    be stored within these servers. In cases where your personal data would be indirectly
+    collected by our partners and then transferred by them outside the European Union,
+    we invite you to revert to their own privacy policy to know how they secure the
+    transfers of your personal data outside the European Union. '
+  annotations:
+  - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+    modality: NOT_PERFORMED
+  sentences:
+  - sentence_text: 'We do not transfer your personal data outside the European Union:
+   all our servers are located within the European Union and your personal data will
+   be stored within these servers'
+    annotations:
+    - practice: TRANSFER&Unspecified_Country&Unspecified_Mechanism
+      modality: NOT_PERFORMED
+- segment_id: 24
+  segment_text: "HOW LONG IS MY PERSONAL DATA RETAINED?  Personal data collected and\
+    \ processed as described under Article 3 here above will be retained by Elokence\
+    \ for no longer than necessary to fulfil the purposes described under that Article\
+    \ 3. In particular, we will retain your personal data the time required to provide\
+    \ you access to the App and, if applicable, to answer to Elokence\u2019s legal\
+    \ obligations. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 25
+  segment_text: 'HOW ARE IDS AND SIMILAR TECHNOLOGIES USED? What is an ID? IDs are
+    pieces of information (mainly advertising IDs) that an application transfers to
+    an individual''s storage for record-keeping purposes. IDs make app-use easier
+    by saving use patterns while you are using the App. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 26
+  segment_text: 'How are IDs used? IDs may be used to:  Analyse your use of the App;
+    Improve contents; Customize the App''s content and layout; Improve and personalize
+    your experience on our App; Serve targeted advertising on the App. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 27
+  segment_text: 'These IDs may be emitted by Elokence and its partners. The App may
+    also use IDs and/or similar technologies for the sole (purely technical) purpose
+    of allowing you to connect and access the App. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 28
+  segment_text: 'You may object to the storage and access of the IDs on your device
+    by using the appropriate settings of your device. Please note however that IDs
+    are an important part of how our App work; therefore, we draw your attention to
+    the fact that if you choose to refuse some IDs, this may, in some cases, preclude
+    you from using, or negatively impact the display or function of, the App or certain
+    areas or features of the App. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 29
+  segment_text: 'WHAT ARE MY RIGHTS? Pursuant to the applicable data protection laws
+    and regulations, you dispose of the following rights regarding processing of your
+    personal data: right of access, right of data portability, right of correction,
+    right to erasure, right to object to processing and right to limitation to processing.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 30
+  segment_text: 'You may exercise these rights by contacting the Privacy Policy Administrator
+    at privacypolicy@elokence.com or by writing to Elokence.com SARL, Attention: Privacy
+    Policy Administrator, 10 Avenue Gustave Eiffel, 28000 Chartres, France. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 31
+  segment_text: 'These rights being purely personal, they may only be exercised by
+    the data subject themselves. Therefore, you may be asked to provide a copy of
+    a valid ID document to your request; we will only retain that copy for the time
+    necessary to verify your identify. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 32
+  segment_text: 'If that personal data has been shared with third parties, Elokence
+    will inform these third parties of your request for erasure, to the extent that
+    it is feasible. Elokence will in such case cease to process the concerned personal
+    data and retain it for the appropriate duration. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 33
+  segment_text: 'For those of the processing activities described under Article 2
+    here above based on your consent, you have a right to withdraw that consent at
+    any time, without justification. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 34
+  segment_text: 'Last, you have a right to lodge a complaint relating to the processing
+    of your personal data by Elokence with the competent supervisory authority in
+    your country. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 35
+  segment_text: 'HOW IS MY PERSONAL DATA SECURED? We take reasonable measures to protect
+    Personal Data from misuse, loss and unauthorized access and in particular we have
+    physical, electronic, and procedural safeguards in place to protect Personal Data.
+    In addition, Personal Data is stored on our servers and protected by secured networks
+    to which access is strictly limited to a few authorized employees and personnel.
+    You have however to be aware that, due to its own characteristics, the use of
+    the Internet is not 100% secured.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 36
+  segment_text: 'THIRD-PARTY WEBSITES OR APPLICATIONS You may download the App from
+    another website. In addition, our services provided through the App may contain
+    links that will let you leave our App and access another website or application.
+    Such websites or applications are not under the control of Elokence and it is
+    possible that these websites or applications have a different privacy policy than
+    ours. Our Privacy Policy applies solely to Personal Data collected by your use
+    of our App and we are not responsible for these other websites. We urge you to
+    be careful when using your Personal Data online.  '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 37
+  segment_text: 'MODIFICATION OF THIS PRIVACY POLICY This Privacy Policy was last
+    updated on September 9, 2019. Please note that we may revise it from time to time
+    and that we reserve the right to update or modify it. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 38
+  segment_text: 'We will display the revised Privacy Policy on the App, so that users
+    can always be aware of what personal data we collect and how we collect it. In
+    addition, if you registered under the registration form, you will also receive
+    an email informing you of modifications or updates of the Privacy Policy on the
+    email address associated to your user account. '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 39
+  segment_text: "(2)  \xA9 2017 Elokence.com - All rights reserved  \xD7  Akinator.com\
+    \ works mainly through advertising. If you enjoy our content, please deactivate\
+    \ your adblocker on Akinator.com. "
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
+- segment_id: 40
+  segment_text: 'For all questions relating to advertising please leave us a message
+    here Contact us '
+  annotations: []
+  sentences:
+  - sentence_text: []
+    annotations: []
